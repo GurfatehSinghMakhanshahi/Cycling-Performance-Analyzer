@@ -1,0 +1,3497 @@
+all_riders,rider_class,stage,points,stage_class
+Tadej Pogačar,All Rounder,X1,15,Flat
+Tadej Pogačar,All Rounder,X2,219,Hills
+Tadej Pogačar,All Rounder,X3,34,Flat
+Tadej Pogačar,All Rounder,X4,264,Hills
+Tadej Pogačar,All Rounder,X6,114,Hills
+Tadej Pogačar,All Rounder,X7,274,Hills
+Tadej Pogačar,All Rounder,X8,50,Flat
+Tadej Pogačar,All Rounder,X9,50,Flat
+Tadej Pogačar,All Rounder,X10,109,Hills
+Tadej Pogačar,All Rounder,X11,39,Hills
+Tadej Pogačar,All Rounder,X12,304,Mount
+Tadej Pogačar,All Rounder,X14,255,Mount
+Tadej Pogačar,All Rounder,X15,58,Hills
+Tadej Pogačar,All Rounder,X16,184,Mount
+Tadej Pogačar,All Rounder,X17,54,Flat
+Tadej Pogačar,All Rounder,X18,284,Mount
+Tadej Pogačar,All Rounder,X19,234,Mount
+Tadej Pogačar,All Rounder,X20,54,Hills
+Tadej Pogačar,All Rounder,X21,194,Flat
+Jonas Vingegaard,All Rounder,X1,13,Flat
+Jonas Vingegaard,All Rounder,X2,190,Hills
+Jonas Vingegaard,All Rounder,X3,30,Flat
+Jonas Vingegaard,All Rounder,X4,196,Hills
+Jonas Vingegaard,All Rounder,X6,85,Hills
+Jonas Vingegaard,All Rounder,X7,212,Hills
+Jonas Vingegaard,All Rounder,X8,34,Flat
+Jonas Vingegaard,All Rounder,X9,30,Flat
+Jonas Vingegaard,All Rounder,X10,94,Hills
+Jonas Vingegaard,All Rounder,X11,26,Hills
+Jonas Vingegaard,All Rounder,X12,243,Mount
+Jonas Vingegaard,All Rounder,X14,219,Mount
+Jonas Vingegaard,All Rounder,X15,43,Hills
+Jonas Vingegaard,All Rounder,X16,156,Mount
+Jonas Vingegaard,All Rounder,X17,40,Flat
+Jonas Vingegaard,All Rounder,X18,256,Mount
+Jonas Vingegaard,All Rounder,X19,251,Mount
+Jonas Vingegaard,All Rounder,X20,46,Hills
+Jonas Vingegaard,All Rounder,X21,54,Flat
+Remco Evenepoel,All Rounder,X1,0,Flat
+Remco Evenepoel,All Rounder,X2,19,Hills
+Remco Evenepoel,All Rounder,X3,8,Flat
+Remco Evenepoel,All Rounder,X4,107,Hills
+Remco Evenepoel,All Rounder,X6,62,Hills
+Remco Evenepoel,All Rounder,X7,136,Hills
+Remco Evenepoel,All Rounder,X8,26,Flat
+Remco Evenepoel,All Rounder,X9,34,Flat
+Remco Evenepoel,All Rounder,X10,57,Hills
+Remco Evenepoel,All Rounder,X11,22,Hills
+Remco Evenepoel,All Rounder,X12,121,Mount
+Remco Evenepoel,All Rounder,X14,0,Mount
+Remco Evenepoel,All Rounder,X15,0,Hills
+Remco Evenepoel,All Rounder,X16,0,Mount
+Remco Evenepoel,All Rounder,X17,0,Flat
+Remco Evenepoel,All Rounder,X18,0,Mount
+Remco Evenepoel,All Rounder,X19,0,Mount
+Remco Evenepoel,All Rounder,X20,0,Hills
+Remco Evenepoel,All Rounder,X21,0,Flat
+João Almeida,All Rounder,X1,0,Flat
+João Almeida,All Rounder,X2,41,Hills
+João Almeida,All Rounder,X3,10,Flat
+João Almeida,All Rounder,X4,137,Hills
+João Almeida,All Rounder,X6,22,Hills
+João Almeida,All Rounder,X7,20,Hills
+João Almeida,All Rounder,X8,12,Flat
+João Almeida,All Rounder,X9,12,Flat
+João Almeida,All Rounder,X10,0,Hills
+João Almeida,All Rounder,X11,0,Hills
+João Almeida,All Rounder,X12,0,Mount
+João Almeida,All Rounder,X14,0,Mount
+João Almeida,All Rounder,X15,0,Hills
+João Almeida,All Rounder,X16,0,Mount
+João Almeida,All Rounder,X17,0,Flat
+João Almeida,All Rounder,X18,0,Mount
+João Almeida,All Rounder,X19,0,Mount
+João Almeida,All Rounder,X20,0,Hills
+João Almeida,All Rounder,X21,0,Flat
+Primož Roglič,All Rounder,X1,0,Flat
+Primož Roglič,All Rounder,X2,0,Hills
+Primož Roglič,All Rounder,X3,0,Flat
+Primož Roglič,All Rounder,X4,20,Hills
+Primož Roglič,All Rounder,X6,19,Hills
+Primož Roglič,All Rounder,X7,32,Hills
+Primož Roglič,All Rounder,X8,12,Flat
+Primož Roglič,All Rounder,X9,12,Flat
+Primož Roglič,All Rounder,X10,32,Hills
+Primož Roglič,All Rounder,X11,12,Hills
+Primož Roglič,All Rounder,X12,86,Mount
+Primož Roglič,All Rounder,X14,99,Mount
+Primož Roglič,All Rounder,X15,19,Hills
+Primož Roglič,All Rounder,X16,90,Mount
+Primož Roglič,All Rounder,X17,24,Flat
+Primož Roglič,All Rounder,X18,131,Mount
+Primož Roglič,All Rounder,X19,62,Mount
+Primož Roglič,All Rounder,X20,17,Hills
+Primož Roglič,All Rounder,X21,17,Flat
+Jasper Philipsen,Sprinter,X1,272,Flat
+Jasper Philipsen,Sprinter,X2,47,Hills
+Jasper Philipsen,Sprinter,X3,10,Flat
+Jasper Philipsen,Sprinter,X4,0,Hills
+Jasper Philipsen,Sprinter,X6,0,Hills
+Jasper Philipsen,Sprinter,X7,0,Hills
+Jasper Philipsen,Sprinter,X8,0,Flat
+Jasper Philipsen,Sprinter,X9,0,Flat
+Jasper Philipsen,Sprinter,X10,0,Hills
+Jasper Philipsen,Sprinter,X11,0,Hills
+Jasper Philipsen,Sprinter,X12,0,Mount
+Jasper Philipsen,Sprinter,X14,0,Mount
+Jasper Philipsen,Sprinter,X15,0,Hills
+Jasper Philipsen,Sprinter,X16,0,Mount
+Jasper Philipsen,Sprinter,X17,0,Flat
+Jasper Philipsen,Sprinter,X18,0,Mount
+Jasper Philipsen,Sprinter,X19,0,Mount
+Jasper Philipsen,Sprinter,X20,0,Hills
+Jasper Philipsen,Sprinter,X21,0,Flat
+Jonathan Milan,Sprinter,X1,22,Flat
+Jonathan Milan,Sprinter,X2,8,Hills
+Jonathan Milan,Sprinter,X3,212,Flat
+Jonathan Milan,Sprinter,X4,18,Hills
+Jonathan Milan,Sprinter,X6,36,Hills
+Jonathan Milan,Sprinter,X7,13,Hills
+Jonathan Milan,Sprinter,X8,252,Flat
+Jonathan Milan,Sprinter,X9,204,Flat
+Jonathan Milan,Sprinter,X10,12,Hills
+Jonathan Milan,Sprinter,X11,12,Hills
+Jonathan Milan,Sprinter,X12,12,Mount
+Jonathan Milan,Sprinter,X14,32,Mount
+Jonathan Milan,Sprinter,X15,12,Hills
+Jonathan Milan,Sprinter,X16,12,Mount
+Jonathan Milan,Sprinter,X17,238,Flat
+Jonathan Milan,Sprinter,X18,32,Mount
+Jonathan Milan,Sprinter,X19,32,Mount
+Jonathan Milan,Sprinter,X20,12,Hills
+Jonathan Milan,Sprinter,X21,32,Flat
+Mattias Skjelmose,Climber,X1,0,Flat
+Mattias Skjelmose,Climber,X2,6,Hills
+Mattias Skjelmose,Climber,X3,7,Flat
+Mattias Skjelmose,Climber,X4,81,Hills
+Mattias Skjelmose,Climber,X6,13,Hills
+Mattias Skjelmose,Climber,X7,51,Hills
+Mattias Skjelmose,Climber,X8,19,Flat
+Mattias Skjelmose,Climber,X9,15,Flat
+Mattias Skjelmose,Climber,X10,6,Hills
+Mattias Skjelmose,Climber,X11,3,Hills
+Mattias Skjelmose,Climber,X12,13,Mount
+Mattias Skjelmose,Climber,X14,0,Mount
+Mattias Skjelmose,Climber,X15,0,Hills
+Mattias Skjelmose,Climber,X16,0,Mount
+Mattias Skjelmose,Climber,X17,0,Flat
+Mattias Skjelmose,Climber,X18,0,Mount
+Mattias Skjelmose,Climber,X19,0,Mount
+Mattias Skjelmose,Climber,X20,0,Hills
+Mattias Skjelmose,Climber,X21,0,Flat
+Florian Lipowitz,All Rounder,X1,0,Flat
+Florian Lipowitz,All Rounder,X2,0,Hills
+Florian Lipowitz,All Rounder,X3,0,Flat
+Florian Lipowitz,All Rounder,X4,1,Hills
+Florian Lipowitz,All Rounder,X6,37,Hills
+Florian Lipowitz,All Rounder,X7,43,Hills
+Florian Lipowitz,All Rounder,X8,13,Flat
+Florian Lipowitz,All Rounder,X9,13,Flat
+Florian Lipowitz,All Rounder,X10,63,Hills
+Florian Lipowitz,All Rounder,X11,13,Hills
+Florian Lipowitz,All Rounder,X12,198,Mount
+Florian Lipowitz,All Rounder,X14,153,Mount
+Florian Lipowitz,All Rounder,X15,25,Hills
+Florian Lipowitz,All Rounder,X16,84,Mount
+Florian Lipowitz,All Rounder,X17,28,Flat
+Florian Lipowitz,All Rounder,X18,74,Mount
+Florian Lipowitz,All Rounder,X19,179,Mount
+Florian Lipowitz,All Rounder,X20,24,Hills
+Florian Lipowitz,All Rounder,X21,24,Flat
+Matteo Jorgenson,All Rounder,X1,93,Flat
+Matteo Jorgenson,All Rounder,X2,36,Hills
+Matteo Jorgenson,All Rounder,X3,22,Flat
+Matteo Jorgenson,All Rounder,X4,110,Hills
+Matteo Jorgenson,All Rounder,X6,73,Hills
+Matteo Jorgenson,All Rounder,X7,147,Hills
+Matteo Jorgenson,All Rounder,X8,27,Flat
+Matteo Jorgenson,All Rounder,X9,24,Flat
+Matteo Jorgenson,All Rounder,X10,72,Hills
+Matteo Jorgenson,All Rounder,X11,24,Hills
+Matteo Jorgenson,All Rounder,X12,52,Mount
+Matteo Jorgenson,All Rounder,X14,14,Mount
+Matteo Jorgenson,All Rounder,X15,22,Hills
+Matteo Jorgenson,All Rounder,X16,13,Mount
+Matteo Jorgenson,All Rounder,X17,13,Flat
+Matteo Jorgenson,All Rounder,X18,78,Mount
+Matteo Jorgenson,All Rounder,X19,17,Mount
+Matteo Jorgenson,All Rounder,X20,106,Hills
+Matteo Jorgenson,All Rounder,X21,146,Flat
+Wout Van Aert,Unclassed,X1,0,Flat
+Wout Van Aert,Unclassed,X2,8,Hills
+Wout Van Aert,Unclassed,X3,6,Flat
+Wout Van Aert,Unclassed,X4,62,Hills
+Wout Van Aert,Unclassed,X6,8,Hills
+Wout Van Aert,Unclassed,X7,12,Hills
+Wout Van Aert,Unclassed,X8,188,Flat
+Wout Van Aert,Unclassed,X9,8,Flat
+Wout Van Aert,Unclassed,X10,16,Hills
+Wout Van Aert,Unclassed,X11,130,Hills
+Wout Van Aert,Unclassed,X12,16,Mount
+Wout Van Aert,Unclassed,X14,14,Mount
+Wout Van Aert,Unclassed,X15,156,Hills
+Wout Van Aert,Unclassed,X16,12,Mount
+Wout Van Aert,Unclassed,X17,12,Flat
+Wout Van Aert,Unclassed,X18,17,Mount
+Wout Van Aert,Unclassed,X19,16,Mount
+Wout Van Aert,Unclassed,X20,12,Hills
+Wout Van Aert,Unclassed,X21,232,Flat
+Simon Yates,Climber,X1,0,Flat
+Simon Yates,Climber,X2,8,Hills
+Simon Yates,Climber,X3,6,Flat
+Simon Yates,Climber,X4,12,Hills
+Simon Yates,Climber,X6,148,Hills
+Simon Yates,Climber,X7,12,Hills
+Simon Yates,Climber,X8,12,Flat
+Simon Yates,Climber,X9,8,Flat
+Simon Yates,Climber,X10,248,Hills
+Simon Yates,Climber,X11,8,Hills
+Simon Yates,Climber,X12,16,Mount
+Simon Yates,Climber,X14,30,Mount
+Simon Yates,Climber,X15,16,Hills
+Simon Yates,Climber,X16,12,Mount
+Simon Yates,Climber,X17,12,Flat
+Simon Yates,Climber,X18,37,Mount
+Simon Yates,Climber,X19,81,Mount
+Simon Yates,Climber,X20,18,Hills
+Simon Yates,Climber,X21,26,Flat
+Mathieu Van Der Poel,Unclassed,X1,18,Flat
+Mathieu Van Der Poel,Unclassed,X2,258,Hills
+Mathieu Van Der Poel,Unclassed,X3,36,Flat
+Mathieu Van Der Poel,Unclassed,X4,216,Hills
+Mathieu Van Der Poel,Unclassed,X6,154,Hills
+Mathieu Van Der Poel,Unclassed,X7,20,Hills
+Mathieu Van Der Poel,Unclassed,X8,22,Flat
+Mathieu Van Der Poel,Unclassed,X9,57,Flat
+Mathieu Van Der Poel,Unclassed,X10,2,Hills
+Mathieu Van Der Poel,Unclassed,X11,169,Hills
+Mathieu Van Der Poel,Unclassed,X12,22,Mount
+Mathieu Van Der Poel,Unclassed,X14,22,Mount
+Mathieu Van Der Poel,Unclassed,X15,26,Hills
+Mathieu Van Der Poel,Unclassed,X16,0,Mount
+Mathieu Van Der Poel,Unclassed,X17,0,Flat
+Mathieu Van Der Poel,Unclassed,X18,0,Mount
+Mathieu Van Der Poel,Unclassed,X19,0,Mount
+Mathieu Van Der Poel,Unclassed,X20,0,Hills
+Mathieu Van Der Poel,Unclassed,X21,0,Flat
+Lenny Martinez,Climber,X1,0,Flat
+Lenny Martinez,Climber,X2,0,Hills
+Lenny Martinez,Climber,X3,2,Flat
+Lenny Martinez,Climber,X4,36,Hills
+Lenny Martinez,Climber,X6,0,Hills
+Lenny Martinez,Climber,X7,0,Hills
+Lenny Martinez,Climber,X8,0,Flat
+Lenny Martinez,Climber,X9,0,Flat
+Lenny Martinez,Climber,X10,112,Hills
+Lenny Martinez,Climber,X11,12,Hills
+Lenny Martinez,Climber,X12,8,Mount
+Lenny Martinez,Climber,X14,72,Mount
+Lenny Martinez,Climber,X15,12,Hills
+Lenny Martinez,Climber,X16,10,Mount
+Lenny Martinez,Climber,X17,8,Flat
+Lenny Martinez,Climber,X18,36,Mount
+Lenny Martinez,Climber,X19,106,Mount
+Lenny Martinez,Climber,X20,6,Hills
+Lenny Martinez,Climber,X21,8,Flat
+Felix Gall,Climber,X1,0,Flat
+Felix Gall,Climber,X2,2,Hills
+Felix Gall,Climber,X3,1,Flat
+Felix Gall,Climber,X4,2,Hills
+Felix Gall,Climber,X6,23,Hills
+Felix Gall,Climber,X7,147,Hills
+Felix Gall,Climber,X8,7,Flat
+Felix Gall,Climber,X9,7,Flat
+Felix Gall,Climber,X10,28,Hills
+Felix Gall,Climber,X11,10,Hills
+Felix Gall,Climber,X12,94,Mount
+Felix Gall,Climber,X14,171,Mount
+Felix Gall,Climber,X15,14,Hills
+Felix Gall,Climber,X16,30,Mount
+Felix Gall,Climber,X17,14,Flat
+Felix Gall,Climber,X18,153,Mount
+Felix Gall,Climber,X19,132,Mount
+Felix Gall,Climber,X20,16,Hills
+Felix Gall,Climber,X21,16,Flat
+Carlos Rodríguez,Climber,X1,0,Flat
+Carlos Rodríguez,Climber,X2,0,Hills
+Carlos Rodríguez,Climber,X3,0,Flat
+Carlos Rodríguez,Climber,X4,0,Hills
+Carlos Rodríguez,Climber,X6,4,Hills
+Carlos Rodríguez,Climber,X7,31,Hills
+Carlos Rodríguez,Climber,X8,6,Flat
+Carlos Rodríguez,Climber,X9,6,Flat
+Carlos Rodríguez,Climber,X10,25,Hills
+Carlos Rodríguez,Climber,X11,9,Hills
+Carlos Rodríguez,Climber,X12,9,Mount
+Carlos Rodríguez,Climber,X14,71,Mount
+Carlos Rodríguez,Climber,X15,20,Hills
+Carlos Rodríguez,Climber,X16,36,Mount
+Carlos Rodríguez,Climber,X17,11,Flat
+Carlos Rodríguez,Climber,X18,0,Mount
+Carlos Rodríguez,Climber,X19,0,Mount
+Carlos Rodríguez,Climber,X20,0,Hills
+Carlos Rodríguez,Climber,X21,0,Flat
+Enric Mas,Climber,X1,0,Flat
+Enric Mas,Climber,X2,55,Hills
+Enric Mas,Climber,X3,15,Flat
+Enric Mas,Climber,X4,31,Hills
+Enric Mas,Climber,X6,20,Hills
+Enric Mas,Climber,X7,16,Hills
+Enric Mas,Climber,X8,8,Flat
+Enric Mas,Climber,X9,8,Flat
+Enric Mas,Climber,X10,8,Hills
+Enric Mas,Climber,X11,8,Hills
+Enric Mas,Climber,X12,6,Mount
+Enric Mas,Climber,X14,0,Mount
+Enric Mas,Climber,X15,1,Hills
+Enric Mas,Climber,X16,108,Mount
+Enric Mas,Climber,X17,3,Flat
+Enric Mas,Climber,X18,0,Mount
+Enric Mas,Climber,X19,0,Mount
+Enric Mas,Climber,X20,0,Hills
+Enric Mas,Climber,X21,0,Flat
+Tim Merlier,Sprinter,X1,0,Flat
+Tim Merlier,Sprinter,X2,5,Hills
+Tim Merlier,Sprinter,X3,226,Flat
+Tim Merlier,Sprinter,X4,6,Hills
+Tim Merlier,Sprinter,X6,4,Hills
+Tim Merlier,Sprinter,X7,4,Hills
+Tim Merlier,Sprinter,X8,21,Flat
+Tim Merlier,Sprinter,X9,234,Flat
+Tim Merlier,Sprinter,X10,6,Hills
+Tim Merlier,Sprinter,X11,4,Hills
+Tim Merlier,Sprinter,X12,4,Mount
+Tim Merlier,Sprinter,X14,2,Mount
+Tim Merlier,Sprinter,X15,2,Hills
+Tim Merlier,Sprinter,X16,12,Mount
+Tim Merlier,Sprinter,X17,5,Flat
+Tim Merlier,Sprinter,X18,2,Mount
+Tim Merlier,Sprinter,X19,1,Mount
+Tim Merlier,Sprinter,X20,3,Hills
+Tim Merlier,Sprinter,X21,0,Flat
+Adam Yates,All Rounder,X1,0,Flat
+Adam Yates,All Rounder,X2,8,Hills
+Adam Yates,All Rounder,X3,4,Flat
+Adam Yates,All Rounder,X4,14,Hills
+Adam Yates,All Rounder,X6,8,Hills
+Adam Yates,All Rounder,X7,20,Hills
+Adam Yates,All Rounder,X8,12,Flat
+Adam Yates,All Rounder,X9,12,Flat
+Adam Yates,All Rounder,X10,8,Hills
+Adam Yates,All Rounder,X11,8,Hills
+Adam Yates,All Rounder,X12,20,Mount
+Adam Yates,All Rounder,X14,47,Mount
+Adam Yates,All Rounder,X15,20,Hills
+Adam Yates,All Rounder,X16,24,Mount
+Adam Yates,All Rounder,X17,12,Flat
+Adam Yates,All Rounder,X18,99,Mount
+Adam Yates,All Rounder,X19,16,Mount
+Adam Yates,All Rounder,X20,12,Hills
+Adam Yates,All Rounder,X21,12,Flat
+Tobias Halland Johannessen,All Rounder,X1,4,Flat
+Tobias Halland Johannessen,All Rounder,X2,12,Hills
+Tobias Halland Johannessen,All Rounder,X3,13,Flat
+Tobias Halland Johannessen,All Rounder,X4,35,Hills
+Tobias Halland Johannessen,All Rounder,X6,6,Hills
+Tobias Halland Johannessen,All Rounder,X7,69,Hills
+Tobias Halland Johannessen,All Rounder,X8,9,Flat
+Tobias Halland Johannessen,All Rounder,X9,9,Flat
+Tobias Halland Johannessen,All Rounder,X10,36,Hills
+Tobias Halland Johannessen,All Rounder,X11,19,Hills
+Tobias Halland Johannessen,All Rounder,X12,168,Mount
+Tobias Halland Johannessen,All Rounder,X14,87,Mount
+Tobias Halland Johannessen,All Rounder,X15,13,Hills
+Tobias Halland Johannessen,All Rounder,X16,13,Mount
+Tobias Halland Johannessen,All Rounder,X17,13,Flat
+Tobias Halland Johannessen,All Rounder,X18,83,Mount
+Tobias Halland Johannessen,All Rounder,X19,114,Mount
+Tobias Halland Johannessen,All Rounder,X20,15,Hills
+Tobias Halland Johannessen,All Rounder,X21,21,Flat
+Kaden Groves,Sprinter,X1,18,Flat
+Kaden Groves,Sprinter,X2,18,Hills
+Kaden Groves,Sprinter,X3,117,Flat
+Kaden Groves,Sprinter,X4,12,Hills
+Kaden Groves,Sprinter,X6,12,Hills
+Kaden Groves,Sprinter,X7,0,Hills
+Kaden Groves,Sprinter,X8,160,Flat
+Kaden Groves,Sprinter,X9,60,Flat
+Kaden Groves,Sprinter,X10,0,Hills
+Kaden Groves,Sprinter,X11,52,Hills
+Kaden Groves,Sprinter,X12,0,Mount
+Kaden Groves,Sprinter,X14,0,Mount
+Kaden Groves,Sprinter,X15,2,Hills
+Kaden Groves,Sprinter,X16,0,Mount
+Kaden Groves,Sprinter,X17,4,Flat
+Kaden Groves,Sprinter,X18,0,Mount
+Kaden Groves,Sprinter,X19,0,Mount
+Kaden Groves,Sprinter,X20,244,Hills
+Kaden Groves,Sprinter,X21,50,Flat
+Santiago Buitrago,Climber,X1,0,Flat
+Santiago Buitrago,Climber,X2,39,Hills
+Santiago Buitrago,Climber,X3,7,Flat
+Santiago Buitrago,Climber,X4,4,Hills
+Santiago Buitrago,Climber,X6,23,Hills
+Santiago Buitrago,Climber,X7,0,Hills
+Santiago Buitrago,Climber,X8,0,Flat
+Santiago Buitrago,Climber,X9,0,Flat
+Santiago Buitrago,Climber,X10,0,Hills
+Santiago Buitrago,Climber,X11,0,Hills
+Santiago Buitrago,Climber,X12,0,Mount
+Santiago Buitrago,Climber,X14,0,Mount
+Santiago Buitrago,Climber,X15,25,Hills
+Santiago Buitrago,Climber,X16,180,Mount
+Santiago Buitrago,Climber,X17,0,Flat
+Santiago Buitrago,Climber,X18,12,Mount
+Santiago Buitrago,Climber,X19,0,Mount
+Santiago Buitrago,Climber,X20,0,Hills
+Santiago Buitrago,Climber,X21,2,Flat
+Romain Grégoire,Unclassed,X1,4,Flat
+Romain Grégoire,Unclassed,X2,148,Hills
+Romain Grégoire,Unclassed,X3,8,Flat
+Romain Grégoire,Unclassed,X4,124,Hills
+Romain Grégoire,Unclassed,X6,2,Hills
+Romain Grégoire,Unclassed,X7,37,Hills
+Romain Grégoire,Unclassed,X8,2,Flat
+Romain Grégoire,Unclassed,X9,2,Flat
+Romain Grégoire,Unclassed,X10,2,Hills
+Romain Grégoire,Unclassed,X11,34,Hills
+Romain Grégoire,Unclassed,X12,0,Mount
+Romain Grégoire,Unclassed,X14,0,Mount
+Romain Grégoire,Unclassed,X15,0,Hills
+Romain Grégoire,Unclassed,X16,0,Mount
+Romain Grégoire,Unclassed,X17,0,Flat
+Romain Grégoire,Unclassed,X18,0,Mount
+Romain Grégoire,Unclassed,X19,0,Mount
+Romain Grégoire,Unclassed,X20,148,Hills
+Romain Grégoire,Unclassed,X21,0,Flat
+Thymen Arensman,All Rounder,X1,0,Flat
+Thymen Arensman,All Rounder,X2,0,Hills
+Thymen Arensman,All Rounder,X3,0,Flat
+Thymen Arensman,All Rounder,X4,0,Hills
+Thymen Arensman,All Rounder,X6,0,Hills
+Thymen Arensman,All Rounder,X7,0,Hills
+Thymen Arensman,All Rounder,X8,0,Flat
+Thymen Arensman,All Rounder,X9,0,Flat
+Thymen Arensman,All Rounder,X10,204,Hills
+Thymen Arensman,All Rounder,X11,2,Hills
+Thymen Arensman,All Rounder,X12,0,Mount
+Thymen Arensman,All Rounder,X14,292,Mount
+Thymen Arensman,All Rounder,X15,11,Hills
+Thymen Arensman,All Rounder,X16,61,Mount
+Thymen Arensman,All Rounder,X17,13,Flat
+Thymen Arensman,All Rounder,X18,67,Mount
+Thymen Arensman,All Rounder,X19,263,Mount
+Thymen Arensman,All Rounder,X20,13,Hills
+Thymen Arensman,All Rounder,X21,13,Flat
+Filippo Ganna,Unclassed,X1,0,Flat
+Filippo Ganna,Unclassed,X2,0,Hills
+Filippo Ganna,Unclassed,X3,0,Flat
+Filippo Ganna,Unclassed,X4,0,Hills
+Filippo Ganna,Unclassed,X6,0,Hills
+Filippo Ganna,Unclassed,X7,0,Hills
+Filippo Ganna,Unclassed,X8,0,Flat
+Filippo Ganna,Unclassed,X9,0,Flat
+Filippo Ganna,Unclassed,X10,0,Hills
+Filippo Ganna,Unclassed,X11,0,Hills
+Filippo Ganna,Unclassed,X12,0,Mount
+Filippo Ganna,Unclassed,X14,0,Mount
+Filippo Ganna,Unclassed,X15,0,Hills
+Filippo Ganna,Unclassed,X16,0,Mount
+Filippo Ganna,Unclassed,X17,0,Flat
+Filippo Ganna,Unclassed,X18,0,Mount
+Filippo Ganna,Unclassed,X19,0,Mount
+Filippo Ganna,Unclassed,X20,0,Hills
+Filippo Ganna,Unclassed,X21,0,Flat
+Geraint Thomas,All Rounder,X1,0,Flat
+Geraint Thomas,All Rounder,X2,0,Hills
+Geraint Thomas,All Rounder,X3,0,Flat
+Geraint Thomas,All Rounder,X4,0,Hills
+Geraint Thomas,All Rounder,X6,0,Hills
+Geraint Thomas,All Rounder,X7,28,Hills
+Geraint Thomas,All Rounder,X8,0,Flat
+Geraint Thomas,All Rounder,X9,0,Flat
+Geraint Thomas,All Rounder,X10,4,Hills
+Geraint Thomas,All Rounder,X11,0,Hills
+Geraint Thomas,All Rounder,X12,0,Mount
+Geraint Thomas,All Rounder,X14,8,Mount
+Geraint Thomas,All Rounder,X15,0,Hills
+Geraint Thomas,All Rounder,X16,0,Mount
+Geraint Thomas,All Rounder,X17,0,Flat
+Geraint Thomas,All Rounder,X18,0,Mount
+Geraint Thomas,All Rounder,X19,8,Mount
+Geraint Thomas,All Rounder,X20,0,Hills
+Geraint Thomas,All Rounder,X21,0,Flat
+Biniam Girmay,Sprinter,X1,226,Flat
+Biniam Girmay,Sprinter,X2,12,Hills
+Biniam Girmay,Sprinter,X3,122,Flat
+Biniam Girmay,Sprinter,X4,13,Hills
+Biniam Girmay,Sprinter,X6,16,Hills
+Biniam Girmay,Sprinter,X7,10,Hills
+Biniam Girmay,Sprinter,X8,22,Flat
+Biniam Girmay,Sprinter,X9,124,Flat
+Biniam Girmay,Sprinter,X10,6,Hills
+Biniam Girmay,Sprinter,X11,4,Hills
+Biniam Girmay,Sprinter,X12,4,Mount
+Biniam Girmay,Sprinter,X14,16,Mount
+Biniam Girmay,Sprinter,X15,4,Hills
+Biniam Girmay,Sprinter,X16,6,Mount
+Biniam Girmay,Sprinter,X17,11,Flat
+Biniam Girmay,Sprinter,X18,22,Mount
+Biniam Girmay,Sprinter,X19,22,Mount
+Biniam Girmay,Sprinter,X20,6,Hills
+Biniam Girmay,Sprinter,X21,53,Flat
+Thibau Nys,Unclassed,X1,0,Flat
+Thibau Nys,Unclassed,X2,0,Hills
+Thibau Nys,Unclassed,X3,4,Flat
+Thibau Nys,Unclassed,X4,0,Hills
+Thibau Nys,Unclassed,X6,4,Hills
+Thibau Nys,Unclassed,X7,0,Hills
+Thibau Nys,Unclassed,X8,8,Flat
+Thibau Nys,Unclassed,X9,4,Flat
+Thibau Nys,Unclassed,X10,0,Hills
+Thibau Nys,Unclassed,X11,0,Hills
+Thibau Nys,Unclassed,X12,12,Mount
+Thibau Nys,Unclassed,X14,0,Mount
+Thibau Nys,Unclassed,X15,40,Hills
+Thibau Nys,Unclassed,X16,0,Mount
+Thibau Nys,Unclassed,X17,8,Flat
+Thibau Nys,Unclassed,X18,2,Mount
+Thibau Nys,Unclassed,X19,5,Mount
+Thibau Nys,Unclassed,X20,0,Hills
+Thibau Nys,Unclassed,X21,0,Flat
+Arnaud De Lie,Sprinter,X1,0,Flat
+Arnaud De Lie,Sprinter,X2,0,Hills
+Arnaud De Lie,Sprinter,X3,0,Flat
+Arnaud De Lie,Sprinter,X4,0,Hills
+Arnaud De Lie,Sprinter,X6,0,Hills
+Arnaud De Lie,Sprinter,X7,0,Hills
+Arnaud De Lie,Sprinter,X8,120,Flat
+Arnaud De Lie,Sprinter,X9,162,Flat
+Arnaud De Lie,Sprinter,X10,0,Hills
+Arnaud De Lie,Sprinter,X11,144,Hills
+Arnaud De Lie,Sprinter,X12,0,Mount
+Arnaud De Lie,Sprinter,X14,0,Mount
+Arnaud De Lie,Sprinter,X15,16,Hills
+Arnaud De Lie,Sprinter,X16,0,Mount
+Arnaud De Lie,Sprinter,X17,140,Flat
+Arnaud De Lie,Sprinter,X18,0,Mount
+Arnaud De Lie,Sprinter,X19,0,Mount
+Arnaud De Lie,Sprinter,X20,0,Hills
+Arnaud De Lie,Sprinter,X21,95,Flat
+Jordi Meeus,Sprinter,X1,5,Flat
+Jordi Meeus,Sprinter,X2,0,Hills
+Jordi Meeus,Sprinter,X3,0,Flat
+Jordi Meeus,Sprinter,X4,0,Hills
+Jordi Meeus,Sprinter,X6,0,Hills
+Jordi Meeus,Sprinter,X7,0,Hills
+Jordi Meeus,Sprinter,X8,0,Flat
+Jordi Meeus,Sprinter,X9,80,Flat
+Jordi Meeus,Sprinter,X10,0,Hills
+Jordi Meeus,Sprinter,X11,0,Hills
+Jordi Meeus,Sprinter,X12,2,Mount
+Jordi Meeus,Sprinter,X14,2,Mount
+Jordi Meeus,Sprinter,X15,4,Hills
+Jordi Meeus,Sprinter,X16,4,Mount
+Jordi Meeus,Sprinter,X17,184,Flat
+Jordi Meeus,Sprinter,X18,4,Mount
+Jordi Meeus,Sprinter,X19,4,Mount
+Jordi Meeus,Sprinter,X20,4,Hills
+Jordi Meeus,Sprinter,X21,4,Flat
+Aleksandr Vlasov,All Rounder,X1,0,Flat
+Aleksandr Vlasov,All Rounder,X2,0,Hills
+Aleksandr Vlasov,All Rounder,X3,0,Flat
+Aleksandr Vlasov,All Rounder,X4,0,Hills
+Aleksandr Vlasov,All Rounder,X6,0,Hills
+Aleksandr Vlasov,All Rounder,X7,0,Hills
+Aleksandr Vlasov,All Rounder,X8,0,Flat
+Aleksandr Vlasov,All Rounder,X9,0,Flat
+Aleksandr Vlasov,All Rounder,X10,0,Hills
+Aleksandr Vlasov,All Rounder,X11,0,Hills
+Aleksandr Vlasov,All Rounder,X12,2,Mount
+Aleksandr Vlasov,All Rounder,X14,22,Mount
+Aleksandr Vlasov,All Rounder,X15,114,Hills
+Aleksandr Vlasov,All Rounder,X16,4,Mount
+Aleksandr Vlasov,All Rounder,X17,8,Flat
+Aleksandr Vlasov,All Rounder,X18,4,Mount
+Aleksandr Vlasov,All Rounder,X19,4,Mount
+Aleksandr Vlasov,All Rounder,X20,4,Hills
+Aleksandr Vlasov,All Rounder,X21,4,Flat
+Dylan Groenewegen,Sprinter,X1,0,Flat
+Dylan Groenewegen,Sprinter,X2,0,Hills
+Dylan Groenewegen,Sprinter,X3,35,Flat
+Dylan Groenewegen,Sprinter,X4,0,Hills
+Dylan Groenewegen,Sprinter,X6,0,Hills
+Dylan Groenewegen,Sprinter,X7,0,Hills
+Dylan Groenewegen,Sprinter,X8,20,Flat
+Dylan Groenewegen,Sprinter,X9,25,Flat
+Dylan Groenewegen,Sprinter,X10,0,Hills
+Dylan Groenewegen,Sprinter,X11,4,Hills
+Dylan Groenewegen,Sprinter,X12,0,Mount
+Dylan Groenewegen,Sprinter,X14,0,Mount
+Dylan Groenewegen,Sprinter,X15,0,Hills
+Dylan Groenewegen,Sprinter,X16,0,Mount
+Dylan Groenewegen,Sprinter,X17,30,Flat
+Dylan Groenewegen,Sprinter,X18,8,Mount
+Dylan Groenewegen,Sprinter,X19,0,Mount
+Dylan Groenewegen,Sprinter,X20,0,Hills
+Dylan Groenewegen,Sprinter,X21,0,Flat
+Ben O'Connor,Climber,X1,0,Flat
+Ben O'Connor,Climber,X2,11,Hills
+Ben O'Connor,Climber,X3,12,Flat
+Ben O'Connor,Climber,X4,0,Hills
+Ben O'Connor,Climber,X6,0,Hills
+Ben O'Connor,Climber,X7,3,Hills
+Ben O'Connor,Climber,X8,1,Flat
+Ben O'Connor,Climber,X9,0,Flat
+Ben O'Connor,Climber,X10,163,Hills
+Ben O'Connor,Climber,X11,8,Hills
+Ben O'Connor,Climber,X12,24,Mount
+Ben O'Connor,Climber,X14,29,Mount
+Ben O'Connor,Climber,X15,9,Hills
+Ben O'Connor,Climber,X16,9,Mount
+Ben O'Connor,Climber,X17,9,Flat
+Ben O'Connor,Climber,X18,269,Mount
+Ben O'Connor,Climber,X19,53,Mount
+Ben O'Connor,Climber,X20,12,Hills
+Ben O'Connor,Climber,X21,12,Flat
+Oscar Onley,Climber,X1,0,Flat
+Oscar Onley,Climber,X2,115,Hills
+Oscar Onley,Climber,X3,8,Flat
+Oscar Onley,Climber,X4,154,Hills
+Oscar Onley,Climber,X6,45,Hills
+Oscar Onley,Climber,X7,174,Hills
+Oscar Onley,Climber,X8,14,Flat
+Oscar Onley,Climber,X9,14,Flat
+Oscar Onley,Climber,X10,44,Hills
+Oscar Onley,Climber,X11,14,Hills
+Oscar Onley,Climber,X12,145,Mount
+Oscar Onley,Climber,X14,134,Mount
+Oscar Onley,Climber,X15,18,Hills
+Oscar Onley,Climber,X16,48,Mount
+Oscar Onley,Climber,X17,20,Flat
+Oscar Onley,Climber,X18,173,Mount
+Oscar Onley,Climber,X19,148,Mount
+Oscar Onley,Climber,X20,22,Hills
+Oscar Onley,Climber,X21,18,Flat
+Sepp Kuss,Climber,X1,0,Flat
+Sepp Kuss,Climber,X2,8,Hills
+Sepp Kuss,Climber,X3,6,Flat
+Sepp Kuss,Climber,X4,12,Hills
+Sepp Kuss,Climber,X6,8,Hills
+Sepp Kuss,Climber,X7,12,Hills
+Sepp Kuss,Climber,X8,12,Flat
+Sepp Kuss,Climber,X9,8,Flat
+Sepp Kuss,Climber,X10,16,Hills
+Sepp Kuss,Climber,X11,8,Hills
+Sepp Kuss,Climber,X12,16,Mount
+Sepp Kuss,Climber,X14,25,Mount
+Sepp Kuss,Climber,X15,20,Hills
+Sepp Kuss,Climber,X16,18,Mount
+Sepp Kuss,Climber,X17,18,Flat
+Sepp Kuss,Climber,X18,83,Mount
+Sepp Kuss,Climber,X19,23,Mount
+Sepp Kuss,Climber,X20,16,Hills
+Sepp Kuss,Climber,X21,24,Flat
+Xandro Meurisse,Unclassed,X1,18,Flat
+Xandro Meurisse,Unclassed,X2,18,Hills
+Xandro Meurisse,Unclassed,X3,10,Flat
+Xandro Meurisse,Unclassed,X4,12,Hills
+Xandro Meurisse,Unclassed,X6,8,Hills
+Xandro Meurisse,Unclassed,X7,12,Hills
+Xandro Meurisse,Unclassed,X8,2,Flat
+Xandro Meurisse,Unclassed,X9,0,Flat
+Xandro Meurisse,Unclassed,X10,0,Hills
+Xandro Meurisse,Unclassed,X11,2,Hills
+Xandro Meurisse,Unclassed,X12,0,Mount
+Xandro Meurisse,Unclassed,X14,0,Mount
+Xandro Meurisse,Unclassed,X15,0,Hills
+Xandro Meurisse,Unclassed,X16,35,Mount
+Xandro Meurisse,Unclassed,X17,0,Flat
+Xandro Meurisse,Unclassed,X18,0,Mount
+Xandro Meurisse,Unclassed,X19,0,Mount
+Xandro Meurisse,Unclassed,X20,20,Hills
+Xandro Meurisse,Unclassed,X21,0,Flat
+Gianni Vermeersch,Unclassed,X1,18,Flat
+Gianni Vermeersch,Unclassed,X2,18,Hills
+Gianni Vermeersch,Unclassed,X3,10,Flat
+Gianni Vermeersch,Unclassed,X4,12,Hills
+Gianni Vermeersch,Unclassed,X6,8,Hills
+Gianni Vermeersch,Unclassed,X7,0,Hills
+Gianni Vermeersch,Unclassed,X8,2,Flat
+Gianni Vermeersch,Unclassed,X9,0,Flat
+Gianni Vermeersch,Unclassed,X10,0,Hills
+Gianni Vermeersch,Unclassed,X11,2,Hills
+Gianni Vermeersch,Unclassed,X12,0,Mount
+Gianni Vermeersch,Unclassed,X14,0,Mount
+Gianni Vermeersch,Unclassed,X15,0,Hills
+Gianni Vermeersch,Unclassed,X16,0,Mount
+Gianni Vermeersch,Unclassed,X17,0,Flat
+Gianni Vermeersch,Unclassed,X18,0,Mount
+Gianni Vermeersch,Unclassed,X19,0,Mount
+Gianni Vermeersch,Unclassed,X20,8,Hills
+Gianni Vermeersch,Unclassed,X21,0,Flat
+Emiel Verstrynge,Unclassed,X1,18,Flat
+Emiel Verstrynge,Unclassed,X2,18,Hills
+Emiel Verstrynge,Unclassed,X3,10,Flat
+Emiel Verstrynge,Unclassed,X4,12,Hills
+Emiel Verstrynge,Unclassed,X6,8,Hills
+Emiel Verstrynge,Unclassed,X7,0,Hills
+Emiel Verstrynge,Unclassed,X8,2,Flat
+Emiel Verstrynge,Unclassed,X9,0,Flat
+Emiel Verstrynge,Unclassed,X10,0,Hills
+Emiel Verstrynge,Unclassed,X11,2,Hills
+Emiel Verstrynge,Unclassed,X12,0,Mount
+Emiel Verstrynge,Unclassed,X14,0,Mount
+Emiel Verstrynge,Unclassed,X15,0,Hills
+Emiel Verstrynge,Unclassed,X16,0,Mount
+Emiel Verstrynge,Unclassed,X17,0,Flat
+Emiel Verstrynge,Unclassed,X18,0,Mount
+Emiel Verstrynge,Unclassed,X19,0,Mount
+Emiel Verstrynge,Unclassed,X20,8,Hills
+Emiel Verstrynge,Unclassed,X21,0,Flat
+Amaury Capiot,Unclassed,X1,0,Flat
+Amaury Capiot,Unclassed,X2,0,Hills
+Amaury Capiot,Unclassed,X3,70,Flat
+Amaury Capiot,Unclassed,X4,0,Hills
+Amaury Capiot,Unclassed,X6,0,Hills
+Amaury Capiot,Unclassed,X7,2,Hills
+Amaury Capiot,Unclassed,X8,2,Flat
+Amaury Capiot,Unclassed,X9,2,Flat
+Amaury Capiot,Unclassed,X10,0,Hills
+Amaury Capiot,Unclassed,X11,0,Hills
+Amaury Capiot,Unclassed,X12,2,Mount
+Amaury Capiot,Unclassed,X14,0,Mount
+Amaury Capiot,Unclassed,X15,0,Hills
+Amaury Capiot,Unclassed,X16,0,Mount
+Amaury Capiot,Unclassed,X17,0,Flat
+Amaury Capiot,Unclassed,X18,0,Mount
+Amaury Capiot,Unclassed,X19,0,Mount
+Amaury Capiot,Unclassed,X20,0,Hills
+Amaury Capiot,Unclassed,X21,0,Flat
+Ewen Costiou,Unclassed,X1,0,Flat
+Ewen Costiou,Unclassed,X2,0,Hills
+Ewen Costiou,Unclassed,X3,0,Flat
+Ewen Costiou,Unclassed,X4,0,Hills
+Ewen Costiou,Unclassed,X6,0,Hills
+Ewen Costiou,Unclassed,X7,30,Hills
+Ewen Costiou,Unclassed,X8,4,Flat
+Ewen Costiou,Unclassed,X9,4,Flat
+Ewen Costiou,Unclassed,X10,0,Hills
+Ewen Costiou,Unclassed,X11,0,Hills
+Ewen Costiou,Unclassed,X12,2,Mount
+Ewen Costiou,Unclassed,X14,5,Mount
+Ewen Costiou,Unclassed,X15,0,Hills
+Ewen Costiou,Unclassed,X16,0,Mount
+Ewen Costiou,Unclassed,X17,0,Flat
+Ewen Costiou,Unclassed,X18,0,Mount
+Ewen Costiou,Unclassed,X19,0,Mount
+Ewen Costiou,Unclassed,X20,60,Hills
+Ewen Costiou,Unclassed,X21,0,Flat
+Arnaud Démare,Sprinter,X1,0,Flat
+Arnaud Démare,Sprinter,X2,0,Hills
+Arnaud Démare,Sprinter,X3,0,Flat
+Arnaud Démare,Sprinter,X4,0,Hills
+Arnaud Démare,Sprinter,X6,0,Hills
+Arnaud Démare,Sprinter,X7,2,Hills
+Arnaud Démare,Sprinter,X8,6,Flat
+Arnaud Démare,Sprinter,X9,37,Flat
+Arnaud Démare,Sprinter,X10,0,Hills
+Arnaud Démare,Sprinter,X11,0,Hills
+Arnaud Démare,Sprinter,X12,2,Mount
+Arnaud Démare,Sprinter,X14,0,Mount
+Arnaud Démare,Sprinter,X15,0,Hills
+Arnaud Démare,Sprinter,X16,0,Mount
+Arnaud Démare,Sprinter,X17,0,Flat
+Arnaud Démare,Sprinter,X18,0,Mount
+Arnaud Démare,Sprinter,X19,0,Mount
+Arnaud Démare,Sprinter,X20,0,Hills
+Arnaud Démare,Sprinter,X21,0,Flat
+Raúl García Pierna,Unclassed,X1,0,Flat
+Raúl García Pierna,Unclassed,X2,0,Hills
+Raúl García Pierna,Unclassed,X3,0,Flat
+Raúl García Pierna,Unclassed,X4,0,Hills
+Raúl García Pierna,Unclassed,X6,0,Hills
+Raúl García Pierna,Unclassed,X7,2,Hills
+Raúl García Pierna,Unclassed,X8,2,Flat
+Raúl García Pierna,Unclassed,X9,2,Flat
+Raúl García Pierna,Unclassed,X10,20,Hills
+Raúl García Pierna,Unclassed,X11,0,Hills
+Raúl García Pierna,Unclassed,X12,42,Mount
+Raúl García Pierna,Unclassed,X14,0,Mount
+Raúl García Pierna,Unclassed,X15,0,Hills
+Raúl García Pierna,Unclassed,X16,8,Mount
+Raúl García Pierna,Unclassed,X17,0,Flat
+Raúl García Pierna,Unclassed,X18,0,Mount
+Raúl García Pierna,Unclassed,X19,0,Mount
+Raúl García Pierna,Unclassed,X20,0,Hills
+Raúl García Pierna,Unclassed,X21,0,Flat
+Cristián Rodríguez,Unclassed,X1,0,Flat
+Cristián Rodríguez,Unclassed,X2,0,Hills
+Cristián Rodríguez,Unclassed,X3,0,Flat
+Cristián Rodríguez,Unclassed,X4,0,Hills
+Cristián Rodríguez,Unclassed,X6,0,Hills
+Cristián Rodríguez,Unclassed,X7,18,Hills
+Cristián Rodríguez,Unclassed,X8,2,Flat
+Cristián Rodríguez,Unclassed,X9,2,Flat
+Cristián Rodríguez,Unclassed,X10,0,Hills
+Cristián Rodríguez,Unclassed,X11,0,Hills
+Cristián Rodríguez,Unclassed,X12,64,Mount
+Cristián Rodríguez,Unclassed,X14,3,Mount
+Cristián Rodríguez,Unclassed,X15,3,Hills
+Cristián Rodríguez,Unclassed,X16,4,Mount
+Cristián Rodríguez,Unclassed,X17,4,Flat
+Cristián Rodríguez,Unclassed,X18,0,Mount
+Cristián Rodríguez,Unclassed,X19,0,Mount
+Cristián Rodríguez,Unclassed,X20,1,Hills
+Cristián Rodríguez,Unclassed,X21,1,Flat
+Kévin Vauquelin,All Rounder,X1,25,Flat
+Kévin Vauquelin,All Rounder,X2,100,Hills
+Kévin Vauquelin,All Rounder,X3,20,Flat
+Kévin Vauquelin,All Rounder,X4,77,Hills
+Kévin Vauquelin,All Rounder,X6,48,Hills
+Kévin Vauquelin,All Rounder,X7,117,Hills
+Kévin Vauquelin,All Rounder,X8,22,Flat
+Kévin Vauquelin,All Rounder,X9,22,Flat
+Kévin Vauquelin,All Rounder,X10,15,Hills
+Kévin Vauquelin,All Rounder,X11,15,Hills
+Kévin Vauquelin,All Rounder,X12,134,Mount
+Kévin Vauquelin,All Rounder,X14,76,Mount
+Kévin Vauquelin,All Rounder,X15,16,Hills
+Kévin Vauquelin,All Rounder,X16,19,Mount
+Kévin Vauquelin,All Rounder,X17,15,Flat
+Kévin Vauquelin,All Rounder,X18,54,Mount
+Kévin Vauquelin,All Rounder,X19,30,Mount
+Kévin Vauquelin,All Rounder,X20,14,Hills
+Kévin Vauquelin,All Rounder,X21,94,Flat
+Clément Venturini,Unclassed,X1,0,Flat
+Clément Venturini,Unclassed,X2,0,Hills
+Clément Venturini,Unclassed,X3,0,Flat
+Clément Venturini,Unclassed,X4,0,Hills
+Clément Venturini,Unclassed,X6,0,Hills
+Clément Venturini,Unclassed,X7,2,Hills
+Clément Venturini,Unclassed,X8,2,Flat
+Clément Venturini,Unclassed,X9,2,Flat
+Clément Venturini,Unclassed,X10,0,Hills
+Clément Venturini,Unclassed,X11,0,Hills
+Clément Venturini,Unclassed,X12,2,Mount
+Clément Venturini,Unclassed,X14,0,Mount
+Clément Venturini,Unclassed,X15,0,Hills
+Clément Venturini,Unclassed,X16,0,Mount
+Clément Venturini,Unclassed,X17,12,Flat
+Clément Venturini,Unclassed,X18,0,Mount
+Clément Venturini,Unclassed,X19,0,Mount
+Clément Venturini,Unclassed,X20,0,Hills
+Clément Venturini,Unclassed,X21,0,Flat
+Phil Bauhaus,Sprinter,X1,0,Flat
+Phil Bauhaus,Sprinter,X2,0,Hills
+Phil Bauhaus,Sprinter,X3,160,Flat
+Phil Bauhaus,Sprinter,X4,0,Hills
+Phil Bauhaus,Sprinter,X6,0,Hills
+Phil Bauhaus,Sprinter,X7,0,Hills
+Phil Bauhaus,Sprinter,X8,40,Flat
+Phil Bauhaus,Sprinter,X9,95,Flat
+Phil Bauhaus,Sprinter,X10,0,Hills
+Phil Bauhaus,Sprinter,X11,0,Hills
+Phil Bauhaus,Sprinter,X12,0,Mount
+Phil Bauhaus,Sprinter,X14,0,Mount
+Phil Bauhaus,Sprinter,X15,0,Hills
+Phil Bauhaus,Sprinter,X16,2,Mount
+Phil Bauhaus,Sprinter,X17,40,Flat
+Phil Bauhaus,Sprinter,X18,0,Mount
+Phil Bauhaus,Sprinter,X19,0,Mount
+Phil Bauhaus,Sprinter,X20,0,Hills
+Phil Bauhaus,Sprinter,X21,2,Flat
+Jack Haig,Unclassed,X1,0,Flat
+Jack Haig,Unclassed,X2,0,Hills
+Jack Haig,Unclassed,X3,2,Flat
+Jack Haig,Unclassed,X4,0,Hills
+Jack Haig,Unclassed,X6,1,Hills
+Jack Haig,Unclassed,X7,0,Hills
+Jack Haig,Unclassed,X8,0,Flat
+Jack Haig,Unclassed,X9,0,Flat
+Jack Haig,Unclassed,X10,0,Hills
+Jack Haig,Unclassed,X11,0,Hills
+Jack Haig,Unclassed,X12,0,Mount
+Jack Haig,Unclassed,X14,0,Mount
+Jack Haig,Unclassed,X15,0,Hills
+Jack Haig,Unclassed,X16,0,Mount
+Jack Haig,Unclassed,X17,0,Flat
+Jack Haig,Unclassed,X18,0,Mount
+Jack Haig,Unclassed,X19,0,Mount
+Jack Haig,Unclassed,X20,0,Hills
+Jack Haig,Unclassed,X21,0,Flat
+Matej Mohorič,Unclassed,X1,0,Flat
+Matej Mohorič,Unclassed,X2,0,Hills
+Matej Mohorič,Unclassed,X3,2,Flat
+Matej Mohorič,Unclassed,X4,0,Hills
+Matej Mohorič,Unclassed,X6,0,Hills
+Matej Mohorič,Unclassed,X7,0,Hills
+Matej Mohorič,Unclassed,X8,0,Flat
+Matej Mohorič,Unclassed,X9,0,Flat
+Matej Mohorič,Unclassed,X10,0,Hills
+Matej Mohorič,Unclassed,X11,0,Hills
+Matej Mohorič,Unclassed,X12,0,Mount
+Matej Mohorič,Unclassed,X14,0,Mount
+Matej Mohorič,Unclassed,X15,26,Hills
+Matej Mohorič,Unclassed,X16,2,Mount
+Matej Mohorič,Unclassed,X17,0,Flat
+Matej Mohorič,Unclassed,X18,0,Mount
+Matej Mohorič,Unclassed,X19,0,Mount
+Matej Mohorič,Unclassed,X20,0,Hills
+Matej Mohorič,Unclassed,X21,160,Flat
+Fred Wright,Unclassed,X1,0,Flat
+Fred Wright,Unclassed,X2,0,Hills
+Fred Wright,Unclassed,X3,2,Flat
+Fred Wright,Unclassed,X4,0,Hills
+Fred Wright,Unclassed,X6,0,Hills
+Fred Wright,Unclassed,X7,0,Hills
+Fred Wright,Unclassed,X8,0,Flat
+Fred Wright,Unclassed,X9,0,Flat
+Fred Wright,Unclassed,X10,0,Hills
+Fred Wright,Unclassed,X11,123,Hills
+Fred Wright,Unclassed,X12,0,Mount
+Fred Wright,Unclassed,X14,0,Mount
+Fred Wright,Unclassed,X15,0,Hills
+Fred Wright,Unclassed,X16,6,Mount
+Fred Wright,Unclassed,X17,0,Flat
+Fred Wright,Unclassed,X18,0,Mount
+Fred Wright,Unclassed,X19,0,Mount
+Fred Wright,Unclassed,X20,0,Hills
+Fred Wright,Unclassed,X21,2,Flat
+Alex Aranburu,Sprinter,X1,0,Flat
+Alex Aranburu,Sprinter,X2,0,Hills
+Alex Aranburu,Sprinter,X3,0,Flat
+Alex Aranburu,Sprinter,X4,0,Hills
+Alex Aranburu,Sprinter,X6,0,Hills
+Alex Aranburu,Sprinter,X7,0,Hills
+Alex Aranburu,Sprinter,X8,0,Flat
+Alex Aranburu,Sprinter,X9,0,Flat
+Alex Aranburu,Sprinter,X10,0,Hills
+Alex Aranburu,Sprinter,X11,8,Hills
+Alex Aranburu,Sprinter,X12,0,Mount
+Alex Aranburu,Sprinter,X14,0,Mount
+Alex Aranburu,Sprinter,X15,0,Hills
+Alex Aranburu,Sprinter,X16,20,Mount
+Alex Aranburu,Sprinter,X17,0,Flat
+Alex Aranburu,Sprinter,X18,0,Mount
+Alex Aranburu,Sprinter,X19,0,Mount
+Alex Aranburu,Sprinter,X20,0,Hills
+Alex Aranburu,Sprinter,X21,30,Flat
+Emanuel Buchmann,Unclassed,X1,0,Flat
+Emanuel Buchmann,Unclassed,X2,11,Hills
+Emanuel Buchmann,Unclassed,X3,11,Flat
+Emanuel Buchmann,Unclassed,X4,0,Hills
+Emanuel Buchmann,Unclassed,X6,0,Hills
+Emanuel Buchmann,Unclassed,X7,0,Hills
+Emanuel Buchmann,Unclassed,X8,0,Flat
+Emanuel Buchmann,Unclassed,X9,1,Flat
+Emanuel Buchmann,Unclassed,X10,1,Hills
+Emanuel Buchmann,Unclassed,X11,1,Hills
+Emanuel Buchmann,Unclassed,X12,1,Mount
+Emanuel Buchmann,Unclassed,X14,0,Mount
+Emanuel Buchmann,Unclassed,X15,0,Hills
+Emanuel Buchmann,Unclassed,X16,0,Mount
+Emanuel Buchmann,Unclassed,X17,0,Flat
+Emanuel Buchmann,Unclassed,X18,1,Mount
+Emanuel Buchmann,Unclassed,X19,0,Mount
+Emanuel Buchmann,Unclassed,X20,0,Hills
+Emanuel Buchmann,Unclassed,X21,0,Flat
+Bryan Coquard,Sprinter,X1,16,Flat
+Bryan Coquard,Sprinter,X2,1,Hills
+Bryan Coquard,Sprinter,X3,0,Flat
+Bryan Coquard,Sprinter,X4,0,Hills
+Bryan Coquard,Sprinter,X6,0,Hills
+Bryan Coquard,Sprinter,X7,0,Hills
+Bryan Coquard,Sprinter,X8,100,Flat
+Bryan Coquard,Sprinter,X9,3,Flat
+Bryan Coquard,Sprinter,X10,0,Hills
+Bryan Coquard,Sprinter,X11,0,Hills
+Bryan Coquard,Sprinter,X12,0,Mount
+Bryan Coquard,Sprinter,X14,0,Mount
+Bryan Coquard,Sprinter,X15,0,Hills
+Bryan Coquard,Sprinter,X16,0,Mount
+Bryan Coquard,Sprinter,X17,0,Flat
+Bryan Coquard,Sprinter,X18,0,Mount
+Bryan Coquard,Sprinter,X19,0,Mount
+Bryan Coquard,Sprinter,X20,0,Hills
+Bryan Coquard,Sprinter,X21,0,Flat
+Ion Izagirre,Unclassed,X1,0,Flat
+Ion Izagirre,Unclassed,X2,0,Hills
+Ion Izagirre,Unclassed,X3,0,Flat
+Ion Izagirre,Unclassed,X4,0,Hills
+Ion Izagirre,Unclassed,X6,0,Hills
+Ion Izagirre,Unclassed,X7,0,Hills
+Ion Izagirre,Unclassed,X8,0,Flat
+Ion Izagirre,Unclassed,X9,0,Flat
+Ion Izagirre,Unclassed,X10,0,Hills
+Ion Izagirre,Unclassed,X11,0,Hills
+Ion Izagirre,Unclassed,X12,0,Mount
+Ion Izagirre,Unclassed,X14,0,Mount
+Ion Izagirre,Unclassed,X15,0,Hills
+Ion Izagirre,Unclassed,X16,0,Mount
+Ion Izagirre,Unclassed,X17,0,Flat
+Ion Izagirre,Unclassed,X18,0,Mount
+Ion Izagirre,Unclassed,X19,0,Mount
+Ion Izagirre,Unclassed,X20,0,Hills
+Ion Izagirre,Unclassed,X21,0,Flat
+Alexis Renard,Sprinter,X1,0,Flat
+Alexis Renard,Sprinter,X2,0,Hills
+Alexis Renard,Sprinter,X3,0,Flat
+Alexis Renard,Sprinter,X4,0,Hills
+Alexis Renard,Sprinter,X6,0,Hills
+Alexis Renard,Sprinter,X7,0,Hills
+Alexis Renard,Sprinter,X8,0,Flat
+Alexis Renard,Sprinter,X9,50,Flat
+Alexis Renard,Sprinter,X10,0,Hills
+Alexis Renard,Sprinter,X11,0,Hills
+Alexis Renard,Sprinter,X12,0,Mount
+Alexis Renard,Sprinter,X14,0,Mount
+Alexis Renard,Sprinter,X15,0,Hills
+Alexis Renard,Sprinter,X16,0,Mount
+Alexis Renard,Sprinter,X17,20,Flat
+Alexis Renard,Sprinter,X18,0,Mount
+Alexis Renard,Sprinter,X19,0,Mount
+Alexis Renard,Sprinter,X20,0,Hills
+Alexis Renard,Sprinter,X21,0,Flat
+Dylan Teuns,Unclassed,X1,0,Flat
+Dylan Teuns,Unclassed,X2,0,Hills
+Dylan Teuns,Unclassed,X3,0,Flat
+Dylan Teuns,Unclassed,X4,0,Hills
+Dylan Teuns,Unclassed,X6,0,Hills
+Dylan Teuns,Unclassed,X7,0,Hills
+Dylan Teuns,Unclassed,X8,0,Flat
+Dylan Teuns,Unclassed,X9,0,Flat
+Dylan Teuns,Unclassed,X10,0,Hills
+Dylan Teuns,Unclassed,X11,0,Hills
+Dylan Teuns,Unclassed,X12,0,Mount
+Dylan Teuns,Unclassed,X14,0,Mount
+Dylan Teuns,Unclassed,X15,0,Hills
+Dylan Teuns,Unclassed,X16,0,Mount
+Dylan Teuns,Unclassed,X17,0,Flat
+Dylan Teuns,Unclassed,X18,0,Mount
+Dylan Teuns,Unclassed,X19,0,Mount
+Dylan Teuns,Unclassed,X20,0,Hills
+Dylan Teuns,Unclassed,X21,60,Flat
+Benjamin Thomas,Unclassed,X1,32,Flat
+Benjamin Thomas,Unclassed,X2,6,Hills
+Benjamin Thomas,Unclassed,X3,6,Flat
+Benjamin Thomas,Unclassed,X4,2,Hills
+Benjamin Thomas,Unclassed,X6,0,Hills
+Benjamin Thomas,Unclassed,X7,0,Hills
+Benjamin Thomas,Unclassed,X8,0,Flat
+Benjamin Thomas,Unclassed,X9,0,Flat
+Benjamin Thomas,Unclassed,X10,0,Hills
+Benjamin Thomas,Unclassed,X11,0,Hills
+Benjamin Thomas,Unclassed,X12,0,Mount
+Benjamin Thomas,Unclassed,X14,0,Mount
+Benjamin Thomas,Unclassed,X15,0,Hills
+Benjamin Thomas,Unclassed,X16,0,Mount
+Benjamin Thomas,Unclassed,X17,0,Flat
+Benjamin Thomas,Unclassed,X18,0,Mount
+Benjamin Thomas,Unclassed,X19,0,Mount
+Benjamin Thomas,Unclassed,X20,0,Hills
+Benjamin Thomas,Unclassed,X21,0,Flat
+Bruno Armirail,Unclassed,X1,0,Flat
+Bruno Armirail,Unclassed,X2,28,Hills
+Bruno Armirail,Unclassed,X3,0,Flat
+Bruno Armirail,Unclassed,X4,0,Hills
+Bruno Armirail,Unclassed,X6,0,Hills
+Bruno Armirail,Unclassed,X7,0,Hills
+Bruno Armirail,Unclassed,X8,0,Flat
+Bruno Armirail,Unclassed,X9,0,Flat
+Bruno Armirail,Unclassed,X10,18,Hills
+Bruno Armirail,Unclassed,X11,0,Hills
+Bruno Armirail,Unclassed,X12,23,Mount
+Bruno Armirail,Unclassed,X14,2,Mount
+Bruno Armirail,Unclassed,X15,0,Hills
+Bruno Armirail,Unclassed,X16,0,Mount
+Bruno Armirail,Unclassed,X17,0,Flat
+Bruno Armirail,Unclassed,X18,10,Mount
+Bruno Armirail,Unclassed,X19,4,Mount
+Bruno Armirail,Unclassed,X20,0,Hills
+Bruno Armirail,Unclassed,X21,0,Flat
+Clément Berthet,Unclassed,X1,0,Flat
+Clément Berthet,Unclassed,X2,0,Hills
+Clément Berthet,Unclassed,X3,0,Flat
+Clément Berthet,Unclassed,X4,0,Hills
+Clément Berthet,Unclassed,X6,0,Hills
+Clément Berthet,Unclassed,X7,0,Hills
+Clément Berthet,Unclassed,X8,0,Flat
+Clément Berthet,Unclassed,X9,0,Flat
+Clément Berthet,Unclassed,X10,2,Hills
+Clément Berthet,Unclassed,X11,0,Hills
+Clément Berthet,Unclassed,X12,0,Mount
+Clément Berthet,Unclassed,X14,2,Mount
+Clément Berthet,Unclassed,X15,0,Hills
+Clément Berthet,Unclassed,X16,0,Mount
+Clément Berthet,Unclassed,X17,0,Flat
+Clément Berthet,Unclassed,X18,0,Mount
+Clément Berthet,Unclassed,X19,12,Mount
+Clément Berthet,Unclassed,X20,0,Hills
+Clément Berthet,Unclassed,X21,0,Flat
+Stefan Bissegger,Unclassed,X1,0,Flat
+Stefan Bissegger,Unclassed,X2,0,Hills
+Stefan Bissegger,Unclassed,X3,0,Flat
+Stefan Bissegger,Unclassed,X4,0,Hills
+Stefan Bissegger,Unclassed,X6,0,Hills
+Stefan Bissegger,Unclassed,X7,0,Hills
+Stefan Bissegger,Unclassed,X8,0,Flat
+Stefan Bissegger,Unclassed,X9,0,Flat
+Stefan Bissegger,Unclassed,X10,0,Hills
+Stefan Bissegger,Unclassed,X11,0,Hills
+Stefan Bissegger,Unclassed,X12,0,Mount
+Stefan Bissegger,Unclassed,X14,0,Mount
+Stefan Bissegger,Unclassed,X15,0,Hills
+Stefan Bissegger,Unclassed,X16,0,Mount
+Stefan Bissegger,Unclassed,X17,0,Flat
+Stefan Bissegger,Unclassed,X18,0,Mount
+Stefan Bissegger,Unclassed,X19,0,Mount
+Stefan Bissegger,Unclassed,X20,0,Hills
+Stefan Bissegger,Unclassed,X21,0,Flat
+Aurélien Paret-Peintre,Climber,X1,0,Flat
+Aurélien Paret-Peintre,Climber,X2,104,Hills
+Aurélien Paret-Peintre,Climber,X3,10,Flat
+Aurélien Paret-Peintre,Climber,X4,49,Hills
+Aurélien Paret-Peintre,Climber,X6,5,Hills
+Aurélien Paret-Peintre,Climber,X7,4,Hills
+Aurélien Paret-Peintre,Climber,X8,4,Flat
+Aurélien Paret-Peintre,Climber,X9,4,Flat
+Aurélien Paret-Peintre,Climber,X10,2,Hills
+Aurélien Paret-Peintre,Climber,X11,0,Hills
+Aurélien Paret-Peintre,Climber,X12,4,Mount
+Aurélien Paret-Peintre,Climber,X14,2,Mount
+Aurélien Paret-Peintre,Climber,X15,0,Hills
+Aurélien Paret-Peintre,Climber,X16,0,Mount
+Aurélien Paret-Peintre,Climber,X17,0,Flat
+Aurélien Paret-Peintre,Climber,X18,0,Mount
+Aurélien Paret-Peintre,Climber,X19,35,Mount
+Aurélien Paret-Peintre,Climber,X20,0,Hills
+Aurélien Paret-Peintre,Climber,X21,0,Flat
+Bastien Tronchon,Unclassed,X1,0,Flat
+Bastien Tronchon,Unclassed,X2,0,Hills
+Bastien Tronchon,Unclassed,X3,40,Flat
+Bastien Tronchon,Unclassed,X4,0,Hills
+Bastien Tronchon,Unclassed,X6,1,Hills
+Bastien Tronchon,Unclassed,X7,0,Hills
+Bastien Tronchon,Unclassed,X8,30,Flat
+Bastien Tronchon,Unclassed,X9,16,Flat
+Bastien Tronchon,Unclassed,X10,2,Hills
+Bastien Tronchon,Unclassed,X11,0,Hills
+Bastien Tronchon,Unclassed,X12,0,Mount
+Bastien Tronchon,Unclassed,X14,2,Mount
+Bastien Tronchon,Unclassed,X15,0,Hills
+Bastien Tronchon,Unclassed,X16,0,Mount
+Bastien Tronchon,Unclassed,X17,0,Flat
+Bastien Tronchon,Unclassed,X18,0,Mount
+Bastien Tronchon,Unclassed,X19,0,Mount
+Bastien Tronchon,Unclassed,X20,0,Hills
+Bastien Tronchon,Unclassed,X21,0,Flat
+Vincenzo Albanese,Sprinter,X1,0,Flat
+Vincenzo Albanese,Sprinter,X2,0,Hills
+Vincenzo Albanese,Sprinter,X3,0,Flat
+Vincenzo Albanese,Sprinter,X4,0,Hills
+Vincenzo Albanese,Sprinter,X6,8,Hills
+Vincenzo Albanese,Sprinter,X7,0,Hills
+Vincenzo Albanese,Sprinter,X8,70,Flat
+Vincenzo Albanese,Sprinter,X9,0,Flat
+Vincenzo Albanese,Sprinter,X10,10,Hills
+Vincenzo Albanese,Sprinter,X11,8,Hills
+Vincenzo Albanese,Sprinter,X12,0,Mount
+Vincenzo Albanese,Sprinter,X14,0,Mount
+Vincenzo Albanese,Sprinter,X15,0,Hills
+Vincenzo Albanese,Sprinter,X16,4,Mount
+Vincenzo Albanese,Sprinter,X17,32,Flat
+Vincenzo Albanese,Sprinter,X18,0,Mount
+Vincenzo Albanese,Sprinter,X19,0,Mount
+Vincenzo Albanese,Sprinter,X20,0,Hills
+Vincenzo Albanese,Sprinter,X21,0,Flat
+Kasper Asgreen,Unclassed,X1,0,Flat
+Kasper Asgreen,Unclassed,X2,0,Hills
+Kasper Asgreen,Unclassed,X3,8,Flat
+Kasper Asgreen,Unclassed,X4,36,Hills
+Kasper Asgreen,Unclassed,X6,8,Hills
+Kasper Asgreen,Unclassed,X7,0,Hills
+Kasper Asgreen,Unclassed,X8,0,Flat
+Kasper Asgreen,Unclassed,X9,0,Flat
+Kasper Asgreen,Unclassed,X10,10,Hills
+Kasper Asgreen,Unclassed,X11,8,Hills
+Kasper Asgreen,Unclassed,X12,0,Mount
+Kasper Asgreen,Unclassed,X14,0,Mount
+Kasper Asgreen,Unclassed,X15,0,Hills
+Kasper Asgreen,Unclassed,X16,4,Mount
+Kasper Asgreen,Unclassed,X17,0,Flat
+Kasper Asgreen,Unclassed,X18,0,Mount
+Kasper Asgreen,Unclassed,X19,0,Mount
+Kasper Asgreen,Unclassed,X20,0,Hills
+Kasper Asgreen,Unclassed,X21,0,Flat
+Alex Baudin,Unclassed,X1,0,Flat
+Alex Baudin,Unclassed,X2,0,Hills
+Alex Baudin,Unclassed,X3,0,Flat
+Alex Baudin,Unclassed,X4,35,Hills
+Alex Baudin,Unclassed,X6,8,Hills
+Alex Baudin,Unclassed,X7,32,Hills
+Alex Baudin,Unclassed,X8,0,Flat
+Alex Baudin,Unclassed,X9,0,Flat
+Alex Baudin,Unclassed,X10,31,Hills
+Alex Baudin,Unclassed,X11,8,Hills
+Alex Baudin,Unclassed,X12,0,Mount
+Alex Baudin,Unclassed,X14,0,Mount
+Alex Baudin,Unclassed,X15,0,Hills
+Alex Baudin,Unclassed,X16,4,Mount
+Alex Baudin,Unclassed,X17,0,Flat
+Alex Baudin,Unclassed,X18,0,Mount
+Alex Baudin,Unclassed,X19,0,Mount
+Alex Baudin,Unclassed,X20,0,Hills
+Alex Baudin,Unclassed,X21,0,Flat
+Ben Healy,Climber,X1,0,Flat
+Ben Healy,Climber,X2,0,Hills
+Ben Healy,Climber,X3,0,Flat
+Ben Healy,Climber,X4,0,Hills
+Ben Healy,Climber,X6,264,Hills
+Ben Healy,Climber,X7,16,Hills
+Ben Healy,Climber,X8,16,Flat
+Ben Healy,Climber,X9,16,Flat
+Ben Healy,Climber,X10,218,Hills
+Ben Healy,Climber,X11,38,Hills
+Ben Healy,Climber,X12,12,Mount
+Ben Healy,Climber,X14,111,Mount
+Ben Healy,Climber,X15,11,Hills
+Ben Healy,Climber,X16,217,Mount
+Ben Healy,Climber,X17,12,Flat
+Ben Healy,Climber,X18,28,Mount
+Ben Healy,Climber,X19,94,Mount
+Ben Healy,Climber,X20,12,Hills
+Ben Healy,Climber,X21,12,Flat
+Neilson Powless,Unclassed,X1,0,Flat
+Neilson Powless,Unclassed,X2,18,Hills
+Neilson Powless,Unclassed,X3,9,Flat
+Neilson Powless,Unclassed,X4,0,Hills
+Neilson Powless,Unclassed,X6,8,Hills
+Neilson Powless,Unclassed,X7,0,Hills
+Neilson Powless,Unclassed,X8,1,Flat
+Neilson Powless,Unclassed,X9,0,Flat
+Neilson Powless,Unclassed,X10,10,Hills
+Neilson Powless,Unclassed,X11,8,Hills
+Neilson Powless,Unclassed,X12,0,Mount
+Neilson Powless,Unclassed,X14,0,Mount
+Neilson Powless,Unclassed,X15,40,Hills
+Neilson Powless,Unclassed,X16,4,Mount
+Neilson Powless,Unclassed,X17,0,Flat
+Neilson Powless,Unclassed,X18,0,Mount
+Neilson Powless,Unclassed,X19,0,Mount
+Neilson Powless,Unclassed,X20,0,Hills
+Neilson Powless,Unclassed,X21,25,Flat
+Michael Valgren,Unclassed,X1,0,Flat
+Michael Valgren,Unclassed,X2,0,Hills
+Michael Valgren,Unclassed,X3,0,Flat
+Michael Valgren,Unclassed,X4,0,Hills
+Michael Valgren,Unclassed,X6,8,Hills
+Michael Valgren,Unclassed,X7,0,Hills
+Michael Valgren,Unclassed,X8,0,Flat
+Michael Valgren,Unclassed,X9,0,Flat
+Michael Valgren,Unclassed,X10,10,Hills
+Michael Valgren,Unclassed,X11,8,Hills
+Michael Valgren,Unclassed,X12,0,Mount
+Michael Valgren,Unclassed,X14,0,Mount
+Michael Valgren,Unclassed,X15,70,Hills
+Michael Valgren,Unclassed,X16,4,Mount
+Michael Valgren,Unclassed,X17,0,Flat
+Michael Valgren,Unclassed,X18,0,Mount
+Michael Valgren,Unclassed,X19,0,Mount
+Michael Valgren,Unclassed,X20,0,Hills
+Michael Valgren,Unclassed,X21,0,Flat
+Marijn Van Den Berg,Sprinter,X1,0,Flat
+Marijn Van Den Berg,Sprinter,X2,0,Hills
+Marijn Van Den Berg,Sprinter,X3,0,Flat
+Marijn Van Den Berg,Sprinter,X4,0,Hills
+Marijn Van Den Berg,Sprinter,X6,8,Hills
+Marijn Van Den Berg,Sprinter,X7,0,Hills
+Marijn Van Den Berg,Sprinter,X8,0,Flat
+Marijn Van Den Berg,Sprinter,X9,0,Flat
+Marijn Van Den Berg,Sprinter,X10,0,Hills
+Marijn Van Den Berg,Sprinter,X11,0,Hills
+Marijn Van Den Berg,Sprinter,X12,0,Mount
+Marijn Van Den Berg,Sprinter,X14,0,Mount
+Marijn Van Den Berg,Sprinter,X15,0,Hills
+Marijn Van Den Berg,Sprinter,X16,0,Mount
+Marijn Van Den Berg,Sprinter,X17,0,Flat
+Marijn Van Den Berg,Sprinter,X18,0,Mount
+Marijn Van Den Berg,Sprinter,X19,0,Mount
+Marijn Van Den Berg,Sprinter,X20,0,Hills
+Marijn Van Den Berg,Sprinter,X21,0,Flat
+Lewis Askey,Unclassed,X1,4,Flat
+Lewis Askey,Unclassed,X2,8,Hills
+Lewis Askey,Unclassed,X3,8,Flat
+Lewis Askey,Unclassed,X4,4,Hills
+Lewis Askey,Unclassed,X6,2,Hills
+Lewis Askey,Unclassed,X7,2,Hills
+Lewis Askey,Unclassed,X8,37,Flat
+Lewis Askey,Unclassed,X9,2,Flat
+Lewis Askey,Unclassed,X10,0,Hills
+Lewis Askey,Unclassed,X11,2,Hills
+Lewis Askey,Unclassed,X12,0,Mount
+Lewis Askey,Unclassed,X14,0,Mount
+Lewis Askey,Unclassed,X15,0,Hills
+Lewis Askey,Unclassed,X16,0,Mount
+Lewis Askey,Unclassed,X17,0,Flat
+Lewis Askey,Unclassed,X18,0,Mount
+Lewis Askey,Unclassed,X19,0,Mount
+Lewis Askey,Unclassed,X20,0,Hills
+Lewis Askey,Unclassed,X21,0,Flat
+Valentin Madouas,Unclassed,X1,4,Flat
+Valentin Madouas,Unclassed,X2,8,Hills
+Valentin Madouas,Unclassed,X3,8,Flat
+Valentin Madouas,Unclassed,X4,4,Hills
+Valentin Madouas,Unclassed,X6,2,Hills
+Valentin Madouas,Unclassed,X7,2,Hills
+Valentin Madouas,Unclassed,X8,2,Flat
+Valentin Madouas,Unclassed,X9,2,Flat
+Valentin Madouas,Unclassed,X10,0,Hills
+Valentin Madouas,Unclassed,X11,2,Hills
+Valentin Madouas,Unclassed,X12,0,Mount
+Valentin Madouas,Unclassed,X14,0,Mount
+Valentin Madouas,Unclassed,X15,60,Hills
+Valentin Madouas,Unclassed,X16,0,Mount
+Valentin Madouas,Unclassed,X17,0,Flat
+Valentin Madouas,Unclassed,X18,2,Mount
+Valentin Madouas,Unclassed,X19,0,Mount
+Valentin Madouas,Unclassed,X20,0,Hills
+Valentin Madouas,Unclassed,X21,0,Flat
+Guillaume Martin,Climber,X1,4,Flat
+Guillaume Martin,Climber,X2,29,Hills
+Guillaume Martin,Climber,X3,15,Flat
+Guillaume Martin,Climber,X4,9,Hills
+Guillaume Martin,Climber,X6,2,Hills
+Guillaume Martin,Climber,X7,3,Hills
+Guillaume Martin,Climber,X8,4,Flat
+Guillaume Martin,Climber,X9,5,Flat
+Guillaume Martin,Climber,X10,5,Hills
+Guillaume Martin,Climber,X11,8,Hills
+Guillaume Martin,Climber,X12,42,Mount
+Guillaume Martin,Climber,X14,8,Mount
+Guillaume Martin,Climber,X15,12,Hills
+Guillaume Martin,Climber,X16,8,Mount
+Guillaume Martin,Climber,X17,8,Flat
+Guillaume Martin,Climber,X18,5,Mount
+Guillaume Martin,Climber,X19,4,Mount
+Guillaume Martin,Climber,X20,5,Hills
+Guillaume Martin,Climber,X21,5,Flat
+Quentin Pacher,Unclassed,X1,4,Flat
+Quentin Pacher,Unclassed,X2,8,Hills
+Quentin Pacher,Unclassed,X3,8,Flat
+Quentin Pacher,Unclassed,X4,4,Hills
+Quentin Pacher,Unclassed,X6,2,Hills
+Quentin Pacher,Unclassed,X7,2,Hills
+Quentin Pacher,Unclassed,X8,2,Flat
+Quentin Pacher,Unclassed,X9,2,Flat
+Quentin Pacher,Unclassed,X10,20,Hills
+Quentin Pacher,Unclassed,X11,22,Hills
+Quentin Pacher,Unclassed,X12,0,Mount
+Quentin Pacher,Unclassed,X14,0,Mount
+Quentin Pacher,Unclassed,X15,0,Hills
+Quentin Pacher,Unclassed,X16,0,Mount
+Quentin Pacher,Unclassed,X17,28,Flat
+Quentin Pacher,Unclassed,X18,0,Mount
+Quentin Pacher,Unclassed,X19,0,Mount
+Quentin Pacher,Unclassed,X20,0,Hills
+Quentin Pacher,Unclassed,X21,0,Flat
+Paul Penhoët,Sprinter,X1,121,Flat
+Paul Penhoët,Sprinter,X2,8,Hills
+Paul Penhoët,Sprinter,X3,24,Flat
+Paul Penhoët,Sprinter,X4,4,Hills
+Paul Penhoët,Sprinter,X6,2,Hills
+Paul Penhoët,Sprinter,X7,2,Hills
+Paul Penhoët,Sprinter,X8,2,Flat
+Paul Penhoët,Sprinter,X9,122,Flat
+Paul Penhoët,Sprinter,X10,0,Hills
+Paul Penhoët,Sprinter,X11,2,Hills
+Paul Penhoët,Sprinter,X12,0,Mount
+Paul Penhoët,Sprinter,X14,0,Mount
+Paul Penhoët,Sprinter,X15,0,Hills
+Paul Penhoët,Sprinter,X16,0,Mount
+Paul Penhoët,Sprinter,X17,95,Flat
+Paul Penhoët,Sprinter,X18,0,Mount
+Paul Penhoët,Sprinter,X19,0,Mount
+Paul Penhoët,Sprinter,X20,0,Hills
+Paul Penhoët,Sprinter,X21,0,Flat
+Tobias Foss,Unclassed,X1,0,Flat
+Tobias Foss,Unclassed,X2,0,Hills
+Tobias Foss,Unclassed,X3,0,Flat
+Tobias Foss,Unclassed,X4,0,Hills
+Tobias Foss,Unclassed,X6,0,Hills
+Tobias Foss,Unclassed,X7,0,Hills
+Tobias Foss,Unclassed,X8,0,Flat
+Tobias Foss,Unclassed,X9,0,Flat
+Tobias Foss,Unclassed,X10,4,Hills
+Tobias Foss,Unclassed,X11,0,Hills
+Tobias Foss,Unclassed,X12,1,Mount
+Tobias Foss,Unclassed,X14,8,Mount
+Tobias Foss,Unclassed,X15,0,Hills
+Tobias Foss,Unclassed,X16,0,Mount
+Tobias Foss,Unclassed,X17,0,Flat
+Tobias Foss,Unclassed,X18,0,Mount
+Tobias Foss,Unclassed,X19,23,Mount
+Tobias Foss,Unclassed,X20,0,Hills
+Tobias Foss,Unclassed,X21,0,Flat
+Axel Laurance,Unclassed,X1,0,Flat
+Axel Laurance,Unclassed,X2,0,Hills
+Axel Laurance,Unclassed,X3,0,Flat
+Axel Laurance,Unclassed,X4,0,Hills
+Axel Laurance,Unclassed,X6,0,Hills
+Axel Laurance,Unclassed,X7,70,Hills
+Axel Laurance,Unclassed,X8,0,Flat
+Axel Laurance,Unclassed,X9,0,Flat
+Axel Laurance,Unclassed,X10,4,Hills
+Axel Laurance,Unclassed,X11,111,Hills
+Axel Laurance,Unclassed,X12,0,Mount
+Axel Laurance,Unclassed,X14,8,Mount
+Axel Laurance,Unclassed,X15,120,Hills
+Axel Laurance,Unclassed,X16,0,Mount
+Axel Laurance,Unclassed,X17,0,Flat
+Axel Laurance,Unclassed,X18,0,Mount
+Axel Laurance,Unclassed,X19,8,Mount
+Axel Laurance,Unclassed,X20,0,Hills
+Axel Laurance,Unclassed,X21,4,Flat
+Samuel Watson,Unclassed,X1,71,Flat
+Samuel Watson,Unclassed,X2,0,Hills
+Samuel Watson,Unclassed,X3,0,Flat
+Samuel Watson,Unclassed,X4,0,Hills
+Samuel Watson,Unclassed,X6,0,Hills
+Samuel Watson,Unclassed,X7,0,Hills
+Samuel Watson,Unclassed,X8,25,Flat
+Samuel Watson,Unclassed,X9,0,Flat
+Samuel Watson,Unclassed,X10,4,Hills
+Samuel Watson,Unclassed,X11,0,Hills
+Samuel Watson,Unclassed,X12,0,Mount
+Samuel Watson,Unclassed,X14,8,Mount
+Samuel Watson,Unclassed,X15,0,Hills
+Samuel Watson,Unclassed,X16,0,Mount
+Samuel Watson,Unclassed,X17,0,Flat
+Samuel Watson,Unclassed,X18,0,Mount
+Samuel Watson,Unclassed,X19,8,Mount
+Samuel Watson,Unclassed,X20,0,Hills
+Samuel Watson,Unclassed,X21,0,Flat
+Louis Barré,Unclassed,X1,8,Flat
+Louis Barré,Unclassed,X2,0,Hills
+Louis Barré,Unclassed,X3,0,Flat
+Louis Barré,Unclassed,X4,0,Hills
+Louis Barré,Unclassed,X6,0,Hills
+Louis Barré,Unclassed,X7,0,Hills
+Louis Barré,Unclassed,X8,0,Flat
+Louis Barré,Unclassed,X9,0,Flat
+Louis Barré,Unclassed,X10,0,Hills
+Louis Barré,Unclassed,X11,16,Hills
+Louis Barré,Unclassed,X12,0,Mount
+Louis Barré,Unclassed,X14,0,Mount
+Louis Barré,Unclassed,X15,0,Hills
+Louis Barré,Unclassed,X16,0,Mount
+Louis Barré,Unclassed,X17,0,Flat
+Louis Barré,Unclassed,X18,0,Mount
+Louis Barré,Unclassed,X19,0,Mount
+Louis Barré,Unclassed,X20,16,Hills
+Louis Barré,Unclassed,X21,0,Flat
+Vito Braet,Unclassed,X1,8,Flat
+Vito Braet,Unclassed,X2,0,Hills
+Vito Braet,Unclassed,X3,0,Flat
+Vito Braet,Unclassed,X4,0,Hills
+Vito Braet,Unclassed,X6,0,Hills
+Vito Braet,Unclassed,X7,0,Hills
+Vito Braet,Unclassed,X8,0,Flat
+Vito Braet,Unclassed,X9,0,Flat
+Vito Braet,Unclassed,X10,0,Hills
+Vito Braet,Unclassed,X11,0,Hills
+Vito Braet,Unclassed,X12,0,Mount
+Vito Braet,Unclassed,X14,0,Mount
+Vito Braet,Unclassed,X15,0,Hills
+Vito Braet,Unclassed,X16,0,Mount
+Vito Braet,Unclassed,X17,16,Flat
+Vito Braet,Unclassed,X18,0,Mount
+Vito Braet,Unclassed,X19,0,Mount
+Vito Braet,Unclassed,X20,0,Hills
+Vito Braet,Unclassed,X21,2,Flat
+Hugo Page,Unclassed,X1,8,Flat
+Hugo Page,Unclassed,X2,0,Hills
+Hugo Page,Unclassed,X3,6,Flat
+Hugo Page,Unclassed,X4,0,Hills
+Hugo Page,Unclassed,X6,0,Hills
+Hugo Page,Unclassed,X7,0,Hills
+Hugo Page,Unclassed,X8,0,Flat
+Hugo Page,Unclassed,X9,0,Flat
+Hugo Page,Unclassed,X10,0,Hills
+Hugo Page,Unclassed,X11,0,Hills
+Hugo Page,Unclassed,X12,0,Mount
+Hugo Page,Unclassed,X14,0,Mount
+Hugo Page,Unclassed,X15,0,Hills
+Hugo Page,Unclassed,X16,0,Mount
+Hugo Page,Unclassed,X17,0,Flat
+Hugo Page,Unclassed,X18,0,Mount
+Hugo Page,Unclassed,X19,0,Mount
+Hugo Page,Unclassed,X20,0,Hills
+Hugo Page,Unclassed,X21,1,Flat
+Laurenz Rex,Unclassed,X1,8,Flat
+Laurenz Rex,Unclassed,X2,0,Hills
+Laurenz Rex,Unclassed,X3,2,Flat
+Laurenz Rex,Unclassed,X4,0,Hills
+Laurenz Rex,Unclassed,X6,2,Hills
+Laurenz Rex,Unclassed,X7,1,Hills
+Laurenz Rex,Unclassed,X8,6,Flat
+Laurenz Rex,Unclassed,X9,0,Flat
+Laurenz Rex,Unclassed,X10,0,Hills
+Laurenz Rex,Unclassed,X11,0,Hills
+Laurenz Rex,Unclassed,X12,20,Mount
+Laurenz Rex,Unclassed,X14,0,Mount
+Laurenz Rex,Unclassed,X15,0,Hills
+Laurenz Rex,Unclassed,X16,0,Mount
+Laurenz Rex,Unclassed,X17,0,Flat
+Laurenz Rex,Unclassed,X18,0,Mount
+Laurenz Rex,Unclassed,X19,0,Mount
+Laurenz Rex,Unclassed,X20,0,Hills
+Laurenz Rex,Unclassed,X21,3,Flat
+Jonas Rutsch,Unclassed,X1,8,Flat
+Jonas Rutsch,Unclassed,X2,0,Hills
+Jonas Rutsch,Unclassed,X3,0,Flat
+Jonas Rutsch,Unclassed,X4,0,Hills
+Jonas Rutsch,Unclassed,X6,0,Hills
+Jonas Rutsch,Unclassed,X7,0,Hills
+Jonas Rutsch,Unclassed,X8,0,Flat
+Jonas Rutsch,Unclassed,X9,0,Flat
+Jonas Rutsch,Unclassed,X10,0,Hills
+Jonas Rutsch,Unclassed,X11,0,Hills
+Jonas Rutsch,Unclassed,X12,0,Mount
+Jonas Rutsch,Unclassed,X14,0,Mount
+Jonas Rutsch,Unclassed,X15,0,Hills
+Jonas Rutsch,Unclassed,X16,0,Mount
+Jonas Rutsch,Unclassed,X17,0,Flat
+Jonas Rutsch,Unclassed,X18,0,Mount
+Jonas Rutsch,Unclassed,X19,0,Mount
+Jonas Rutsch,Unclassed,X20,0,Hills
+Jonas Rutsch,Unclassed,X21,0,Flat
+Georg Zimmermann,Unclassed,X1,8,Flat
+Georg Zimmermann,Unclassed,X2,0,Hills
+Georg Zimmermann,Unclassed,X3,0,Flat
+Georg Zimmermann,Unclassed,X4,0,Hills
+Georg Zimmermann,Unclassed,X6,0,Hills
+Georg Zimmermann,Unclassed,X7,0,Hills
+Georg Zimmermann,Unclassed,X8,3,Flat
+Georg Zimmermann,Unclassed,X9,0,Flat
+Georg Zimmermann,Unclassed,X10,0,Hills
+Georg Zimmermann,Unclassed,X11,0,Hills
+Georg Zimmermann,Unclassed,X12,0,Mount
+Georg Zimmermann,Unclassed,X14,0,Mount
+Georg Zimmermann,Unclassed,X15,0,Hills
+Georg Zimmermann,Unclassed,X16,0,Mount
+Georg Zimmermann,Unclassed,X17,0,Flat
+Georg Zimmermann,Unclassed,X18,0,Mount
+Georg Zimmermann,Unclassed,X19,0,Mount
+Georg Zimmermann,Unclassed,X20,0,Hills
+Georg Zimmermann,Unclassed,X21,0,Flat
+Pascal Ackermann,Sprinter,X1,10,Flat
+Pascal Ackermann,Sprinter,X2,0,Hills
+Pascal Ackermann,Sprinter,X3,80,Flat
+Pascal Ackermann,Sprinter,X4,0,Hills
+Pascal Ackermann,Sprinter,X6,0,Hills
+Pascal Ackermann,Sprinter,X7,0,Hills
+Pascal Ackermann,Sprinter,X8,140,Flat
+Pascal Ackermann,Sprinter,X9,40,Flat
+Pascal Ackermann,Sprinter,X10,0,Hills
+Pascal Ackermann,Sprinter,X11,0,Hills
+Pascal Ackermann,Sprinter,X12,0,Mount
+Pascal Ackermann,Sprinter,X14,0,Mount
+Pascal Ackermann,Sprinter,X15,0,Hills
+Pascal Ackermann,Sprinter,X16,0,Mount
+Pascal Ackermann,Sprinter,X17,0,Flat
+Pascal Ackermann,Sprinter,X18,0,Mount
+Pascal Ackermann,Sprinter,X19,0,Mount
+Pascal Ackermann,Sprinter,X20,0,Hills
+Pascal Ackermann,Sprinter,X21,0,Flat
+Joseph Blackmore,Unclassed,X1,0,Flat
+Joseph Blackmore,Unclassed,X2,13,Hills
+Joseph Blackmore,Unclassed,X3,14,Flat
+Joseph Blackmore,Unclassed,X4,6,Hills
+Joseph Blackmore,Unclassed,X6,0,Hills
+Joseph Blackmore,Unclassed,X7,0,Hills
+Joseph Blackmore,Unclassed,X8,0,Flat
+Joseph Blackmore,Unclassed,X9,0,Flat
+Joseph Blackmore,Unclassed,X10,134,Hills
+Joseph Blackmore,Unclassed,X11,0,Hills
+Joseph Blackmore,Unclassed,X12,0,Mount
+Joseph Blackmore,Unclassed,X14,0,Mount
+Joseph Blackmore,Unclassed,X15,0,Hills
+Joseph Blackmore,Unclassed,X16,0,Mount
+Joseph Blackmore,Unclassed,X17,0,Flat
+Joseph Blackmore,Unclassed,X18,0,Mount
+Joseph Blackmore,Unclassed,X19,0,Mount
+Joseph Blackmore,Unclassed,X20,0,Hills
+Joseph Blackmore,Unclassed,X21,0,Flat
+Alexey Lutsenko,Unclassed,X1,0,Flat
+Alexey Lutsenko,Unclassed,X2,0,Hills
+Alexey Lutsenko,Unclassed,X3,0,Flat
+Alexey Lutsenko,Unclassed,X4,8,Hills
+Alexey Lutsenko,Unclassed,X6,0,Hills
+Alexey Lutsenko,Unclassed,X7,0,Hills
+Alexey Lutsenko,Unclassed,X8,0,Flat
+Alexey Lutsenko,Unclassed,X9,0,Flat
+Alexey Lutsenko,Unclassed,X10,0,Hills
+Alexey Lutsenko,Unclassed,X11,0,Hills
+Alexey Lutsenko,Unclassed,X12,0,Mount
+Alexey Lutsenko,Unclassed,X14,0,Mount
+Alexey Lutsenko,Unclassed,X15,25,Hills
+Alexey Lutsenko,Unclassed,X16,0,Mount
+Alexey Lutsenko,Unclassed,X17,0,Flat
+Alexey Lutsenko,Unclassed,X18,0,Mount
+Alexey Lutsenko,Unclassed,X19,0,Mount
+Alexey Lutsenko,Unclassed,X20,0,Hills
+Alexey Lutsenko,Unclassed,X21,0,Flat
+Krists Neilands,Unclassed,X1,31,Flat
+Krists Neilands,Unclassed,X2,0,Hills
+Krists Neilands,Unclassed,X3,0,Flat
+Krists Neilands,Unclassed,X4,0,Hills
+Krists Neilands,Unclassed,X6,0,Hills
+Krists Neilands,Unclassed,X7,0,Hills
+Krists Neilands,Unclassed,X8,0,Flat
+Krists Neilands,Unclassed,X9,0,Flat
+Krists Neilands,Unclassed,X10,0,Hills
+Krists Neilands,Unclassed,X11,0,Hills
+Krists Neilands,Unclassed,X12,0,Mount
+Krists Neilands,Unclassed,X14,0,Mount
+Krists Neilands,Unclassed,X15,0,Hills
+Krists Neilands,Unclassed,X16,1,Mount
+Krists Neilands,Unclassed,X17,0,Flat
+Krists Neilands,Unclassed,X18,0,Mount
+Krists Neilands,Unclassed,X19,0,Mount
+Krists Neilands,Unclassed,X20,0,Hills
+Krists Neilands,Unclassed,X21,0,Flat
+Jake Stewart,Sprinter,X1,0,Flat
+Jake Stewart,Sprinter,X2,0,Hills
+Jake Stewart,Sprinter,X3,30,Flat
+Jake Stewart,Sprinter,X4,0,Hills
+Jake Stewart,Sprinter,X6,0,Hills
+Jake Stewart,Sprinter,X7,0,Hills
+Jake Stewart,Sprinter,X8,0,Flat
+Jake Stewart,Sprinter,X9,0,Flat
+Jake Stewart,Sprinter,X10,0,Hills
+Jake Stewart,Sprinter,X11,0,Hills
+Jake Stewart,Sprinter,X12,0,Mount
+Jake Stewart,Sprinter,X14,0,Mount
+Jake Stewart,Sprinter,X15,8,Hills
+Jake Stewart,Sprinter,X16,0,Mount
+Jake Stewart,Sprinter,X17,0,Flat
+Jake Stewart,Sprinter,X18,0,Mount
+Jake Stewart,Sprinter,X19,0,Mount
+Jake Stewart,Sprinter,X20,130,Hills
+Jake Stewart,Sprinter,X21,0,Flat
+Michael Woods,Climber,X1,0,Flat
+Michael Woods,Climber,X2,0,Hills
+Michael Woods,Climber,X3,0,Flat
+Michael Woods,Climber,X4,0,Hills
+Michael Woods,Climber,X6,0,Hills
+Michael Woods,Climber,X7,0,Hills
+Michael Woods,Climber,X8,0,Flat
+Michael Woods,Climber,X9,0,Flat
+Michael Woods,Climber,X10,32,Hills
+Michael Woods,Climber,X11,6,Hills
+Michael Woods,Climber,X12,21,Mount
+Michael Woods,Climber,X14,27,Mount
+Michael Woods,Climber,X15,2,Hills
+Michael Woods,Climber,X16,2,Mount
+Michael Woods,Climber,X17,2,Flat
+Michael Woods,Climber,X18,0,Mount
+Michael Woods,Climber,X19,0,Mount
+Michael Woods,Climber,X20,0,Hills
+Michael Woods,Climber,X21,0,Flat
+Simone Consonni,Sprinter,X1,2,Flat
+Simone Consonni,Sprinter,X2,0,Hills
+Simone Consonni,Sprinter,X3,9,Flat
+Simone Consonni,Sprinter,X4,2,Hills
+Simone Consonni,Sprinter,X6,4,Hills
+Simone Consonni,Sprinter,X7,0,Hills
+Simone Consonni,Sprinter,X8,8,Flat
+Simone Consonni,Sprinter,X9,8,Flat
+Simone Consonni,Sprinter,X10,0,Hills
+Simone Consonni,Sprinter,X11,0,Hills
+Simone Consonni,Sprinter,X12,0,Mount
+Simone Consonni,Sprinter,X14,0,Mount
+Simone Consonni,Sprinter,X15,0,Hills
+Simone Consonni,Sprinter,X16,0,Mount
+Simone Consonni,Sprinter,X17,11,Flat
+Simone Consonni,Sprinter,X18,0,Mount
+Simone Consonni,Sprinter,X19,0,Mount
+Simone Consonni,Sprinter,X20,0,Hills
+Simone Consonni,Sprinter,X21,0,Flat
+Quinn Simmons,Unclassed,X1,0,Flat
+Quinn Simmons,Unclassed,X2,0,Hills
+Quinn Simmons,Unclassed,X3,4,Flat
+Quinn Simmons,Unclassed,X4,0,Hills
+Quinn Simmons,Unclassed,X6,206,Hills
+Quinn Simmons,Unclassed,X7,2,Hills
+Quinn Simmons,Unclassed,X8,12,Flat
+Quinn Simmons,Unclassed,X9,4,Flat
+Quinn Simmons,Unclassed,X10,23,Hills
+Quinn Simmons,Unclassed,X11,75,Hills
+Quinn Simmons,Unclassed,X12,0,Mount
+Quinn Simmons,Unclassed,X14,6,Mount
+Quinn Simmons,Unclassed,X15,20,Hills
+Quinn Simmons,Unclassed,X16,0,Mount
+Quinn Simmons,Unclassed,X17,10,Flat
+Quinn Simmons,Unclassed,X18,5,Mount
+Quinn Simmons,Unclassed,X19,8,Mount
+Quinn Simmons,Unclassed,X20,0,Hills
+Quinn Simmons,Unclassed,X21,0,Flat
+Toms Skujiņš,Unclassed,X1,0,Flat
+Toms Skujiņš,Unclassed,X2,0,Hills
+Toms Skujiņš,Unclassed,X3,4,Flat
+Toms Skujiņš,Unclassed,X4,0,Hills
+Toms Skujiņš,Unclassed,X6,4,Hills
+Toms Skujiņš,Unclassed,X7,0,Hills
+Toms Skujiņš,Unclassed,X8,8,Flat
+Toms Skujiņš,Unclassed,X9,4,Flat
+Toms Skujiņš,Unclassed,X10,0,Hills
+Toms Skujiņš,Unclassed,X11,0,Hills
+Toms Skujiņš,Unclassed,X12,0,Mount
+Toms Skujiņš,Unclassed,X14,0,Mount
+Toms Skujiņš,Unclassed,X15,0,Hills
+Toms Skujiņš,Unclassed,X16,0,Mount
+Toms Skujiņš,Unclassed,X17,8,Flat
+Toms Skujiņš,Unclassed,X18,0,Mount
+Toms Skujiņš,Unclassed,X19,0,Mount
+Toms Skujiņš,Unclassed,X20,0,Hills
+Toms Skujiņš,Unclassed,X21,0,Flat
+Jasper Stuyven,Unclassed,X1,0,Flat
+Jasper Stuyven,Unclassed,X2,0,Hills
+Jasper Stuyven,Unclassed,X3,4,Flat
+Jasper Stuyven,Unclassed,X4,0,Hills
+Jasper Stuyven,Unclassed,X6,4,Hills
+Jasper Stuyven,Unclassed,X7,0,Hills
+Jasper Stuyven,Unclassed,X8,8,Flat
+Jasper Stuyven,Unclassed,X9,4,Flat
+Jasper Stuyven,Unclassed,X10,0,Hills
+Jasper Stuyven,Unclassed,X11,0,Hills
+Jasper Stuyven,Unclassed,X12,0,Mount
+Jasper Stuyven,Unclassed,X14,0,Mount
+Jasper Stuyven,Unclassed,X15,95,Hills
+Jasper Stuyven,Unclassed,X16,0,Mount
+Jasper Stuyven,Unclassed,X17,68,Flat
+Jasper Stuyven,Unclassed,X18,0,Mount
+Jasper Stuyven,Unclassed,X19,4,Mount
+Jasper Stuyven,Unclassed,X20,0,Hills
+Jasper Stuyven,Unclassed,X21,0,Flat
+Jenno Berckmoes,Sprinter,X1,0,Flat
+Jenno Berckmoes,Sprinter,X2,60,Hills
+Jenno Berckmoes,Sprinter,X3,4,Flat
+Jenno Berckmoes,Sprinter,X4,3,Hills
+Jenno Berckmoes,Sprinter,X6,0,Hills
+Jenno Berckmoes,Sprinter,X7,0,Hills
+Jenno Berckmoes,Sprinter,X8,0,Flat
+Jenno Berckmoes,Sprinter,X9,2,Flat
+Jenno Berckmoes,Sprinter,X10,0,Hills
+Jenno Berckmoes,Sprinter,X11,0,Hills
+Jenno Berckmoes,Sprinter,X12,0,Mount
+Jenno Berckmoes,Sprinter,X14,0,Mount
+Jenno Berckmoes,Sprinter,X15,0,Hills
+Jenno Berckmoes,Sprinter,X16,0,Mount
+Jenno Berckmoes,Sprinter,X17,0,Flat
+Jenno Berckmoes,Sprinter,X18,0,Mount
+Jenno Berckmoes,Sprinter,X19,0,Mount
+Jenno Berckmoes,Sprinter,X20,0,Hills
+Jenno Berckmoes,Sprinter,X21,0,Flat
+Lennert Van Eetvelt,All Rounder,X1,0,Flat
+Lennert Van Eetvelt,All Rounder,X2,0,Hills
+Lennert Van Eetvelt,All Rounder,X3,0,Flat
+Lennert Van Eetvelt,All Rounder,X4,0,Hills
+Lennert Van Eetvelt,All Rounder,X6,0,Hills
+Lennert Van Eetvelt,All Rounder,X7,0,Hills
+Lennert Van Eetvelt,All Rounder,X8,0,Flat
+Lennert Van Eetvelt,All Rounder,X9,2,Flat
+Lennert Van Eetvelt,All Rounder,X10,0,Hills
+Lennert Van Eetvelt,All Rounder,X11,0,Hills
+Lennert Van Eetvelt,All Rounder,X12,0,Mount
+Lennert Van Eetvelt,All Rounder,X14,0,Mount
+Lennert Van Eetvelt,All Rounder,X15,0,Hills
+Lennert Van Eetvelt,All Rounder,X16,0,Mount
+Lennert Van Eetvelt,All Rounder,X17,0,Flat
+Lennert Van Eetvelt,All Rounder,X18,0,Mount
+Lennert Van Eetvelt,All Rounder,X19,0,Mount
+Lennert Van Eetvelt,All Rounder,X20,0,Hills
+Lennert Van Eetvelt,All Rounder,X21,0,Flat
+Brent Van Moer,Unclassed,X1,0,Flat
+Brent Van Moer,Unclassed,X2,32,Hills
+Brent Van Moer,Unclassed,X3,0,Flat
+Brent Van Moer,Unclassed,X4,0,Hills
+Brent Van Moer,Unclassed,X6,0,Hills
+Brent Van Moer,Unclassed,X7,0,Hills
+Brent Van Moer,Unclassed,X8,0,Flat
+Brent Van Moer,Unclassed,X9,2,Flat
+Brent Van Moer,Unclassed,X10,0,Hills
+Brent Van Moer,Unclassed,X11,0,Hills
+Brent Van Moer,Unclassed,X12,0,Mount
+Brent Van Moer,Unclassed,X14,0,Mount
+Brent Van Moer,Unclassed,X15,0,Hills
+Brent Van Moer,Unclassed,X16,0,Mount
+Brent Van Moer,Unclassed,X17,50,Flat
+Brent Van Moer,Unclassed,X18,0,Mount
+Brent Van Moer,Unclassed,X19,0,Mount
+Brent Van Moer,Unclassed,X20,0,Hills
+Brent Van Moer,Unclassed,X21,0,Flat
+Will Barta,Unclassed,X1,0,Flat
+Will Barta,Unclassed,X2,0,Hills
+Will Barta,Unclassed,X3,0,Flat
+Will Barta,Unclassed,X4,0,Hills
+Will Barta,Unclassed,X6,130,Hills
+Will Barta,Unclassed,X7,0,Hills
+Will Barta,Unclassed,X8,0,Flat
+Will Barta,Unclassed,X9,0,Flat
+Will Barta,Unclassed,X10,0,Hills
+Will Barta,Unclassed,X11,0,Hills
+Will Barta,Unclassed,X12,0,Mount
+Will Barta,Unclassed,X14,0,Mount
+Will Barta,Unclassed,X15,0,Hills
+Will Barta,Unclassed,X16,0,Mount
+Will Barta,Unclassed,X17,0,Flat
+Will Barta,Unclassed,X18,0,Mount
+Will Barta,Unclassed,X19,1,Mount
+Will Barta,Unclassed,X20,0,Hills
+Will Barta,Unclassed,X21,0,Flat
+Pablo Castrillo,Climber,X1,0,Flat
+Pablo Castrillo,Climber,X2,0,Hills
+Pablo Castrillo,Climber,X3,0,Flat
+Pablo Castrillo,Climber,X4,0,Hills
+Pablo Castrillo,Climber,X6,0,Hills
+Pablo Castrillo,Climber,X7,0,Hills
+Pablo Castrillo,Climber,X8,0,Flat
+Pablo Castrillo,Climber,X9,0,Flat
+Pablo Castrillo,Climber,X10,20,Hills
+Pablo Castrillo,Climber,X11,0,Hills
+Pablo Castrillo,Climber,X12,0,Mount
+Pablo Castrillo,Climber,X14,0,Mount
+Pablo Castrillo,Climber,X15,0,Hills
+Pablo Castrillo,Climber,X16,0,Mount
+Pablo Castrillo,Climber,X17,0,Flat
+Pablo Castrillo,Climber,X18,0,Mount
+Pablo Castrillo,Climber,X19,0,Mount
+Pablo Castrillo,Climber,X20,0,Hills
+Pablo Castrillo,Climber,X21,0,Flat
+Iván García Cortina,Unclassed,X1,49,Flat
+Iván García Cortina,Unclassed,X2,0,Hills
+Iván García Cortina,Unclassed,X3,0,Flat
+Iván García Cortina,Unclassed,X4,0,Hills
+Iván García Cortina,Unclassed,X6,0,Hills
+Iván García Cortina,Unclassed,X7,40,Hills
+Iván García Cortina,Unclassed,X8,0,Flat
+Iván García Cortina,Unclassed,X9,0,Flat
+Iván García Cortina,Unclassed,X10,0,Hills
+Iván García Cortina,Unclassed,X11,0,Hills
+Iván García Cortina,Unclassed,X12,0,Mount
+Iván García Cortina,Unclassed,X14,0,Mount
+Iván García Cortina,Unclassed,X15,0,Hills
+Iván García Cortina,Unclassed,X16,0,Mount
+Iván García Cortina,Unclassed,X17,0,Flat
+Iván García Cortina,Unclassed,X18,0,Mount
+Iván García Cortina,Unclassed,X19,3,Mount
+Iván García Cortina,Unclassed,X20,0,Hills
+Iván García Cortina,Unclassed,X21,0,Flat
+Gregor Mühlberger,Unclassed,X1,0,Flat
+Gregor Mühlberger,Unclassed,X2,0,Hills
+Gregor Mühlberger,Unclassed,X3,0,Flat
+Gregor Mühlberger,Unclassed,X4,0,Hills
+Gregor Mühlberger,Unclassed,X6,0,Hills
+Gregor Mühlberger,Unclassed,X7,0,Hills
+Gregor Mühlberger,Unclassed,X8,0,Flat
+Gregor Mühlberger,Unclassed,X9,0,Flat
+Gregor Mühlberger,Unclassed,X10,0,Hills
+Gregor Mühlberger,Unclassed,X11,0,Hills
+Gregor Mühlberger,Unclassed,X12,0,Mount
+Gregor Mühlberger,Unclassed,X14,0,Mount
+Gregor Mühlberger,Unclassed,X15,0,Hills
+Gregor Mühlberger,Unclassed,X16,50,Mount
+Gregor Mühlberger,Unclassed,X17,0,Flat
+Gregor Mühlberger,Unclassed,X18,15,Mount
+Gregor Mühlberger,Unclassed,X19,28,Mount
+Gregor Mühlberger,Unclassed,X20,3,Hills
+Gregor Mühlberger,Unclassed,X21,3,Flat
+Nelson Oliveira,Unclassed,X1,0,Flat
+Nelson Oliveira,Unclassed,X2,0,Hills
+Nelson Oliveira,Unclassed,X3,0,Flat
+Nelson Oliveira,Unclassed,X4,0,Hills
+Nelson Oliveira,Unclassed,X6,0,Hills
+Nelson Oliveira,Unclassed,X7,0,Hills
+Nelson Oliveira,Unclassed,X8,0,Flat
+Nelson Oliveira,Unclassed,X9,0,Flat
+Nelson Oliveira,Unclassed,X10,0,Hills
+Nelson Oliveira,Unclassed,X11,0,Hills
+Nelson Oliveira,Unclassed,X12,0,Mount
+Nelson Oliveira,Unclassed,X14,0,Mount
+Nelson Oliveira,Unclassed,X15,0,Hills
+Nelson Oliveira,Unclassed,X16,0,Mount
+Nelson Oliveira,Unclassed,X17,0,Flat
+Nelson Oliveira,Unclassed,X18,0,Mount
+Nelson Oliveira,Unclassed,X19,0,Mount
+Nelson Oliveira,Unclassed,X20,0,Hills
+Nelson Oliveira,Unclassed,X21,0,Flat
+Iván Romeo,Unclassed,X1,0,Flat
+Iván Romeo,Unclassed,X2,0,Hills
+Iván Romeo,Unclassed,X3,0,Flat
+Iván Romeo,Unclassed,X4,0,Hills
+Iván Romeo,Unclassed,X6,0,Hills
+Iván Romeo,Unclassed,X7,0,Hills
+Iván Romeo,Unclassed,X8,0,Flat
+Iván Romeo,Unclassed,X9,0,Flat
+Iván Romeo,Unclassed,X10,8,Hills
+Iván Romeo,Unclassed,X11,0,Hills
+Iván Romeo,Unclassed,X12,0,Mount
+Iván Romeo,Unclassed,X14,0,Mount
+Iván Romeo,Unclassed,X15,30,Hills
+Iván Romeo,Unclassed,X16,0,Mount
+Iván Romeo,Unclassed,X17,0,Flat
+Iván Romeo,Unclassed,X18,0,Mount
+Iván Romeo,Unclassed,X19,0,Mount
+Iván Romeo,Unclassed,X20,21,Hills
+Iván Romeo,Unclassed,X21,0,Flat
+Einer Rubio,Climber,X1,0,Flat
+Einer Rubio,Climber,X2,0,Hills
+Einer Rubio,Climber,X3,0,Flat
+Einer Rubio,Climber,X4,0,Hills
+Einer Rubio,Climber,X6,0,Hills
+Einer Rubio,Climber,X7,0,Hills
+Einer Rubio,Climber,X8,0,Flat
+Einer Rubio,Climber,X9,0,Flat
+Einer Rubio,Climber,X10,0,Hills
+Einer Rubio,Climber,X11,0,Hills
+Einer Rubio,Climber,X12,52,Mount
+Einer Rubio,Climber,X14,27,Mount
+Einer Rubio,Climber,X15,0,Hills
+Einer Rubio,Climber,X16,0,Mount
+Einer Rubio,Climber,X17,0,Flat
+Einer Rubio,Climber,X18,138,Mount
+Einer Rubio,Climber,X19,6,Mount
+Einer Rubio,Climber,X20,0,Hills
+Einer Rubio,Climber,X21,0,Flat
+Laurence Pithie,Unclassed,X1,0,Flat
+Laurence Pithie,Unclassed,X2,0,Hills
+Laurence Pithie,Unclassed,X3,0,Flat
+Laurence Pithie,Unclassed,X4,0,Hills
+Laurence Pithie,Unclassed,X6,0,Hills
+Laurence Pithie,Unclassed,X7,0,Hills
+Laurence Pithie,Unclassed,X8,0,Flat
+Laurence Pithie,Unclassed,X9,0,Flat
+Laurence Pithie,Unclassed,X10,0,Hills
+Laurence Pithie,Unclassed,X11,0,Hills
+Laurence Pithie,Unclassed,X12,5,Mount
+Laurence Pithie,Unclassed,X14,2,Mount
+Laurence Pithie,Unclassed,X15,4,Hills
+Laurence Pithie,Unclassed,X16,4,Mount
+Laurence Pithie,Unclassed,X17,8,Flat
+Laurence Pithie,Unclassed,X18,4,Mount
+Laurence Pithie,Unclassed,X19,4,Mount
+Laurence Pithie,Unclassed,X20,4,Hills
+Laurence Pithie,Unclassed,X21,4,Flat
+Danny Van Poppel,Sprinter,X1,0,Flat
+Danny Van Poppel,Sprinter,X2,0,Hills
+Danny Van Poppel,Sprinter,X3,0,Flat
+Danny Van Poppel,Sprinter,X4,0,Hills
+Danny Van Poppel,Sprinter,X6,0,Hills
+Danny Van Poppel,Sprinter,X7,0,Hills
+Danny Van Poppel,Sprinter,X8,50,Flat
+Danny Van Poppel,Sprinter,X9,8,Flat
+Danny Van Poppel,Sprinter,X10,0,Hills
+Danny Van Poppel,Sprinter,X11,0,Hills
+Danny Van Poppel,Sprinter,X12,2,Mount
+Danny Van Poppel,Sprinter,X14,2,Mount
+Danny Van Poppel,Sprinter,X15,4,Hills
+Danny Van Poppel,Sprinter,X16,4,Mount
+Danny Van Poppel,Sprinter,X17,0,Flat
+Danny Van Poppel,Sprinter,X18,0,Mount
+Danny Van Poppel,Sprinter,X19,0,Mount
+Danny Van Poppel,Sprinter,X20,0,Hills
+Danny Van Poppel,Sprinter,X21,0,Flat
+Mattia Cattaneo,Unclassed,X1,1,Flat
+Mattia Cattaneo,Unclassed,X2,0,Hills
+Mattia Cattaneo,Unclassed,X3,8,Flat
+Mattia Cattaneo,Unclassed,X4,0,Hills
+Mattia Cattaneo,Unclassed,X6,2,Hills
+Mattia Cattaneo,Unclassed,X7,4,Hills
+Mattia Cattaneo,Unclassed,X8,0,Flat
+Mattia Cattaneo,Unclassed,X9,0,Flat
+Mattia Cattaneo,Unclassed,X10,0,Hills
+Mattia Cattaneo,Unclassed,X11,0,Hills
+Mattia Cattaneo,Unclassed,X12,0,Mount
+Mattia Cattaneo,Unclassed,X14,0,Mount
+Mattia Cattaneo,Unclassed,X15,0,Hills
+Mattia Cattaneo,Unclassed,X16,0,Mount
+Mattia Cattaneo,Unclassed,X17,0,Flat
+Mattia Cattaneo,Unclassed,X18,0,Mount
+Mattia Cattaneo,Unclassed,X19,0,Mount
+Mattia Cattaneo,Unclassed,X20,0,Hills
+Mattia Cattaneo,Unclassed,X21,0,Flat
+Valentin Paret-Peintre,Climber,X1,0,Flat
+Valentin Paret-Peintre,Climber,X2,0,Hills
+Valentin Paret-Peintre,Climber,X3,8,Flat
+Valentin Paret-Peintre,Climber,X4,0,Hills
+Valentin Paret-Peintre,Climber,X6,2,Hills
+Valentin Paret-Peintre,Climber,X7,4,Hills
+Valentin Paret-Peintre,Climber,X8,4,Flat
+Valentin Paret-Peintre,Climber,X9,12,Flat
+Valentin Paret-Peintre,Climber,X10,22,Hills
+Valentin Paret-Peintre,Climber,X11,2,Hills
+Valentin Paret-Peintre,Climber,X12,2,Mount
+Valentin Paret-Peintre,Climber,X14,16,Mount
+Valentin Paret-Peintre,Climber,X15,0,Hills
+Valentin Paret-Peintre,Climber,X16,251,Mount
+Valentin Paret-Peintre,Climber,X17,1,Flat
+Valentin Paret-Peintre,Climber,X18,0,Mount
+Valentin Paret-Peintre,Climber,X19,111,Mount
+Valentin Paret-Peintre,Climber,X20,3,Hills
+Valentin Paret-Peintre,Climber,X21,17,Flat
+Maximilian Schachmann,All Rounder,X1,0,Flat
+Maximilian Schachmann,All Rounder,X2,0,Hills
+Maximilian Schachmann,All Rounder,X3,8,Flat
+Maximilian Schachmann,All Rounder,X4,0,Hills
+Maximilian Schachmann,All Rounder,X6,2,Hills
+Maximilian Schachmann,All Rounder,X7,4,Hills
+Maximilian Schachmann,All Rounder,X8,4,Flat
+Maximilian Schachmann,All Rounder,X9,12,Flat
+Maximilian Schachmann,All Rounder,X10,2,Hills
+Maximilian Schachmann,All Rounder,X11,2,Hills
+Maximilian Schachmann,All Rounder,X12,2,Mount
+Maximilian Schachmann,All Rounder,X14,0,Mount
+Maximilian Schachmann,All Rounder,X15,0,Hills
+Maximilian Schachmann,All Rounder,X16,8,Mount
+Maximilian Schachmann,All Rounder,X17,0,Flat
+Maximilian Schachmann,All Rounder,X18,0,Mount
+Maximilian Schachmann,All Rounder,X19,0,Mount
+Maximilian Schachmann,All Rounder,X20,2,Hills
+Maximilian Schachmann,All Rounder,X21,0,Flat
+Ilan Van Wilder,All Rounder,X1,0,Flat
+Ilan Van Wilder,All Rounder,X2,0,Hills
+Ilan Van Wilder,All Rounder,X3,8,Flat
+Ilan Van Wilder,All Rounder,X4,0,Hills
+Ilan Van Wilder,All Rounder,X6,2,Hills
+Ilan Van Wilder,All Rounder,X7,4,Hills
+Ilan Van Wilder,All Rounder,X8,4,Flat
+Ilan Van Wilder,All Rounder,X9,12,Flat
+Ilan Van Wilder,All Rounder,X10,2,Hills
+Ilan Van Wilder,All Rounder,X11,2,Hills
+Ilan Van Wilder,All Rounder,X12,2,Mount
+Ilan Van Wilder,All Rounder,X14,0,Mount
+Ilan Van Wilder,All Rounder,X15,0,Hills
+Ilan Van Wilder,All Rounder,X16,163,Mount
+Ilan Van Wilder,All Rounder,X17,0,Flat
+Ilan Van Wilder,All Rounder,X18,0,Mount
+Ilan Van Wilder,All Rounder,X19,0,Mount
+Ilan Van Wilder,All Rounder,X20,2,Hills
+Ilan Van Wilder,All Rounder,X21,0,Flat
+Eddie Dunbar,All Rounder,X1,0,Flat
+Eddie Dunbar,All Rounder,X2,0,Hills
+Eddie Dunbar,All Rounder,X3,0,Flat
+Eddie Dunbar,All Rounder,X4,0,Hills
+Eddie Dunbar,All Rounder,X6,164,Hills
+Eddie Dunbar,All Rounder,X7,1,Hills
+Eddie Dunbar,All Rounder,X8,0,Flat
+Eddie Dunbar,All Rounder,X9,0,Flat
+Eddie Dunbar,All Rounder,X10,0,Hills
+Eddie Dunbar,All Rounder,X11,0,Hills
+Eddie Dunbar,All Rounder,X12,0,Mount
+Eddie Dunbar,All Rounder,X14,0,Mount
+Eddie Dunbar,All Rounder,X15,0,Hills
+Eddie Dunbar,All Rounder,X16,0,Mount
+Eddie Dunbar,All Rounder,X17,0,Flat
+Eddie Dunbar,All Rounder,X18,0,Mount
+Eddie Dunbar,All Rounder,X19,0,Mount
+Eddie Dunbar,All Rounder,X20,0,Hills
+Eddie Dunbar,All Rounder,X21,0,Flat
+Luka Mezgec,Unclassed,X1,0,Flat
+Luka Mezgec,Unclassed,X2,0,Hills
+Luka Mezgec,Unclassed,X3,0,Flat
+Luka Mezgec,Unclassed,X4,0,Hills
+Luka Mezgec,Unclassed,X6,0,Hills
+Luka Mezgec,Unclassed,X7,0,Hills
+Luka Mezgec,Unclassed,X8,0,Flat
+Luka Mezgec,Unclassed,X9,0,Flat
+Luka Mezgec,Unclassed,X10,0,Hills
+Luka Mezgec,Unclassed,X11,4,Hills
+Luka Mezgec,Unclassed,X12,0,Mount
+Luka Mezgec,Unclassed,X14,0,Mount
+Luka Mezgec,Unclassed,X15,0,Hills
+Luka Mezgec,Unclassed,X16,0,Mount
+Luka Mezgec,Unclassed,X17,0,Flat
+Luka Mezgec,Unclassed,X18,8,Mount
+Luka Mezgec,Unclassed,X19,0,Mount
+Luka Mezgec,Unclassed,X20,0,Hills
+Luka Mezgec,Unclassed,X21,0,Flat
+Luke Plapp,Unclassed,X1,0,Flat
+Luke Plapp,Unclassed,X2,0,Hills
+Luke Plapp,Unclassed,X3,0,Flat
+Luke Plapp,Unclassed,X4,0,Hills
+Luke Plapp,Unclassed,X6,0,Hills
+Luke Plapp,Unclassed,X7,0,Hills
+Luke Plapp,Unclassed,X8,0,Flat
+Luke Plapp,Unclassed,X9,1,Flat
+Luke Plapp,Unclassed,X10,20,Hills
+Luke Plapp,Unclassed,X11,4,Hills
+Luke Plapp,Unclassed,X12,0,Mount
+Luke Plapp,Unclassed,X14,0,Mount
+Luke Plapp,Unclassed,X15,0,Hills
+Luke Plapp,Unclassed,X16,0,Mount
+Luke Plapp,Unclassed,X17,0,Flat
+Luke Plapp,Unclassed,X18,8,Mount
+Luke Plapp,Unclassed,X19,0,Mount
+Luke Plapp,Unclassed,X20,0,Hills
+Luke Plapp,Unclassed,X21,0,Flat
+Mauro Schmid,Unclassed,X1,0,Flat
+Mauro Schmid,Unclassed,X2,0,Hills
+Mauro Schmid,Unclassed,X3,0,Flat
+Mauro Schmid,Unclassed,X4,0,Hills
+Mauro Schmid,Unclassed,X6,0,Hills
+Mauro Schmid,Unclassed,X7,0,Hills
+Mauro Schmid,Unclassed,X8,0,Flat
+Mauro Schmid,Unclassed,X9,0,Flat
+Mauro Schmid,Unclassed,X10,25,Hills
+Mauro Schmid,Unclassed,X11,212,Hills
+Mauro Schmid,Unclassed,X12,0,Mount
+Mauro Schmid,Unclassed,X14,0,Mount
+Mauro Schmid,Unclassed,X15,0,Hills
+Mauro Schmid,Unclassed,X16,0,Mount
+Mauro Schmid,Unclassed,X17,0,Flat
+Mauro Schmid,Unclassed,X18,8,Mount
+Mauro Schmid,Unclassed,X19,0,Mount
+Mauro Schmid,Unclassed,X20,0,Hills
+Mauro Schmid,Unclassed,X21,0,Flat
+Tobias Lund Andresen,Sprinter,X1,3,Flat
+Tobias Lund Andresen,Sprinter,X2,0,Hills
+Tobias Lund Andresen,Sprinter,X3,50,Flat
+Tobias Lund Andresen,Sprinter,X4,0,Hills
+Tobias Lund Andresen,Sprinter,X6,0,Hills
+Tobias Lund Andresen,Sprinter,X7,2,Hills
+Tobias Lund Andresen,Sprinter,X8,110,Flat
+Tobias Lund Andresen,Sprinter,X9,0,Flat
+Tobias Lund Andresen,Sprinter,X10,0,Hills
+Tobias Lund Andresen,Sprinter,X11,0,Hills
+Tobias Lund Andresen,Sprinter,X12,0,Mount
+Tobias Lund Andresen,Sprinter,X14,0,Mount
+Tobias Lund Andresen,Sprinter,X15,1,Hills
+Tobias Lund Andresen,Sprinter,X16,0,Mount
+Tobias Lund Andresen,Sprinter,X17,160,Flat
+Tobias Lund Andresen,Sprinter,X18,0,Mount
+Tobias Lund Andresen,Sprinter,X19,0,Mount
+Tobias Lund Andresen,Sprinter,X20,4,Hills
+Tobias Lund Andresen,Sprinter,X21,40,Flat
+Warren Barguil,Unclassed,X1,0,Flat
+Warren Barguil,Unclassed,X2,0,Hills
+Warren Barguil,Unclassed,X3,0,Flat
+Warren Barguil,Unclassed,X4,0,Hills
+Warren Barguil,Unclassed,X6,0,Hills
+Warren Barguil,Unclassed,X7,2,Hills
+Warren Barguil,Unclassed,X8,0,Flat
+Warren Barguil,Unclassed,X9,0,Flat
+Warren Barguil,Unclassed,X10,0,Hills
+Warren Barguil,Unclassed,X11,0,Hills
+Warren Barguil,Unclassed,X12,0,Mount
+Warren Barguil,Unclassed,X14,0,Mount
+Warren Barguil,Unclassed,X15,16,Hills
+Warren Barguil,Unclassed,X16,0,Mount
+Warren Barguil,Unclassed,X17,2,Flat
+Warren Barguil,Unclassed,X18,0,Mount
+Warren Barguil,Unclassed,X19,0,Mount
+Warren Barguil,Unclassed,X20,4,Hills
+Warren Barguil,Unclassed,X21,0,Flat
+Pavel Bittner,Sprinter,X1,0,Flat
+Pavel Bittner,Sprinter,X2,0,Hills
+Pavel Bittner,Sprinter,X3,120,Flat
+Pavel Bittner,Sprinter,X4,0,Hills
+Pavel Bittner,Sprinter,X6,0,Hills
+Pavel Bittner,Sprinter,X7,2,Hills
+Pavel Bittner,Sprinter,X8,0,Flat
+Pavel Bittner,Sprinter,X9,140,Flat
+Pavel Bittner,Sprinter,X10,0,Hills
+Pavel Bittner,Sprinter,X11,0,Hills
+Pavel Bittner,Sprinter,X12,0,Mount
+Pavel Bittner,Sprinter,X14,0,Mount
+Pavel Bittner,Sprinter,X15,0,Hills
+Pavel Bittner,Sprinter,X16,0,Mount
+Pavel Bittner,Sprinter,X17,2,Flat
+Pavel Bittner,Sprinter,X18,0,Mount
+Pavel Bittner,Sprinter,X19,0,Mount
+Pavel Bittner,Sprinter,X20,4,Hills
+Pavel Bittner,Sprinter,X21,0,Flat
+Sean Flynn,Unclassed,X1,0,Flat
+Sean Flynn,Unclassed,X2,0,Hills
+Sean Flynn,Unclassed,X3,0,Flat
+Sean Flynn,Unclassed,X4,0,Hills
+Sean Flynn,Unclassed,X6,0,Hills
+Sean Flynn,Unclassed,X7,2,Hills
+Sean Flynn,Unclassed,X8,0,Flat
+Sean Flynn,Unclassed,X9,0,Flat
+Sean Flynn,Unclassed,X10,0,Hills
+Sean Flynn,Unclassed,X11,0,Hills
+Sean Flynn,Unclassed,X12,0,Mount
+Sean Flynn,Unclassed,X14,0,Mount
+Sean Flynn,Unclassed,X15,0,Hills
+Sean Flynn,Unclassed,X16,0,Mount
+Sean Flynn,Unclassed,X17,2,Flat
+Sean Flynn,Unclassed,X18,0,Mount
+Sean Flynn,Unclassed,X19,0,Mount
+Sean Flynn,Unclassed,X20,4,Hills
+Sean Flynn,Unclassed,X21,0,Flat
+Frank Van Den Broek,Unclassed,X1,0,Flat
+Frank Van Den Broek,Unclassed,X2,0,Hills
+Frank Van Den Broek,Unclassed,X3,0,Flat
+Frank Van Den Broek,Unclassed,X4,0,Hills
+Frank Van Den Broek,Unclassed,X6,0,Hills
+Frank Van Den Broek,Unclassed,X7,2,Hills
+Frank Van Den Broek,Unclassed,X8,0,Flat
+Frank Van Den Broek,Unclassed,X9,0,Flat
+Frank Van Den Broek,Unclassed,X10,0,Hills
+Frank Van Den Broek,Unclassed,X11,0,Hills
+Frank Van Den Broek,Unclassed,X12,0,Mount
+Frank Van Den Broek,Unclassed,X14,0,Mount
+Frank Van Den Broek,Unclassed,X15,0,Hills
+Frank Van Den Broek,Unclassed,X16,0,Mount
+Frank Van Den Broek,Unclassed,X17,2,Flat
+Frank Van Den Broek,Unclassed,X18,0,Mount
+Frank Van Den Broek,Unclassed,X19,0,Mount
+Frank Van Den Broek,Unclassed,X20,212,Hills
+Frank Van Den Broek,Unclassed,X21,0,Flat
+Mathieu Burgaudeau,Unclassed,X1,0,Flat
+Mathieu Burgaudeau,Unclassed,X2,0,Hills
+Mathieu Burgaudeau,Unclassed,X3,0,Flat
+Mathieu Burgaudeau,Unclassed,X4,0,Hills
+Mathieu Burgaudeau,Unclassed,X6,0,Hills
+Mathieu Burgaudeau,Unclassed,X7,0,Hills
+Mathieu Burgaudeau,Unclassed,X8,0,Flat
+Mathieu Burgaudeau,Unclassed,X9,0,Flat
+Mathieu Burgaudeau,Unclassed,X10,0,Hills
+Mathieu Burgaudeau,Unclassed,X11,106,Hills
+Mathieu Burgaudeau,Unclassed,X12,0,Mount
+Mathieu Burgaudeau,Unclassed,X14,0,Mount
+Mathieu Burgaudeau,Unclassed,X15,0,Hills
+Mathieu Burgaudeau,Unclassed,X16,0,Mount
+Mathieu Burgaudeau,Unclassed,X17,36,Flat
+Mathieu Burgaudeau,Unclassed,X18,0,Mount
+Mathieu Burgaudeau,Unclassed,X19,0,Mount
+Mathieu Burgaudeau,Unclassed,X20,0,Hills
+Mathieu Burgaudeau,Unclassed,X21,0,Flat
+Steff Cras,Climber,X1,0,Flat
+Steff Cras,Climber,X2,0,Hills
+Steff Cras,Climber,X3,0,Flat
+Steff Cras,Climber,X4,0,Hills
+Steff Cras,Climber,X6,0,Hills
+Steff Cras,Climber,X7,0,Hills
+Steff Cras,Climber,X8,0,Flat
+Steff Cras,Climber,X9,0,Flat
+Steff Cras,Climber,X10,0,Hills
+Steff Cras,Climber,X11,0,Hills
+Steff Cras,Climber,X12,0,Mount
+Steff Cras,Climber,X14,0,Mount
+Steff Cras,Climber,X15,0,Hills
+Steff Cras,Climber,X16,0,Mount
+Steff Cras,Climber,X17,0,Flat
+Steff Cras,Climber,X18,0,Mount
+Steff Cras,Climber,X19,0,Mount
+Steff Cras,Climber,X20,0,Hills
+Steff Cras,Climber,X21,0,Flat
+Alexandre Delettre,Unclassed,X1,0,Flat
+Alexandre Delettre,Unclassed,X2,50,Hills
+Alexandre Delettre,Unclassed,X3,2,Flat
+Alexandre Delettre,Unclassed,X4,0,Hills
+Alexandre Delettre,Unclassed,X6,0,Hills
+Alexandre Delettre,Unclassed,X7,0,Hills
+Alexandre Delettre,Unclassed,X8,0,Flat
+Alexandre Delettre,Unclassed,X9,0,Flat
+Alexandre Delettre,Unclassed,X10,0,Hills
+Alexandre Delettre,Unclassed,X11,0,Hills
+Alexandre Delettre,Unclassed,X12,0,Mount
+Alexandre Delettre,Unclassed,X14,0,Mount
+Alexandre Delettre,Unclassed,X15,0,Hills
+Alexandre Delettre,Unclassed,X16,0,Mount
+Alexandre Delettre,Unclassed,X17,0,Flat
+Alexandre Delettre,Unclassed,X18,0,Mount
+Alexandre Delettre,Unclassed,X19,0,Mount
+Alexandre Delettre,Unclassed,X20,0,Hills
+Alexandre Delettre,Unclassed,X21,0,Flat
+Emilien Jeannière,Sprinter,X1,0,Flat
+Emilien Jeannière,Sprinter,X2,0,Hills
+Emilien Jeannière,Sprinter,X3,0,Flat
+Emilien Jeannière,Sprinter,X4,0,Hills
+Emilien Jeannière,Sprinter,X6,0,Hills
+Emilien Jeannière,Sprinter,X7,0,Hills
+Emilien Jeannière,Sprinter,X8,0,Flat
+Emilien Jeannière,Sprinter,X9,0,Flat
+Emilien Jeannière,Sprinter,X10,0,Hills
+Emilien Jeannière,Sprinter,X11,0,Hills
+Emilien Jeannière,Sprinter,X12,0,Mount
+Emilien Jeannière,Sprinter,X14,0,Mount
+Emilien Jeannière,Sprinter,X15,0,Hills
+Emilien Jeannière,Sprinter,X16,0,Mount
+Emilien Jeannière,Sprinter,X17,0,Flat
+Emilien Jeannière,Sprinter,X18,0,Mount
+Emilien Jeannière,Sprinter,X19,0,Mount
+Emilien Jeannière,Sprinter,X20,0,Hills
+Emilien Jeannière,Sprinter,X21,0,Flat
+Jordan Jegat,Unclassed,X1,0,Flat
+Jordan Jegat,Unclassed,X2,0,Hills
+Jordan Jegat,Unclassed,X3,0,Flat
+Jordan Jegat,Unclassed,X4,0,Hills
+Jordan Jegat,Unclassed,X6,6,Hills
+Jordan Jegat,Unclassed,X7,55,Hills
+Jordan Jegat,Unclassed,X8,5,Flat
+Jordan Jegat,Unclassed,X9,5,Flat
+Jordan Jegat,Unclassed,X10,15,Hills
+Jordan Jegat,Unclassed,X11,42,Hills
+Jordan Jegat,Unclassed,X12,16,Mount
+Jordan Jegat,Unclassed,X14,45,Mount
+Jordan Jegat,Unclassed,X15,90,Hills
+Jordan Jegat,Unclassed,X16,10,Mount
+Jordan Jegat,Unclassed,X17,10,Flat
+Jordan Jegat,Unclassed,X18,14,Mount
+Jordan Jegat,Unclassed,X19,40,Mount
+Jordan Jegat,Unclassed,X20,132,Hills
+Jordan Jegat,Unclassed,X21,11,Flat
+Anthony Turgis,Unclassed,X1,170,Flat
+Anthony Turgis,Unclassed,X2,6,Hills
+Anthony Turgis,Unclassed,X3,26,Flat
+Anthony Turgis,Unclassed,X4,4,Hills
+Anthony Turgis,Unclassed,X6,9,Hills
+Anthony Turgis,Unclassed,X7,4,Hills
+Anthony Turgis,Unclassed,X8,30,Flat
+Anthony Turgis,Unclassed,X9,36,Flat
+Anthony Turgis,Unclassed,X10,1,Hills
+Anthony Turgis,Unclassed,X11,1,Hills
+Anthony Turgis,Unclassed,X12,6,Mount
+Anthony Turgis,Unclassed,X14,8,Mount
+Anthony Turgis,Unclassed,X15,0,Hills
+Anthony Turgis,Unclassed,X16,1,Mount
+Anthony Turgis,Unclassed,X17,5,Flat
+Anthony Turgis,Unclassed,X18,13,Mount
+Anthony Turgis,Unclassed,X19,14,Mount
+Anthony Turgis,Unclassed,X20,22,Hills
+Anthony Turgis,Unclassed,X21,10,Flat
+Mattéo Vercher,Unclassed,X1,20,Flat
+Mattéo Vercher,Unclassed,X2,0,Hills
+Mattéo Vercher,Unclassed,X3,0,Flat
+Mattéo Vercher,Unclassed,X4,0,Hills
+Mattéo Vercher,Unclassed,X6,0,Hills
+Mattéo Vercher,Unclassed,X7,0,Hills
+Mattéo Vercher,Unclassed,X8,0,Flat
+Mattéo Vercher,Unclassed,X9,0,Flat
+Mattéo Vercher,Unclassed,X10,0,Hills
+Mattéo Vercher,Unclassed,X11,0,Hills
+Mattéo Vercher,Unclassed,X12,0,Mount
+Mattéo Vercher,Unclassed,X14,0,Mount
+Mattéo Vercher,Unclassed,X15,0,Hills
+Mattéo Vercher,Unclassed,X16,0,Mount
+Mattéo Vercher,Unclassed,X17,0,Flat
+Mattéo Vercher,Unclassed,X18,0,Mount
+Mattéo Vercher,Unclassed,X19,0,Mount
+Mattéo Vercher,Unclassed,X20,0,Hills
+Mattéo Vercher,Unclassed,X21,0,Flat
+Edoardo Affini,Unclassed,X1,0,Flat
+Edoardo Affini,Unclassed,X2,8,Hills
+Edoardo Affini,Unclassed,X3,6,Flat
+Edoardo Affini,Unclassed,X4,12,Hills
+Edoardo Affini,Unclassed,X6,8,Hills
+Edoardo Affini,Unclassed,X7,12,Hills
+Edoardo Affini,Unclassed,X8,12,Flat
+Edoardo Affini,Unclassed,X9,8,Flat
+Edoardo Affini,Unclassed,X10,16,Hills
+Edoardo Affini,Unclassed,X11,8,Hills
+Edoardo Affini,Unclassed,X12,16,Mount
+Edoardo Affini,Unclassed,X14,14,Mount
+Edoardo Affini,Unclassed,X15,16,Hills
+Edoardo Affini,Unclassed,X16,12,Mount
+Edoardo Affini,Unclassed,X17,12,Flat
+Edoardo Affini,Unclassed,X18,14,Mount
+Edoardo Affini,Unclassed,X19,16,Mount
+Edoardo Affini,Unclassed,X20,12,Hills
+Edoardo Affini,Unclassed,X21,20,Flat
+Tiesj Benoot,Unclassed,X1,0,Flat
+Tiesj Benoot,Unclassed,X2,8,Hills
+Tiesj Benoot,Unclassed,X3,6,Flat
+Tiesj Benoot,Unclassed,X4,32,Hills
+Tiesj Benoot,Unclassed,X6,8,Hills
+Tiesj Benoot,Unclassed,X7,12,Hills
+Tiesj Benoot,Unclassed,X8,12,Flat
+Tiesj Benoot,Unclassed,X9,8,Flat
+Tiesj Benoot,Unclassed,X10,16,Hills
+Tiesj Benoot,Unclassed,X11,8,Hills
+Tiesj Benoot,Unclassed,X12,16,Mount
+Tiesj Benoot,Unclassed,X14,14,Mount
+Tiesj Benoot,Unclassed,X15,16,Hills
+Tiesj Benoot,Unclassed,X16,12,Mount
+Tiesj Benoot,Unclassed,X17,12,Flat
+Tiesj Benoot,Unclassed,X18,14,Mount
+Tiesj Benoot,Unclassed,X19,16,Mount
+Tiesj Benoot,Unclassed,X20,12,Hills
+Tiesj Benoot,Unclassed,X21,20,Flat
+Victor Campenaerts,Unclassed,X1,0,Flat
+Victor Campenaerts,Unclassed,X2,8,Hills
+Victor Campenaerts,Unclassed,X3,6,Flat
+Victor Campenaerts,Unclassed,X4,12,Hills
+Victor Campenaerts,Unclassed,X6,8,Hills
+Victor Campenaerts,Unclassed,X7,12,Hills
+Victor Campenaerts,Unclassed,X8,12,Flat
+Victor Campenaerts,Unclassed,X9,8,Flat
+Victor Campenaerts,Unclassed,X10,36,Hills
+Victor Campenaerts,Unclassed,X11,8,Hills
+Victor Campenaerts,Unclassed,X12,16,Mount
+Victor Campenaerts,Unclassed,X14,14,Mount
+Victor Campenaerts,Unclassed,X15,216,Hills
+Victor Campenaerts,Unclassed,X16,12,Mount
+Victor Campenaerts,Unclassed,X17,12,Flat
+Victor Campenaerts,Unclassed,X18,14,Mount
+Victor Campenaerts,Unclassed,X19,46,Mount
+Victor Campenaerts,Unclassed,X20,12,Hills
+Victor Campenaerts,Unclassed,X21,20,Flat
+Julian Alaphilippe,Climber,X1,8,Flat
+Julian Alaphilippe,Climber,X2,120,Hills
+Julian Alaphilippe,Climber,X3,0,Flat
+Julian Alaphilippe,Climber,X4,0,Hills
+Julian Alaphilippe,Climber,X6,5,Hills
+Julian Alaphilippe,Climber,X7,0,Hills
+Julian Alaphilippe,Climber,X8,0,Flat
+Julian Alaphilippe,Climber,X9,0,Flat
+Julian Alaphilippe,Climber,X10,0,Hills
+Julian Alaphilippe,Climber,X11,0,Hills
+Julian Alaphilippe,Climber,X12,0,Mount
+Julian Alaphilippe,Climber,X14,4,Mount
+Julian Alaphilippe,Climber,X15,160,Hills
+Julian Alaphilippe,Climber,X16,87,Mount
+Julian Alaphilippe,Climber,X17,0,Flat
+Julian Alaphilippe,Climber,X18,0,Mount
+Julian Alaphilippe,Climber,X19,0,Mount
+Julian Alaphilippe,Climber,X20,0,Hills
+Julian Alaphilippe,Climber,X21,8,Flat
+Alberto Dainese,Sprinter,X1,8,Flat
+Alberto Dainese,Sprinter,X2,0,Hills
+Alberto Dainese,Sprinter,X3,60,Flat
+Alberto Dainese,Sprinter,X4,0,Hills
+Alberto Dainese,Sprinter,X6,2,Hills
+Alberto Dainese,Sprinter,X7,0,Hills
+Alberto Dainese,Sprinter,X8,80,Flat
+Alberto Dainese,Sprinter,X9,20,Flat
+Alberto Dainese,Sprinter,X10,0,Hills
+Alberto Dainese,Sprinter,X11,40,Hills
+Alberto Dainese,Sprinter,X12,0,Mount
+Alberto Dainese,Sprinter,X14,0,Mount
+Alberto Dainese,Sprinter,X15,2,Hills
+Alberto Dainese,Sprinter,X16,0,Mount
+Alberto Dainese,Sprinter,X17,110,Flat
+Alberto Dainese,Sprinter,X18,0,Mount
+Alberto Dainese,Sprinter,X19,0,Mount
+Alberto Dainese,Sprinter,X20,0,Hills
+Alberto Dainese,Sprinter,X21,0,Flat
+Marc Hirschi,Unclassed,X1,8,Flat
+Marc Hirschi,Unclassed,X2,30,Hills
+Marc Hirschi,Unclassed,X3,0,Flat
+Marc Hirschi,Unclassed,X4,11,Hills
+Marc Hirschi,Unclassed,X6,2,Hills
+Marc Hirschi,Unclassed,X7,0,Hills
+Marc Hirschi,Unclassed,X8,0,Flat
+Marc Hirschi,Unclassed,X9,0,Flat
+Marc Hirschi,Unclassed,X10,0,Hills
+Marc Hirschi,Unclassed,X11,0,Hills
+Marc Hirschi,Unclassed,X12,0,Mount
+Marc Hirschi,Unclassed,X14,0,Mount
+Marc Hirschi,Unclassed,X15,2,Hills
+Marc Hirschi,Unclassed,X16,0,Mount
+Marc Hirschi,Unclassed,X17,0,Flat
+Marc Hirschi,Unclassed,X18,0,Mount
+Marc Hirschi,Unclassed,X19,0,Mount
+Marc Hirschi,Unclassed,X20,0,Hills
+Marc Hirschi,Unclassed,X21,0,Flat
+Marius Mayrhofer,Sprinter,X1,90,Flat
+Marius Mayrhofer,Sprinter,X2,0,Hills
+Marius Mayrhofer,Sprinter,X3,0,Flat
+Marius Mayrhofer,Sprinter,X4,0,Hills
+Marius Mayrhofer,Sprinter,X6,2,Hills
+Marius Mayrhofer,Sprinter,X7,0,Hills
+Marius Mayrhofer,Sprinter,X8,0,Flat
+Marius Mayrhofer,Sprinter,X9,0,Flat
+Marius Mayrhofer,Sprinter,X10,0,Hills
+Marius Mayrhofer,Sprinter,X11,0,Hills
+Marius Mayrhofer,Sprinter,X12,0,Mount
+Marius Mayrhofer,Sprinter,X14,0,Mount
+Marius Mayrhofer,Sprinter,X15,2,Hills
+Marius Mayrhofer,Sprinter,X16,0,Mount
+Marius Mayrhofer,Sprinter,X17,0,Flat
+Marius Mayrhofer,Sprinter,X18,0,Mount
+Marius Mayrhofer,Sprinter,X19,0,Mount
+Marius Mayrhofer,Sprinter,X20,0,Hills
+Marius Mayrhofer,Sprinter,X21,0,Flat
+Michael Storer,Climber,X1,8,Flat
+Michael Storer,Climber,X2,0,Hills
+Michael Storer,Climber,X3,0,Flat
+Michael Storer,Climber,X4,0,Hills
+Michael Storer,Climber,X6,182,Hills
+Michael Storer,Climber,X7,0,Hills
+Michael Storer,Climber,X8,1,Flat
+Michael Storer,Climber,X9,1,Flat
+Michael Storer,Climber,X10,140,Hills
+Michael Storer,Climber,X11,0,Hills
+Michael Storer,Climber,X12,4,Mount
+Michael Storer,Climber,X14,5,Mount
+Michael Storer,Climber,X15,22,Hills
+Michael Storer,Climber,X16,0,Mount
+Michael Storer,Climber,X17,0,Flat
+Michael Storer,Climber,X18,25,Mount
+Michael Storer,Climber,X19,0,Mount
+Michael Storer,Climber,X20,0,Hills
+Michael Storer,Climber,X21,0,Flat
+Matteo Trentin,Sprinter,X1,144,Flat
+Matteo Trentin,Sprinter,X2,0,Hills
+Matteo Trentin,Sprinter,X3,0,Flat
+Matteo Trentin,Sprinter,X4,0,Hills
+Matteo Trentin,Sprinter,X6,2,Hills
+Matteo Trentin,Sprinter,X7,0,Hills
+Matteo Trentin,Sprinter,X8,0,Flat
+Matteo Trentin,Sprinter,X9,12,Flat
+Matteo Trentin,Sprinter,X10,0,Hills
+Matteo Trentin,Sprinter,X11,0,Hills
+Matteo Trentin,Sprinter,X12,2,Mount
+Matteo Trentin,Sprinter,X14,3,Mount
+Matteo Trentin,Sprinter,X15,2,Hills
+Matteo Trentin,Sprinter,X16,12,Mount
+Matteo Trentin,Sprinter,X17,0,Flat
+Matteo Trentin,Sprinter,X18,0,Mount
+Matteo Trentin,Sprinter,X19,0,Mount
+Matteo Trentin,Sprinter,X20,73,Hills
+Matteo Trentin,Sprinter,X21,110,Flat
+Jhonatan Narváez,Unclassed,X1,0,Flat
+Jhonatan Narváez,Unclassed,X2,8,Hills
+Jhonatan Narváez,Unclassed,X3,4,Flat
+Jhonatan Narváez,Unclassed,X4,44,Hills
+Jhonatan Narváez,Unclassed,X6,8,Hills
+Jhonatan Narváez,Unclassed,X7,102,Hills
+Jhonatan Narváez,Unclassed,X8,15,Flat
+Jhonatan Narváez,Unclassed,X9,14,Flat
+Jhonatan Narváez,Unclassed,X10,12,Hills
+Jhonatan Narváez,Unclassed,X11,17,Hills
+Jhonatan Narváez,Unclassed,X12,37,Mount
+Jhonatan Narváez,Unclassed,X14,39,Mount
+Jhonatan Narváez,Unclassed,X15,27,Hills
+Jhonatan Narváez,Unclassed,X16,17,Mount
+Jhonatan Narváez,Unclassed,X17,17,Flat
+Jhonatan Narváez,Unclassed,X18,58,Mount
+Jhonatan Narváez,Unclassed,X19,30,Mount
+Jhonatan Narváez,Unclassed,X20,20,Hills
+Jhonatan Narváez,Unclassed,X21,20,Flat
+Nils Politt,Unclassed,X1,0,Flat
+Nils Politt,Unclassed,X2,8,Hills
+Nils Politt,Unclassed,X3,4,Flat
+Nils Politt,Unclassed,X4,14,Hills
+Nils Politt,Unclassed,X6,8,Hills
+Nils Politt,Unclassed,X7,20,Hills
+Nils Politt,Unclassed,X8,12,Flat
+Nils Politt,Unclassed,X9,12,Flat
+Nils Politt,Unclassed,X10,8,Hills
+Nils Politt,Unclassed,X11,8,Hills
+Nils Politt,Unclassed,X12,20,Mount
+Nils Politt,Unclassed,X14,16,Mount
+Nils Politt,Unclassed,X15,20,Hills
+Nils Politt,Unclassed,X16,12,Mount
+Nils Politt,Unclassed,X17,12,Flat
+Nils Politt,Unclassed,X18,16,Mount
+Nils Politt,Unclassed,X19,14,Mount
+Nils Politt,Unclassed,X20,12,Hills
+Nils Politt,Unclassed,X21,12,Flat
+Pavel Sivakov,Climber,X1,0,Flat
+Pavel Sivakov,Climber,X2,8,Hills
+Pavel Sivakov,Climber,X3,4,Flat
+Pavel Sivakov,Climber,X4,14,Hills
+Pavel Sivakov,Climber,X6,8,Hills
+Pavel Sivakov,Climber,X7,20,Hills
+Pavel Sivakov,Climber,X8,12,Flat
+Pavel Sivakov,Climber,X9,12,Flat
+Pavel Sivakov,Climber,X10,8,Hills
+Pavel Sivakov,Climber,X11,8,Hills
+Pavel Sivakov,Climber,X12,20,Mount
+Pavel Sivakov,Climber,X14,16,Mount
+Pavel Sivakov,Climber,X15,20,Hills
+Pavel Sivakov,Climber,X16,12,Mount
+Pavel Sivakov,Climber,X17,12,Flat
+Pavel Sivakov,Climber,X18,16,Mount
+Pavel Sivakov,Climber,X19,14,Mount
+Pavel Sivakov,Climber,X20,12,Hills
+Pavel Sivakov,Climber,X21,12,Flat
+Marc Soler,Climber,X1,0,Flat
+Marc Soler,Climber,X2,8,Hills
+Marc Soler,Climber,X3,4,Flat
+Marc Soler,Climber,X4,14,Hills
+Marc Soler,Climber,X6,8,Hills
+Marc Soler,Climber,X7,20,Hills
+Marc Soler,Climber,X8,12,Flat
+Marc Soler,Climber,X9,12,Flat
+Marc Soler,Climber,X10,8,Hills
+Marc Soler,Climber,X11,8,Hills
+Marc Soler,Climber,X12,20,Mount
+Marc Soler,Climber,X14,16,Mount
+Marc Soler,Climber,X15,20,Hills
+Marc Soler,Climber,X16,12,Mount
+Marc Soler,Climber,X17,12,Flat
+Marc Soler,Climber,X18,16,Mount
+Marc Soler,Climber,X19,14,Mount
+Marc Soler,Climber,X20,12,Hills
+Marc Soler,Climber,X21,12,Flat
+Tim Wellens,Unclassed,X1,0,Flat
+Tim Wellens,Unclassed,X2,16,Hills
+Tim Wellens,Unclassed,X3,17,Flat
+Tim Wellens,Unclassed,X4,22,Hills
+Tim Wellens,Unclassed,X6,20,Hills
+Tim Wellens,Unclassed,X7,32,Hills
+Tim Wellens,Unclassed,X8,24,Flat
+Tim Wellens,Unclassed,X9,24,Flat
+Tim Wellens,Unclassed,X10,12,Hills
+Tim Wellens,Unclassed,X11,12,Hills
+Tim Wellens,Unclassed,X12,20,Mount
+Tim Wellens,Unclassed,X14,16,Mount
+Tim Wellens,Unclassed,X15,252,Hills
+Tim Wellens,Unclassed,X16,12,Mount
+Tim Wellens,Unclassed,X17,12,Flat
+Tim Wellens,Unclassed,X18,22,Mount
+Tim Wellens,Unclassed,X19,16,Mount
+Tim Wellens,Unclassed,X20,112,Hills
+Tim Wellens,Unclassed,X21,12,Flat
+Jonas Abrahamsen,Unclassed,X1,4,Flat
+Jonas Abrahamsen,Unclassed,X2,0,Hills
+Jonas Abrahamsen,Unclassed,X3,0,Flat
+Jonas Abrahamsen,Unclassed,X4,40,Hills
+Jonas Abrahamsen,Unclassed,X6,0,Hills
+Jonas Abrahamsen,Unclassed,X7,0,Hills
+Jonas Abrahamsen,Unclassed,X8,0,Flat
+Jonas Abrahamsen,Unclassed,X9,0,Flat
+Jonas Abrahamsen,Unclassed,X10,0,Hills
+Jonas Abrahamsen,Unclassed,X11,260,Hills
+Jonas Abrahamsen,Unclassed,X12,0,Mount
+Jonas Abrahamsen,Unclassed,X14,0,Mount
+Jonas Abrahamsen,Unclassed,X15,0,Hills
+Jonas Abrahamsen,Unclassed,X16,20,Mount
+Jonas Abrahamsen,Unclassed,X17,40,Flat
+Jonas Abrahamsen,Unclassed,X18,8,Mount
+Jonas Abrahamsen,Unclassed,X19,6,Mount
+Jonas Abrahamsen,Unclassed,X20,25,Hills
+Jonas Abrahamsen,Unclassed,X21,37,Flat
+Magnus Cort,Unclassed,X1,4,Flat
+Magnus Cort,Unclassed,X2,0,Hills
+Magnus Cort,Unclassed,X3,0,Flat
+Magnus Cort,Unclassed,X4,0,Hills
+Magnus Cort,Unclassed,X6,0,Hills
+Magnus Cort,Unclassed,X7,0,Hills
+Magnus Cort,Unclassed,X8,0,Flat
+Magnus Cort,Unclassed,X9,0,Flat
+Magnus Cort,Unclassed,X10,0,Hills
+Magnus Cort,Unclassed,X11,8,Hills
+Magnus Cort,Unclassed,X12,0,Mount
+Magnus Cort,Unclassed,X14,0,Mount
+Magnus Cort,Unclassed,X15,0,Hills
+Magnus Cort,Unclassed,X16,0,Mount
+Magnus Cort,Unclassed,X17,0,Flat
+Magnus Cort,Unclassed,X18,0,Mount
+Magnus Cort,Unclassed,X19,0,Mount
+Magnus Cort,Unclassed,X20,0,Hills
+Magnus Cort,Unclassed,X21,0,Flat
+Stian Fredheim,Sprinter,X1,4,Flat
+Stian Fredheim,Sprinter,X2,0,Hills
+Stian Fredheim,Sprinter,X3,0,Flat
+Stian Fredheim,Sprinter,X4,0,Hills
+Stian Fredheim,Sprinter,X6,0,Hills
+Stian Fredheim,Sprinter,X7,0,Hills
+Stian Fredheim,Sprinter,X8,60,Flat
+Stian Fredheim,Sprinter,X9,70,Flat
+Stian Fredheim,Sprinter,X10,0,Hills
+Stian Fredheim,Sprinter,X11,8,Hills
+Stian Fredheim,Sprinter,X12,8,Mount
+Stian Fredheim,Sprinter,X14,0,Mount
+Stian Fredheim,Sprinter,X15,0,Hills
+Stian Fredheim,Sprinter,X16,0,Mount
+Stian Fredheim,Sprinter,X17,0,Flat
+Stian Fredheim,Sprinter,X18,0,Mount
+Stian Fredheim,Sprinter,X19,0,Mount
+Stian Fredheim,Sprinter,X20,0,Hills
+Stian Fredheim,Sprinter,X21,0,Flat
+Markus Hoelgaard,Unclassed,X1,4,Flat
+Markus Hoelgaard,Unclassed,X2,0,Hills
+Markus Hoelgaard,Unclassed,X3,0,Flat
+Markus Hoelgaard,Unclassed,X4,0,Hills
+Markus Hoelgaard,Unclassed,X6,0,Hills
+Markus Hoelgaard,Unclassed,X7,0,Hills
+Markus Hoelgaard,Unclassed,X8,0,Flat
+Markus Hoelgaard,Unclassed,X9,0,Flat
+Markus Hoelgaard,Unclassed,X10,0,Hills
+Markus Hoelgaard,Unclassed,X11,8,Hills
+Markus Hoelgaard,Unclassed,X12,0,Mount
+Markus Hoelgaard,Unclassed,X14,0,Mount
+Markus Hoelgaard,Unclassed,X15,0,Hills
+Markus Hoelgaard,Unclassed,X16,0,Mount
+Markus Hoelgaard,Unclassed,X17,0,Flat
+Markus Hoelgaard,Unclassed,X18,0,Mount
+Markus Hoelgaard,Unclassed,X19,0,Mount
+Markus Hoelgaard,Unclassed,X20,0,Hills
+Markus Hoelgaard,Unclassed,X21,0,Flat
+Anders Halland Johannessen,Unclassed,X1,4,Flat
+Anders Halland Johannessen,Unclassed,X2,0,Hills
+Anders Halland Johannessen,Unclassed,X3,0,Flat
+Anders Halland Johannessen,Unclassed,X4,0,Hills
+Anders Halland Johannessen,Unclassed,X6,0,Hills
+Anders Halland Johannessen,Unclassed,X7,0,Hills
+Anders Halland Johannessen,Unclassed,X8,0,Flat
+Anders Halland Johannessen,Unclassed,X9,0,Flat
+Anders Halland Johannessen,Unclassed,X10,135,Hills
+Anders Halland Johannessen,Unclassed,X11,8,Hills
+Anders Halland Johannessen,Unclassed,X12,0,Mount
+Anders Halland Johannessen,Unclassed,X14,0,Mount
+Anders Halland Johannessen,Unclassed,X15,0,Hills
+Anders Halland Johannessen,Unclassed,X16,0,Mount
+Anders Halland Johannessen,Unclassed,X17,0,Flat
+Anders Halland Johannessen,Unclassed,X18,0,Mount
+Anders Halland Johannessen,Unclassed,X19,0,Mount
+Anders Halland Johannessen,Unclassed,X20,0,Hills
+Anders Halland Johannessen,Unclassed,X21,0,Flat
+Andreas Leknessund,Unclassed,X1,4,Flat
+Andreas Leknessund,Unclassed,X2,37,Hills
+Andreas Leknessund,Unclassed,X3,1,Flat
+Andreas Leknessund,Unclassed,X4,0,Hills
+Andreas Leknessund,Unclassed,X6,0,Hills
+Andreas Leknessund,Unclassed,X7,0,Hills
+Andreas Leknessund,Unclassed,X8,0,Flat
+Andreas Leknessund,Unclassed,X9,0,Flat
+Andreas Leknessund,Unclassed,X10,0,Hills
+Andreas Leknessund,Unclassed,X11,8,Hills
+Andreas Leknessund,Unclassed,X12,0,Mount
+Andreas Leknessund,Unclassed,X14,0,Mount
+Andreas Leknessund,Unclassed,X15,12,Hills
+Andreas Leknessund,Unclassed,X16,0,Mount
+Andreas Leknessund,Unclassed,X17,0,Flat
+Andreas Leknessund,Unclassed,X18,0,Mount
+Andreas Leknessund,Unclassed,X19,0,Mount
+Andreas Leknessund,Unclassed,X20,0,Hills
+Andreas Leknessund,Unclassed,X21,0,Flat
+Søren Wærenskjold,Sprinter,X1,183,Flat
+Søren Wærenskjold,Sprinter,X2,0,Hills
+Søren Wærenskjold,Sprinter,X3,144,Flat
+Søren Wærenskjold,Sprinter,X4,0,Hills
+Søren Wærenskjold,Sprinter,X6,0,Hills
+Søren Wærenskjold,Sprinter,X7,0,Hills
+Søren Wærenskjold,Sprinter,X8,0,Flat
+Søren Wærenskjold,Sprinter,X9,0,Flat
+Søren Wærenskjold,Sprinter,X10,0,Hills
+Søren Wærenskjold,Sprinter,X11,0,Hills
+Søren Wærenskjold,Sprinter,X12,0,Mount
+Søren Wærenskjold,Sprinter,X14,0,Mount
+Søren Wærenskjold,Sprinter,X15,0,Hills
+Søren Wærenskjold,Sprinter,X16,0,Mount
+Søren Wærenskjold,Sprinter,X17,0,Flat
+Søren Wærenskjold,Sprinter,X18,0,Mount
+Søren Wærenskjold,Sprinter,X19,0,Mount
+Søren Wærenskjold,Sprinter,X20,0,Hills
+Søren Wærenskjold,Sprinter,X21,0,Flat
+Davide Ballerini,Unclassed,X1,0,Flat
+Davide Ballerini,Unclassed,X2,0,Hills
+Davide Ballerini,Unclassed,X3,0,Flat
+Davide Ballerini,Unclassed,X4,0,Hills
+Davide Ballerini,Unclassed,X6,0,Hills
+Davide Ballerini,Unclassed,X7,0,Hills
+Davide Ballerini,Unclassed,X8,0,Flat
+Davide Ballerini,Unclassed,X9,0,Flat
+Davide Ballerini,Unclassed,X10,0,Hills
+Davide Ballerini,Unclassed,X11,96,Hills
+Davide Ballerini,Unclassed,X12,0,Mount
+Davide Ballerini,Unclassed,X14,0,Mount
+Davide Ballerini,Unclassed,X15,0,Hills
+Davide Ballerini,Unclassed,X16,0,Mount
+Davide Ballerini,Unclassed,X17,120,Flat
+Davide Ballerini,Unclassed,X18,0,Mount
+Davide Ballerini,Unclassed,X19,0,Mount
+Davide Ballerini,Unclassed,X20,35,Hills
+Davide Ballerini,Unclassed,X21,180,Flat
+Cees Bol,Unclassed,X1,0,Flat
+Cees Bol,Unclassed,X2,0,Hills
+Cees Bol,Unclassed,X3,0,Flat
+Cees Bol,Unclassed,X4,0,Hills
+Cees Bol,Unclassed,X6,0,Hills
+Cees Bol,Unclassed,X7,0,Hills
+Cees Bol,Unclassed,X8,12,Flat
+Cees Bol,Unclassed,X9,4,Flat
+Cees Bol,Unclassed,X10,0,Hills
+Cees Bol,Unclassed,X11,0,Hills
+Cees Bol,Unclassed,X12,0,Mount
+Cees Bol,Unclassed,X14,0,Mount
+Cees Bol,Unclassed,X15,0,Hills
+Cees Bol,Unclassed,X16,0,Mount
+Cees Bol,Unclassed,X17,0,Flat
+Cees Bol,Unclassed,X18,0,Mount
+Cees Bol,Unclassed,X19,0,Mount
+Cees Bol,Unclassed,X20,0,Hills
+Cees Bol,Unclassed,X21,0,Flat
+Clément Champoussin,Climber,X1,0,Flat
+Clément Champoussin,Climber,X2,0,Hills
+Clément Champoussin,Climber,X3,0,Flat
+Clément Champoussin,Climber,X4,0,Hills
+Clément Champoussin,Climber,X6,0,Hills
+Clément Champoussin,Climber,X7,0,Hills
+Clément Champoussin,Climber,X8,0,Flat
+Clément Champoussin,Climber,X9,0,Flat
+Clément Champoussin,Climber,X10,0,Hills
+Clément Champoussin,Climber,X11,12,Hills
+Clément Champoussin,Climber,X12,0,Mount
+Clément Champoussin,Climber,X14,0,Mount
+Clément Champoussin,Climber,X15,0,Hills
+Clément Champoussin,Climber,X16,0,Mount
+Clément Champoussin,Climber,X17,0,Flat
+Clément Champoussin,Climber,X18,0,Mount
+Clément Champoussin,Climber,X19,0,Mount
+Clément Champoussin,Climber,X20,0,Hills
+Clément Champoussin,Climber,X21,4,Flat
+Yevgeniy Fedorov,Unclassed,X1,0,Flat
+Yevgeniy Fedorov,Unclassed,X2,40,Hills
+Yevgeniy Fedorov,Unclassed,X3,20,Flat
+Yevgeniy Fedorov,Unclassed,X4,0,Hills
+Yevgeniy Fedorov,Unclassed,X6,0,Hills
+Yevgeniy Fedorov,Unclassed,X7,0,Hills
+Yevgeniy Fedorov,Unclassed,X8,0,Flat
+Yevgeniy Fedorov,Unclassed,X9,0,Flat
+Yevgeniy Fedorov,Unclassed,X10,0,Hills
+Yevgeniy Fedorov,Unclassed,X11,0,Hills
+Yevgeniy Fedorov,Unclassed,X12,0,Mount
+Yevgeniy Fedorov,Unclassed,X14,0,Mount
+Yevgeniy Fedorov,Unclassed,X15,0,Hills
+Yevgeniy Fedorov,Unclassed,X16,0,Mount
+Yevgeniy Fedorov,Unclassed,X17,80,Flat
+Yevgeniy Fedorov,Unclassed,X18,0,Mount
+Yevgeniy Fedorov,Unclassed,X19,0,Mount
+Yevgeniy Fedorov,Unclassed,X20,0,Hills
+Yevgeniy Fedorov,Unclassed,X21,0,Flat
+Sergio Higuita,Unclassed,X1,0,Flat
+Sergio Higuita,Unclassed,X2,0,Hills
+Sergio Higuita,Unclassed,X3,0,Flat
+Sergio Higuita,Unclassed,X4,0,Hills
+Sergio Higuita,Unclassed,X6,0,Hills
+Sergio Higuita,Unclassed,X7,4,Hills
+Sergio Higuita,Unclassed,X8,0,Flat
+Sergio Higuita,Unclassed,X9,0,Flat
+Sergio Higuita,Unclassed,X10,4,Hills
+Sergio Higuita,Unclassed,X11,0,Hills
+Sergio Higuita,Unclassed,X12,30,Mount
+Sergio Higuita,Unclassed,X14,6,Mount
+Sergio Higuita,Unclassed,X15,2,Hills
+Sergio Higuita,Unclassed,X16,2,Mount
+Sergio Higuita,Unclassed,X17,2,Flat
+Sergio Higuita,Unclassed,X18,36,Mount
+Sergio Higuita,Unclassed,X19,6,Mount
+Sergio Higuita,Unclassed,X20,7,Hills
+Sergio Higuita,Unclassed,X21,11,Flat
+Harold Tejada,Unclassed,X1,0,Flat
+Harold Tejada,Unclassed,X2,0,Hills
+Harold Tejada,Unclassed,X3,0,Flat
+Harold Tejada,Unclassed,X4,0,Hills
+Harold Tejada,Unclassed,X6,115,Hills
+Harold Tejada,Unclassed,X7,0,Hills
+Harold Tejada,Unclassed,X8,0,Flat
+Harold Tejada,Unclassed,X9,0,Flat
+Harold Tejada,Unclassed,X10,0,Hills
+Harold Tejada,Unclassed,X11,0,Hills
+Harold Tejada,Unclassed,X12,0,Mount
+Harold Tejada,Unclassed,X14,40,Mount
+Harold Tejada,Unclassed,X15,50,Hills
+Harold Tejada,Unclassed,X16,0,Mount
+Harold Tejada,Unclassed,X17,0,Flat
+Harold Tejada,Unclassed,X18,0,Mount
+Harold Tejada,Unclassed,X19,4,Mount
+Harold Tejada,Unclassed,X20,0,Hills
+Harold Tejada,Unclassed,X21,4,Flat
+Mike Teunissen,Unclassed,X1,60,Flat
+Mike Teunissen,Unclassed,X2,0,Hills
+Mike Teunissen,Unclassed,X3,0,Flat
+Mike Teunissen,Unclassed,X4,0,Hills
+Mike Teunissen,Unclassed,X6,0,Hills
+Mike Teunissen,Unclassed,X7,0,Hills
+Mike Teunissen,Unclassed,X8,0,Flat
+Mike Teunissen,Unclassed,X9,0,Flat
+Mike Teunissen,Unclassed,X10,0,Hills
+Mike Teunissen,Unclassed,X11,0,Hills
+Mike Teunissen,Unclassed,X12,0,Mount
+Mike Teunissen,Unclassed,X14,0,Mount
+Mike Teunissen,Unclassed,X15,0,Hills
+Mike Teunissen,Unclassed,X16,0,Mount
+Mike Teunissen,Unclassed,X17,25,Flat
+Mike Teunissen,Unclassed,X18,0,Mount
+Mike Teunissen,Unclassed,X19,0,Mount
+Mike Teunissen,Unclassed,X20,30,Hills
+Mike Teunissen,Unclassed,X21,74,Flat
+Simone Velasco,Unclassed,X1,0,Flat
+Simone Velasco,Unclassed,X2,70,Hills
+Simone Velasco,Unclassed,X3,0,Flat
+Simone Velasco,Unclassed,X4,0,Hills
+Simone Velasco,Unclassed,X6,0,Hills
+Simone Velasco,Unclassed,X7,0,Hills
+Simone Velasco,Unclassed,X8,0,Flat
+Simone Velasco,Unclassed,X9,0,Flat
+Simone Velasco,Unclassed,X10,0,Hills
+Simone Velasco,Unclassed,X11,25,Hills
+Simone Velasco,Unclassed,X12,6,Mount
+Simone Velasco,Unclassed,X14,0,Mount
+Simone Velasco,Unclassed,X15,0,Hills
+Simone Velasco,Unclassed,X16,16,Mount
+Simone Velasco,Unclassed,X17,0,Flat
+Simone Velasco,Unclassed,X18,0,Mount
+Simone Velasco,Unclassed,X19,0,Mount
+Simone Velasco,Unclassed,X20,180,Hills
+Simone Velasco,Unclassed,X21,4,Flat
+Silvan Dillier,Unclassed,X1,18,Flat
+Silvan Dillier,Unclassed,X2,18,Hills
+Silvan Dillier,Unclassed,X3,10,Flat
+Silvan Dillier,Unclassed,X4,12,Hills
+Silvan Dillier,Unclassed,X6,8,Hills
+Silvan Dillier,Unclassed,X7,0,Hills
+Silvan Dillier,Unclassed,X8,2,Flat
+Silvan Dillier,Unclassed,X9,0,Flat
+Silvan Dillier,Unclassed,X10,0,Hills
+Silvan Dillier,Unclassed,X11,2,Hills
+Silvan Dillier,Unclassed,X12,0,Mount
+Silvan Dillier,Unclassed,X14,0,Mount
+Silvan Dillier,Unclassed,X15,0,Hills
+Silvan Dillier,Unclassed,X16,0,Mount
+Silvan Dillier,Unclassed,X17,0,Flat
+Silvan Dillier,Unclassed,X18,0,Mount
+Silvan Dillier,Unclassed,X19,0,Mount
+Silvan Dillier,Unclassed,X20,8,Hills
+Silvan Dillier,Unclassed,X21,0,Flat
+Jonas Rickaert,Unclassed,X1,18,Flat
+Jonas Rickaert,Unclassed,X2,18,Hills
+Jonas Rickaert,Unclassed,X3,10,Flat
+Jonas Rickaert,Unclassed,X4,12,Hills
+Jonas Rickaert,Unclassed,X6,8,Hills
+Jonas Rickaert,Unclassed,X7,0,Hills
+Jonas Rickaert,Unclassed,X8,2,Flat
+Jonas Rickaert,Unclassed,X9,36,Flat
+Jonas Rickaert,Unclassed,X10,0,Hills
+Jonas Rickaert,Unclassed,X11,2,Hills
+Jonas Rickaert,Unclassed,X12,0,Mount
+Jonas Rickaert,Unclassed,X14,0,Mount
+Jonas Rickaert,Unclassed,X15,0,Hills
+Jonas Rickaert,Unclassed,X16,0,Mount
+Jonas Rickaert,Unclassed,X17,0,Flat
+Jonas Rickaert,Unclassed,X18,0,Mount
+Jonas Rickaert,Unclassed,X19,0,Mount
+Jonas Rickaert,Unclassed,X20,8,Hills
+Jonas Rickaert,Unclassed,X21,0,Flat
+Mathis Le Berre,Unclassed,X1,0,Flat
+Mathis Le Berre,Unclassed,X2,0,Hills
+Mathis Le Berre,Unclassed,X3,0,Flat
+Mathis Le Berre,Unclassed,X4,0,Hills
+Mathis Le Berre,Unclassed,X6,0,Hills
+Mathis Le Berre,Unclassed,X7,2,Hills
+Mathis Le Berre,Unclassed,X8,2,Flat
+Mathis Le Berre,Unclassed,X9,2,Flat
+Mathis Le Berre,Unclassed,X10,0,Hills
+Mathis Le Berre,Unclassed,X11,0,Hills
+Mathis Le Berre,Unclassed,X12,2,Mount
+Mathis Le Berre,Unclassed,X14,0,Mount
+Mathis Le Berre,Unclassed,X15,0,Hills
+Mathis Le Berre,Unclassed,X16,0,Mount
+Mathis Le Berre,Unclassed,X17,0,Flat
+Mathis Le Berre,Unclassed,X18,0,Mount
+Mathis Le Berre,Unclassed,X19,0,Mount
+Mathis Le Berre,Unclassed,X20,4,Hills
+Mathis Le Berre,Unclassed,X21,0,Flat
+Kamil Gradek,Unclassed,X1,0,Flat
+Kamil Gradek,Unclassed,X2,0,Hills
+Kamil Gradek,Unclassed,X3,2,Flat
+Kamil Gradek,Unclassed,X4,0,Hills
+Kamil Gradek,Unclassed,X6,0,Hills
+Kamil Gradek,Unclassed,X7,0,Hills
+Kamil Gradek,Unclassed,X8,0,Flat
+Kamil Gradek,Unclassed,X9,0,Flat
+Kamil Gradek,Unclassed,X10,0,Hills
+Kamil Gradek,Unclassed,X11,0,Hills
+Kamil Gradek,Unclassed,X12,0,Mount
+Kamil Gradek,Unclassed,X14,0,Mount
+Kamil Gradek,Unclassed,X15,0,Hills
+Kamil Gradek,Unclassed,X16,2,Mount
+Kamil Gradek,Unclassed,X17,0,Flat
+Kamil Gradek,Unclassed,X18,0,Mount
+Kamil Gradek,Unclassed,X19,0,Mount
+Kamil Gradek,Unclassed,X20,0,Hills
+Kamil Gradek,Unclassed,X21,2,Flat
+Robert Stannard,Unclassed,X1,0,Flat
+Robert Stannard,Unclassed,X2,0,Hills
+Robert Stannard,Unclassed,X3,2,Flat
+Robert Stannard,Unclassed,X4,0,Hills
+Robert Stannard,Unclassed,X6,0,Hills
+Robert Stannard,Unclassed,X7,0,Hills
+Robert Stannard,Unclassed,X8,0,Flat
+Robert Stannard,Unclassed,X9,0,Flat
+Robert Stannard,Unclassed,X10,0,Hills
+Robert Stannard,Unclassed,X11,0,Hills
+Robert Stannard,Unclassed,X12,0,Mount
+Robert Stannard,Unclassed,X14,0,Mount
+Robert Stannard,Unclassed,X15,0,Hills
+Robert Stannard,Unclassed,X16,2,Mount
+Robert Stannard,Unclassed,X17,0,Flat
+Robert Stannard,Unclassed,X18,0,Mount
+Robert Stannard,Unclassed,X19,0,Mount
+Robert Stannard,Unclassed,X20,0,Hills
+Robert Stannard,Unclassed,X21,2,Flat
+Damien Touzé,Unclassed,X1,20,Flat
+Damien Touzé,Unclassed,X2,0,Hills
+Damien Touzé,Unclassed,X3,25,Flat
+Damien Touzé,Unclassed,X4,0,Hills
+Damien Touzé,Unclassed,X6,0,Hills
+Damien Touzé,Unclassed,X7,0,Hills
+Damien Touzé,Unclassed,X8,0,Flat
+Damien Touzé,Unclassed,X9,0,Flat
+Damien Touzé,Unclassed,X10,0,Hills
+Damien Touzé,Unclassed,X11,0,Hills
+Damien Touzé,Unclassed,X12,0,Mount
+Damien Touzé,Unclassed,X14,0,Mount
+Damien Touzé,Unclassed,X15,0,Hills
+Damien Touzé,Unclassed,X16,0,Mount
+Damien Touzé,Unclassed,X17,0,Flat
+Damien Touzé,Unclassed,X18,0,Mount
+Damien Touzé,Unclassed,X19,0,Mount
+Damien Touzé,Unclassed,X20,0,Hills
+Damien Touzé,Unclassed,X21,0,Flat
+Oliver Naesen,Unclassed,X1,0,Flat
+Oliver Naesen,Unclassed,X2,0,Hills
+Oliver Naesen,Unclassed,X3,0,Flat
+Oliver Naesen,Unclassed,X4,0,Hills
+Oliver Naesen,Unclassed,X6,0,Hills
+Oliver Naesen,Unclassed,X7,0,Hills
+Oliver Naesen,Unclassed,X8,0,Flat
+Oliver Naesen,Unclassed,X9,0,Flat
+Oliver Naesen,Unclassed,X10,2,Hills
+Oliver Naesen,Unclassed,X11,0,Hills
+Oliver Naesen,Unclassed,X12,0,Mount
+Oliver Naesen,Unclassed,X14,2,Mount
+Oliver Naesen,Unclassed,X15,0,Hills
+Oliver Naesen,Unclassed,X16,0,Mount
+Oliver Naesen,Unclassed,X17,0,Flat
+Oliver Naesen,Unclassed,X18,0,Mount
+Oliver Naesen,Unclassed,X19,0,Mount
+Oliver Naesen,Unclassed,X20,0,Hills
+Oliver Naesen,Unclassed,X21,0,Flat
+Callum Scotson,Unclassed,X1,0,Flat
+Callum Scotson,Unclassed,X2,0,Hills
+Callum Scotson,Unclassed,X3,0,Flat
+Callum Scotson,Unclassed,X4,0,Hills
+Callum Scotson,Unclassed,X6,0,Hills
+Callum Scotson,Unclassed,X7,0,Hills
+Callum Scotson,Unclassed,X8,0,Flat
+Callum Scotson,Unclassed,X9,0,Flat
+Callum Scotson,Unclassed,X10,2,Hills
+Callum Scotson,Unclassed,X11,0,Hills
+Callum Scotson,Unclassed,X12,0,Mount
+Callum Scotson,Unclassed,X14,10,Mount
+Callum Scotson,Unclassed,X15,0,Hills
+Callum Scotson,Unclassed,X16,0,Mount
+Callum Scotson,Unclassed,X17,0,Flat
+Callum Scotson,Unclassed,X18,0,Mount
+Callum Scotson,Unclassed,X19,0,Mount
+Callum Scotson,Unclassed,X20,0,Hills
+Callum Scotson,Unclassed,X21,0,Flat
+Harry Sweeny,Unclassed,X1,37,Flat
+Harry Sweeny,Unclassed,X2,0,Hills
+Harry Sweeny,Unclassed,X3,0,Flat
+Harry Sweeny,Unclassed,X4,0,Hills
+Harry Sweeny,Unclassed,X6,8,Hills
+Harry Sweeny,Unclassed,X7,0,Hills
+Harry Sweeny,Unclassed,X8,0,Flat
+Harry Sweeny,Unclassed,X9,0,Flat
+Harry Sweeny,Unclassed,X10,42,Hills
+Harry Sweeny,Unclassed,X11,8,Hills
+Harry Sweeny,Unclassed,X12,0,Mount
+Harry Sweeny,Unclassed,X14,0,Mount
+Harry Sweeny,Unclassed,X15,0,Hills
+Harry Sweeny,Unclassed,X16,4,Mount
+Harry Sweeny,Unclassed,X17,0,Flat
+Harry Sweeny,Unclassed,X18,0,Mount
+Harry Sweeny,Unclassed,X19,0,Mount
+Harry Sweeny,Unclassed,X20,85,Hills
+Harry Sweeny,Unclassed,X21,0,Flat
+Cyril Barthe,Unclassed,X1,4,Flat
+Cyril Barthe,Unclassed,X2,8,Hills
+Cyril Barthe,Unclassed,X3,8,Flat
+Cyril Barthe,Unclassed,X4,4,Hills
+Cyril Barthe,Unclassed,X6,2,Hills
+Cyril Barthe,Unclassed,X7,2,Hills
+Cyril Barthe,Unclassed,X8,2,Flat
+Cyril Barthe,Unclassed,X9,2,Flat
+Cyril Barthe,Unclassed,X10,0,Hills
+Cyril Barthe,Unclassed,X11,2,Hills
+Cyril Barthe,Unclassed,X12,0,Mount
+Cyril Barthe,Unclassed,X14,0,Mount
+Cyril Barthe,Unclassed,X15,0,Hills
+Cyril Barthe,Unclassed,X16,0,Mount
+Cyril Barthe,Unclassed,X17,0,Flat
+Cyril Barthe,Unclassed,X18,0,Mount
+Cyril Barthe,Unclassed,X19,0,Mount
+Cyril Barthe,Unclassed,X20,0,Hills
+Cyril Barthe,Unclassed,X21,0,Flat
+Clément Russo,Unclassed,X1,129,Flat
+Clément Russo,Unclassed,X2,8,Hills
+Clément Russo,Unclassed,X3,12,Flat
+Clément Russo,Unclassed,X4,4,Hills
+Clément Russo,Unclassed,X6,2,Hills
+Clément Russo,Unclassed,X7,2,Hills
+Clément Russo,Unclassed,X8,2,Flat
+Clément Russo,Unclassed,X9,2,Flat
+Clément Russo,Unclassed,X10,0,Hills
+Clément Russo,Unclassed,X11,2,Hills
+Clément Russo,Unclassed,X12,0,Mount
+Clément Russo,Unclassed,X14,0,Mount
+Clément Russo,Unclassed,X15,0,Hills
+Clément Russo,Unclassed,X16,0,Mount
+Clément Russo,Unclassed,X17,70,Flat
+Clément Russo,Unclassed,X18,0,Mount
+Clément Russo,Unclassed,X19,0,Mount
+Clément Russo,Unclassed,X20,0,Hills
+Clément Russo,Unclassed,X21,12,Flat
+Connor Swift,Unclassed,X1,0,Flat
+Connor Swift,Unclassed,X2,0,Hills
+Connor Swift,Unclassed,X3,0,Flat
+Connor Swift,Unclassed,X4,0,Hills
+Connor Swift,Unclassed,X6,0,Hills
+Connor Swift,Unclassed,X7,0,Hills
+Connor Swift,Unclassed,X8,0,Flat
+Connor Swift,Unclassed,X9,0,Flat
+Connor Swift,Unclassed,X10,4,Hills
+Connor Swift,Unclassed,X11,0,Hills
+Connor Swift,Unclassed,X12,0,Mount
+Connor Swift,Unclassed,X14,8,Mount
+Connor Swift,Unclassed,X15,0,Hills
+Connor Swift,Unclassed,X16,0,Mount
+Connor Swift,Unclassed,X17,0,Flat
+Connor Swift,Unclassed,X18,0,Mount
+Connor Swift,Unclassed,X19,8,Mount
+Connor Swift,Unclassed,X20,0,Hills
+Connor Swift,Unclassed,X21,0,Flat
+Roel Van Sintmaartensdijk,Unclassed,X1,8,Flat
+Roel Van Sintmaartensdijk,Unclassed,X2,0,Hills
+Roel Van Sintmaartensdijk,Unclassed,X3,0,Flat
+Roel Van Sintmaartensdijk,Unclassed,X4,0,Hills
+Roel Van Sintmaartensdijk,Unclassed,X6,0,Hills
+Roel Van Sintmaartensdijk,Unclassed,X7,0,Hills
+Roel Van Sintmaartensdijk,Unclassed,X8,2,Flat
+Roel Van Sintmaartensdijk,Unclassed,X9,0,Flat
+Roel Van Sintmaartensdijk,Unclassed,X10,0,Hills
+Roel Van Sintmaartensdijk,Unclassed,X11,0,Hills
+Roel Van Sintmaartensdijk,Unclassed,X12,0,Mount
+Roel Van Sintmaartensdijk,Unclassed,X14,0,Mount
+Roel Van Sintmaartensdijk,Unclassed,X15,0,Hills
+Roel Van Sintmaartensdijk,Unclassed,X16,0,Mount
+Roel Van Sintmaartensdijk,Unclassed,X17,0,Flat
+Roel Van Sintmaartensdijk,Unclassed,X18,0,Mount
+Roel Van Sintmaartensdijk,Unclassed,X19,0,Mount
+Roel Van Sintmaartensdijk,Unclassed,X20,0,Hills
+Roel Van Sintmaartensdijk,Unclassed,X21,0,Flat
+Guillaume Boivin,Unclassed,X1,0,Flat
+Guillaume Boivin,Unclassed,X2,0,Hills
+Guillaume Boivin,Unclassed,X3,0,Flat
+Guillaume Boivin,Unclassed,X4,0,Hills
+Guillaume Boivin,Unclassed,X6,0,Hills
+Guillaume Boivin,Unclassed,X7,0,Hills
+Guillaume Boivin,Unclassed,X8,0,Flat
+Guillaume Boivin,Unclassed,X9,0,Flat
+Guillaume Boivin,Unclassed,X10,0,Hills
+Guillaume Boivin,Unclassed,X11,0,Hills
+Guillaume Boivin,Unclassed,X12,0,Mount
+Guillaume Boivin,Unclassed,X14,0,Mount
+Guillaume Boivin,Unclassed,X15,0,Hills
+Guillaume Boivin,Unclassed,X16,0,Mount
+Guillaume Boivin,Unclassed,X17,0,Flat
+Guillaume Boivin,Unclassed,X18,0,Mount
+Guillaume Boivin,Unclassed,X19,0,Mount
+Guillaume Boivin,Unclassed,X20,0,Hills
+Guillaume Boivin,Unclassed,X21,0,Flat
+Matis Louvel,Unclassed,X1,0,Flat
+Matis Louvel,Unclassed,X2,0,Hills
+Matis Louvel,Unclassed,X3,0,Flat
+Matis Louvel,Unclassed,X4,0,Hills
+Matis Louvel,Unclassed,X6,0,Hills
+Matis Louvel,Unclassed,X7,0,Hills
+Matis Louvel,Unclassed,X8,0,Flat
+Matis Louvel,Unclassed,X9,0,Flat
+Matis Louvel,Unclassed,X10,0,Hills
+Matis Louvel,Unclassed,X11,0,Hills
+Matis Louvel,Unclassed,X12,0,Mount
+Matis Louvel,Unclassed,X14,2,Mount
+Matis Louvel,Unclassed,X15,0,Hills
+Matis Louvel,Unclassed,X16,0,Mount
+Matis Louvel,Unclassed,X17,0,Flat
+Matis Louvel,Unclassed,X18,0,Mount
+Matis Louvel,Unclassed,X19,0,Mount
+Matis Louvel,Unclassed,X20,0,Hills
+Matis Louvel,Unclassed,X21,0,Flat
+Edward Theuns,Unclassed,X1,0,Flat
+Edward Theuns,Unclassed,X2,0,Hills
+Edward Theuns,Unclassed,X3,4,Flat
+Edward Theuns,Unclassed,X4,0,Hills
+Edward Theuns,Unclassed,X6,4,Hills
+Edward Theuns,Unclassed,X7,0,Hills
+Edward Theuns,Unclassed,X8,8,Flat
+Edward Theuns,Unclassed,X9,4,Flat
+Edward Theuns,Unclassed,X10,0,Hills
+Edward Theuns,Unclassed,X11,0,Hills
+Edward Theuns,Unclassed,X12,4,Mount
+Edward Theuns,Unclassed,X14,0,Mount
+Edward Theuns,Unclassed,X15,0,Hills
+Edward Theuns,Unclassed,X16,0,Mount
+Edward Theuns,Unclassed,X17,8,Flat
+Edward Theuns,Unclassed,X18,4,Mount
+Edward Theuns,Unclassed,X19,2,Mount
+Edward Theuns,Unclassed,X20,0,Hills
+Edward Theuns,Unclassed,X21,0,Flat
+Jasper De Buyst,Unclassed,X1,0,Flat
+Jasper De Buyst,Unclassed,X2,0,Hills
+Jasper De Buyst,Unclassed,X3,0,Flat
+Jasper De Buyst,Unclassed,X4,0,Hills
+Jasper De Buyst,Unclassed,X6,0,Hills
+Jasper De Buyst,Unclassed,X7,0,Hills
+Jasper De Buyst,Unclassed,X8,0,Flat
+Jasper De Buyst,Unclassed,X9,0,Flat
+Jasper De Buyst,Unclassed,X10,0,Hills
+Jasper De Buyst,Unclassed,X11,0,Hills
+Jasper De Buyst,Unclassed,X12,0,Mount
+Jasper De Buyst,Unclassed,X14,0,Mount
+Jasper De Buyst,Unclassed,X15,0,Hills
+Jasper De Buyst,Unclassed,X16,0,Mount
+Jasper De Buyst,Unclassed,X17,0,Flat
+Jasper De Buyst,Unclassed,X18,0,Mount
+Jasper De Buyst,Unclassed,X19,0,Mount
+Jasper De Buyst,Unclassed,X20,0,Hills
+Jasper De Buyst,Unclassed,X21,0,Flat
+Jarrad Drizners,Unclassed,X1,0,Flat
+Jarrad Drizners,Unclassed,X2,0,Hills
+Jarrad Drizners,Unclassed,X3,0,Flat
+Jarrad Drizners,Unclassed,X4,1,Hills
+Jarrad Drizners,Unclassed,X6,0,Hills
+Jarrad Drizners,Unclassed,X7,0,Hills
+Jarrad Drizners,Unclassed,X8,0,Flat
+Jarrad Drizners,Unclassed,X9,2,Flat
+Jarrad Drizners,Unclassed,X10,0,Hills
+Jarrad Drizners,Unclassed,X11,0,Hills
+Jarrad Drizners,Unclassed,X12,0,Mount
+Jarrad Drizners,Unclassed,X14,0,Mount
+Jarrad Drizners,Unclassed,X15,3,Hills
+Jarrad Drizners,Unclassed,X16,2,Mount
+Jarrad Drizners,Unclassed,X17,35,Flat
+Jarrad Drizners,Unclassed,X18,0,Mount
+Jarrad Drizners,Unclassed,X19,0,Mount
+Jarrad Drizners,Unclassed,X20,0,Hills
+Jarrad Drizners,Unclassed,X21,0,Flat
+Sébastien Grignard,Unclassed,X1,0,Flat
+Sébastien Grignard,Unclassed,X2,0,Hills
+Sébastien Grignard,Unclassed,X3,0,Flat
+Sébastien Grignard,Unclassed,X4,0,Hills
+Sébastien Grignard,Unclassed,X6,0,Hills
+Sébastien Grignard,Unclassed,X7,0,Hills
+Sébastien Grignard,Unclassed,X8,0,Flat
+Sébastien Grignard,Unclassed,X9,2,Flat
+Sébastien Grignard,Unclassed,X10,0,Hills
+Sébastien Grignard,Unclassed,X11,0,Hills
+Sébastien Grignard,Unclassed,X12,0,Mount
+Sébastien Grignard,Unclassed,X14,0,Mount
+Sébastien Grignard,Unclassed,X15,0,Hills
+Sébastien Grignard,Unclassed,X16,0,Mount
+Sébastien Grignard,Unclassed,X17,0,Flat
+Sébastien Grignard,Unclassed,X18,0,Mount
+Sébastien Grignard,Unclassed,X19,0,Mount
+Sébastien Grignard,Unclassed,X20,0,Hills
+Sébastien Grignard,Unclassed,X21,0,Flat
+Eduardo Sepúlveda,Unclassed,X1,0,Flat
+Eduardo Sepúlveda,Unclassed,X2,0,Hills
+Eduardo Sepúlveda,Unclassed,X3,0,Flat
+Eduardo Sepúlveda,Unclassed,X4,0,Hills
+Eduardo Sepúlveda,Unclassed,X6,0,Hills
+Eduardo Sepúlveda,Unclassed,X7,0,Hills
+Eduardo Sepúlveda,Unclassed,X8,0,Flat
+Eduardo Sepúlveda,Unclassed,X9,2,Flat
+Eduardo Sepúlveda,Unclassed,X10,0,Hills
+Eduardo Sepúlveda,Unclassed,X11,0,Hills
+Eduardo Sepúlveda,Unclassed,X12,0,Mount
+Eduardo Sepúlveda,Unclassed,X14,0,Mount
+Eduardo Sepúlveda,Unclassed,X15,0,Hills
+Eduardo Sepúlveda,Unclassed,X16,0,Mount
+Eduardo Sepúlveda,Unclassed,X17,0,Flat
+Eduardo Sepúlveda,Unclassed,X18,0,Mount
+Eduardo Sepúlveda,Unclassed,X19,0,Mount
+Eduardo Sepúlveda,Unclassed,X20,0,Hills
+Eduardo Sepúlveda,Unclassed,X21,0,Flat
+Gianni Moscon,Unclassed,X1,0,Flat
+Gianni Moscon,Unclassed,X2,0,Hills
+Gianni Moscon,Unclassed,X3,0,Flat
+Gianni Moscon,Unclassed,X4,0,Hills
+Gianni Moscon,Unclassed,X6,0,Hills
+Gianni Moscon,Unclassed,X7,0,Hills
+Gianni Moscon,Unclassed,X8,0,Flat
+Gianni Moscon,Unclassed,X9,0,Flat
+Gianni Moscon,Unclassed,X10,0,Hills
+Gianni Moscon,Unclassed,X11,0,Hills
+Gianni Moscon,Unclassed,X12,2,Mount
+Gianni Moscon,Unclassed,X14,2,Mount
+Gianni Moscon,Unclassed,X15,4,Hills
+Gianni Moscon,Unclassed,X16,4,Mount
+Gianni Moscon,Unclassed,X17,8,Flat
+Gianni Moscon,Unclassed,X18,4,Mount
+Gianni Moscon,Unclassed,X19,4,Mount
+Gianni Moscon,Unclassed,X20,4,Hills
+Gianni Moscon,Unclassed,X21,4,Flat
+Mick Van Dijke,Unclassed,X1,0,Flat
+Mick Van Dijke,Unclassed,X2,0,Hills
+Mick Van Dijke,Unclassed,X3,0,Flat
+Mick Van Dijke,Unclassed,X4,0,Hills
+Mick Van Dijke,Unclassed,X6,0,Hills
+Mick Van Dijke,Unclassed,X7,0,Hills
+Mick Van Dijke,Unclassed,X8,0,Flat
+Mick Van Dijke,Unclassed,X9,0,Flat
+Mick Van Dijke,Unclassed,X10,0,Hills
+Mick Van Dijke,Unclassed,X11,0,Hills
+Mick Van Dijke,Unclassed,X12,2,Mount
+Mick Van Dijke,Unclassed,X14,2,Mount
+Mick Van Dijke,Unclassed,X15,4,Hills
+Mick Van Dijke,Unclassed,X16,4,Mount
+Mick Van Dijke,Unclassed,X17,16,Flat
+Mick Van Dijke,Unclassed,X18,4,Mount
+Mick Van Dijke,Unclassed,X19,4,Mount
+Mick Van Dijke,Unclassed,X20,4,Hills
+Mick Van Dijke,Unclassed,X21,4,Flat
+Pascal Eenkhoorn,Unclassed,X1,0,Flat
+Pascal Eenkhoorn,Unclassed,X2,0,Hills
+Pascal Eenkhoorn,Unclassed,X3,8,Flat
+Pascal Eenkhoorn,Unclassed,X4,0,Hills
+Pascal Eenkhoorn,Unclassed,X6,2,Hills
+Pascal Eenkhoorn,Unclassed,X7,4,Hills
+Pascal Eenkhoorn,Unclassed,X8,4,Flat
+Pascal Eenkhoorn,Unclassed,X9,12,Flat
+Pascal Eenkhoorn,Unclassed,X10,2,Hills
+Pascal Eenkhoorn,Unclassed,X11,2,Hills
+Pascal Eenkhoorn,Unclassed,X12,2,Mount
+Pascal Eenkhoorn,Unclassed,X14,0,Mount
+Pascal Eenkhoorn,Unclassed,X15,47,Hills
+Pascal Eenkhoorn,Unclassed,X16,11,Mount
+Pascal Eenkhoorn,Unclassed,X17,0,Flat
+Pascal Eenkhoorn,Unclassed,X18,0,Mount
+Pascal Eenkhoorn,Unclassed,X19,0,Mount
+Pascal Eenkhoorn,Unclassed,X20,196,Hills
+Pascal Eenkhoorn,Unclassed,X21,0,Flat
+Bert Van Lerberghe,Unclassed,X1,0,Flat
+Bert Van Lerberghe,Unclassed,X2,0,Hills
+Bert Van Lerberghe,Unclassed,X3,8,Flat
+Bert Van Lerberghe,Unclassed,X4,0,Hills
+Bert Van Lerberghe,Unclassed,X6,2,Hills
+Bert Van Lerberghe,Unclassed,X7,4,Hills
+Bert Van Lerberghe,Unclassed,X8,4,Flat
+Bert Van Lerberghe,Unclassed,X9,12,Flat
+Bert Van Lerberghe,Unclassed,X10,2,Hills
+Bert Van Lerberghe,Unclassed,X11,2,Hills
+Bert Van Lerberghe,Unclassed,X12,2,Mount
+Bert Van Lerberghe,Unclassed,X14,0,Mount
+Bert Van Lerberghe,Unclassed,X15,0,Hills
+Bert Van Lerberghe,Unclassed,X16,8,Mount
+Bert Van Lerberghe,Unclassed,X17,0,Flat
+Bert Van Lerberghe,Unclassed,X18,0,Mount
+Bert Van Lerberghe,Unclassed,X19,0,Mount
+Bert Van Lerberghe,Unclassed,X20,2,Hills
+Bert Van Lerberghe,Unclassed,X21,0,Flat
+Luke Durbridge,Unclassed,X1,0,Flat
+Luke Durbridge,Unclassed,X2,0,Hills
+Luke Durbridge,Unclassed,X3,0,Flat
+Luke Durbridge,Unclassed,X4,0,Hills
+Luke Durbridge,Unclassed,X6,0,Hills
+Luke Durbridge,Unclassed,X7,0,Hills
+Luke Durbridge,Unclassed,X8,0,Flat
+Luke Durbridge,Unclassed,X9,0,Flat
+Luke Durbridge,Unclassed,X10,0,Hills
+Luke Durbridge,Unclassed,X11,4,Hills
+Luke Durbridge,Unclassed,X12,0,Mount
+Luke Durbridge,Unclassed,X14,0,Mount
+Luke Durbridge,Unclassed,X15,0,Hills
+Luke Durbridge,Unclassed,X16,0,Mount
+Luke Durbridge,Unclassed,X17,0,Flat
+Luke Durbridge,Unclassed,X18,8,Mount
+Luke Durbridge,Unclassed,X19,0,Mount
+Luke Durbridge,Unclassed,X20,0,Hills
+Luke Durbridge,Unclassed,X21,0,Flat
+Elmar Reinders,Unclassed,X1,0,Flat
+Elmar Reinders,Unclassed,X2,0,Hills
+Elmar Reinders,Unclassed,X3,0,Flat
+Elmar Reinders,Unclassed,X4,0,Hills
+Elmar Reinders,Unclassed,X6,0,Hills
+Elmar Reinders,Unclassed,X7,0,Hills
+Elmar Reinders,Unclassed,X8,0,Flat
+Elmar Reinders,Unclassed,X9,0,Flat
+Elmar Reinders,Unclassed,X10,0,Hills
+Elmar Reinders,Unclassed,X11,4,Hills
+Elmar Reinders,Unclassed,X12,0,Mount
+Elmar Reinders,Unclassed,X14,0,Mount
+Elmar Reinders,Unclassed,X15,0,Hills
+Elmar Reinders,Unclassed,X16,0,Mount
+Elmar Reinders,Unclassed,X17,0,Flat
+Elmar Reinders,Unclassed,X18,8,Mount
+Elmar Reinders,Unclassed,X19,0,Mount
+Elmar Reinders,Unclassed,X20,0,Hills
+Elmar Reinders,Unclassed,X21,0,Flat
+Niklas Märkl,Unclassed,X1,43,Flat
+Niklas Märkl,Unclassed,X2,0,Hills
+Niklas Märkl,Unclassed,X3,12,Flat
+Niklas Märkl,Unclassed,X4,0,Hills
+Niklas Märkl,Unclassed,X6,0,Hills
+Niklas Märkl,Unclassed,X7,2,Hills
+Niklas Märkl,Unclassed,X8,0,Flat
+Niklas Märkl,Unclassed,X9,0,Flat
+Niklas Märkl,Unclassed,X10,0,Hills
+Niklas Märkl,Unclassed,X11,0,Hills
+Niklas Märkl,Unclassed,X12,0,Mount
+Niklas Märkl,Unclassed,X14,0,Mount
+Niklas Märkl,Unclassed,X15,0,Hills
+Niklas Märkl,Unclassed,X16,0,Mount
+Niklas Märkl,Unclassed,X17,2,Flat
+Niklas Märkl,Unclassed,X18,0,Mount
+Niklas Märkl,Unclassed,X19,0,Mount
+Niklas Märkl,Unclassed,X20,4,Hills
+Niklas Märkl,Unclassed,X21,0,Flat
+Tim Naberman,Unclassed,X1,0,Flat
+Tim Naberman,Unclassed,X2,0,Hills
+Tim Naberman,Unclassed,X3,0,Flat
+Tim Naberman,Unclassed,X4,0,Hills
+Tim Naberman,Unclassed,X6,0,Hills
+Tim Naberman,Unclassed,X7,2,Hills
+Tim Naberman,Unclassed,X8,0,Flat
+Tim Naberman,Unclassed,X9,0,Flat
+Tim Naberman,Unclassed,X10,0,Hills
+Tim Naberman,Unclassed,X11,0,Hills
+Tim Naberman,Unclassed,X12,0,Mount
+Tim Naberman,Unclassed,X14,0,Mount
+Tim Naberman,Unclassed,X15,0,Hills
+Tim Naberman,Unclassed,X16,0,Mount
+Tim Naberman,Unclassed,X17,2,Flat
+Tim Naberman,Unclassed,X18,0,Mount
+Tim Naberman,Unclassed,X19,0,Mount
+Tim Naberman,Unclassed,X20,4,Hills
+Tim Naberman,Unclassed,X21,5,Flat
+Thomas Gachignard,Unclassed,X1,0,Flat
+Thomas Gachignard,Unclassed,X2,0,Hills
+Thomas Gachignard,Unclassed,X3,0,Flat
+Thomas Gachignard,Unclassed,X4,28,Hills
+Thomas Gachignard,Unclassed,X6,0,Hills
+Thomas Gachignard,Unclassed,X7,0,Hills
+Thomas Gachignard,Unclassed,X8,0,Flat
+Thomas Gachignard,Unclassed,X9,0,Flat
+Thomas Gachignard,Unclassed,X10,0,Hills
+Thomas Gachignard,Unclassed,X11,0,Hills
+Thomas Gachignard,Unclassed,X12,0,Mount
+Thomas Gachignard,Unclassed,X14,0,Mount
+Thomas Gachignard,Unclassed,X15,0,Hills
+Thomas Gachignard,Unclassed,X16,0,Mount
+Thomas Gachignard,Unclassed,X17,0,Flat
+Thomas Gachignard,Unclassed,X18,0,Mount
+Thomas Gachignard,Unclassed,X19,0,Mount
+Thomas Gachignard,Unclassed,X20,8,Hills
+Thomas Gachignard,Unclassed,X21,0,Flat
+Marco Haller,Unclassed,X1,8,Flat
+Marco Haller,Unclassed,X2,0,Hills
+Marco Haller,Unclassed,X3,0,Flat
+Marco Haller,Unclassed,X4,0,Hills
+Marco Haller,Unclassed,X6,2,Hills
+Marco Haller,Unclassed,X7,36,Hills
+Marco Haller,Unclassed,X8,0,Flat
+Marco Haller,Unclassed,X9,0,Flat
+Marco Haller,Unclassed,X10,0,Hills
+Marco Haller,Unclassed,X11,0,Hills
+Marco Haller,Unclassed,X12,0,Mount
+Marco Haller,Unclassed,X14,0,Mount
+Marco Haller,Unclassed,X15,2,Hills
+Marco Haller,Unclassed,X16,0,Mount
+Marco Haller,Unclassed,X17,0,Flat
+Marco Haller,Unclassed,X18,0,Mount
+Marco Haller,Unclassed,X19,0,Mount
+Marco Haller,Unclassed,X20,0,Hills
+Marco Haller,Unclassed,X21,0,Flat
+Fabian Lienhard,Unclassed,X1,8,Flat
+Fabian Lienhard,Unclassed,X2,0,Hills
+Fabian Lienhard,Unclassed,X3,0,Flat
+Fabian Lienhard,Unclassed,X4,0,Hills
+Fabian Lienhard,Unclassed,X6,2,Hills
+Fabian Lienhard,Unclassed,X7,0,Hills
+Fabian Lienhard,Unclassed,X8,0,Flat
+Fabian Lienhard,Unclassed,X9,0,Flat
+Fabian Lienhard,Unclassed,X10,0,Hills
+Fabian Lienhard,Unclassed,X11,0,Hills
+Fabian Lienhard,Unclassed,X12,0,Mount
+Fabian Lienhard,Unclassed,X14,0,Mount
+Fabian Lienhard,Unclassed,X15,2,Hills
+Fabian Lienhard,Unclassed,X16,0,Mount
+Fabian Lienhard,Unclassed,X17,0,Flat
+Fabian Lienhard,Unclassed,X18,0,Mount
+Fabian Lienhard,Unclassed,X19,0,Mount
+Fabian Lienhard,Unclassed,X20,0,Hills
+Fabian Lienhard,Unclassed,X21,0,Flat

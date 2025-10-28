@@ -1,0 +1,12 @@
+Cleaning diagnostics
+Original file : D:\Cycling Performance Analysis\Cycling_Report\Cycling_Report\data\cycling.txt
+Cleaned file : D:\Cycling Performance Analysis\Cycling_Report\Cycling_Report\data\cycling_clean.csv
+Action on points : rows with missing points (<5%) are dropped.
+
+Missing values after cleaning:
+all_riders     0
+rider_class    0
+stage          0
+points         0
+stage_class    0
+dtype: int64
